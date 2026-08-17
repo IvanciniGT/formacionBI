@@ -10,6 +10,7 @@ venv/
 
 # Salidas de conversión y pruebas
 *.pdf
+!notas/*.pdf
 render/
 
 # IDE
