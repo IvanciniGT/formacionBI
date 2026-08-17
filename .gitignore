@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Salidas de conversión y pruebas
+*.pdf
+render/
+
+# IDE
+.vscode/
+.idea/
+
+# Generador de la presentación (no se publica)
+generador/
