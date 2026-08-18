@@ -15,12 +15,12 @@ Tener los datos != Entender los datos.
 Yo puedo tener los datos, todos los datos del mundo y no entender NADA.
 Y cuántos más datos, menos entiendo.
 
-Me hago de forma legítima con 5000 nóminas de todos los empelados de una empresa.
-5000 nóminas = 5000 folios de papel.. Un tacode 500 hojas son 5~6 cms de alto... Tengo medio metro de papeles delante mia.
+Me hago de forma legítima con 5000 nóminas de todos los empleados de una empresa.
+5000 nóminas = 5000 folios de papel.. Un taco de 500 hojas son 5~6 cms de alto... Tengo medio metro de papeles delante de mí.
 Eso son todos los datos que hay acerca de cuándo se paga en esa empresa. Tener los datos = Entender los datos? NO
 
 Puedo leerme las 5000 nóminas. Le dedico 4 días. Cuando acabo... he entendido algo? Tampoco mucho.
-Anécdoticamente puedo recordar el salario más alto... y el más bajo... pero poco más.
+Anecdóticamente puedo recordar el salario más alto... y el más bajo... pero poco más.
 
 Necesito entender cómo se paga en la empresa a los distintos empleados. En base a qué criterios se paga más... Son muchas cosas que tengo que analizar.
 Y básicamente se trata de RESUMIR la información. 5000 datos mi cerebro no es capaz de procesarlos.
@@ -59,7 +59,7 @@ Hay 2 grandes tipos de datos (o de formas de medir los datos) en estadística. U
                             5127€ es una etiqueta que significa que esa persona cobra 5127 euros.
                     Para qué sirven esas etiquetas? PARA CLASIFICAR A LOS SUJETOS DE ANALISIS
                                                     + ORDENAR A LOS SUJETOS
-                                                      Coloquense por orden de salario. Los que cobran más primero, luego los que cobran menos y por último los que cobran nada.
+                                                      Colóquense por orden de salario. Los que cobran más primero, luego los que cobran menos y por último los que cobran nada.
                                                     + Puedo hacer operaciones matemáticas.
                                                       Qué operaciones puedo hacer? DEPENDE.
                     Dentro de los datos CUANTITATIVOS hay 2 tipos (en general pasamos un poco de esto)
@@ -78,7 +78,7 @@ Hay 2 grandes tipos de datos (o de formas de medir los datos) en estadística. U
                                 Puedo decir que una familia tiene la mitad de hijos que la otra? SI     DIVISION
 
                             En Madrid estamos a 15ºC.... Y en Moscú a -15ºC.
-                                Puedo decir que en Madrid hace 15ºC más que en Moscú? SI     RESTA
+                                Puedo decir que en Madrid hace 30ºC más que en Moscú? SI     RESTA
                                 Puedo decir que en Madrid hace el doble de temperatura que en Moscú? NO
 
                             Año de nacimiento de una persona 2000. Qué tipo de datos es? CUANTITATIVO O CUALITATIVO? Cuantitativo.
@@ -114,14 +114,14 @@ RESUMEN:
         ORDINALES:  Son etiquetas con un orden entre ellas  
                     Sirven para clasificar a los sujetos de análisis
                       + Sirven para ordenar a los sujetos de análisis
-    CUALITATIVOS:   Son eqtiquetas, con orden y unidad de medida 
+    CUANTITATIVOS:  Son etiquetas, con orden y unidad de medida
                     Sirven para clasificar a los sujetos de análisis
                       + Sirven para ordenar a los sujetos de análisis
                       + Pueden permitir hacer operaciones matemáticas (depende del tipo de dato cuantitativo)
 
-Y POR DEFINICION, TODO DATO CUALITATIVO ES ORDINAL
-Y POR DEFINICION, TODO DATO ORDINAL ES NOMINAL
 Y POR DEFINICION, TODO DATO CUANTITATIVO ES ORDINAL
+Y POR DEFINICION, TODO DATO ORDINAL ES NOMINAL
+Y POR TANTO, TODO DATO CUANTITATIVO ES TAMBIEN NOMINAL
 
 Y según me interese además puedo cambiar de escala de medición HACIA ABAJO... NUNCA HACIA ARRIBA.
 
@@ -236,7 +236,7 @@ Rebajo el nivel de medición de la variable: PASO DE CUANTITATIVA A ORDINAL
     --------------------------------
     Muy Poco                200
     Poco                    500
-    Normnal                 150
+    Normal                  150
     Bastante                100
     Mogollón                 50
     ----------------------------
@@ -332,7 +332,7 @@ Cada coche expulsa de CO a la atmósfera :
         Gráfica de barras:
 
         |         X  
-        |   X     X     X                   Esta gráfica es simética?
+        |   X     X     X                   Esta gráfica es simétrica?
         |   X     X     X                   Puedo trazar una linea vertical que divida la gráfica en 2 partes simétricas? SI
         |   X     X     X                       TOTALMENTE SIMETRICA.. como las manos.
         +------------------------
@@ -345,14 +345,14 @@ Cada coche expulsa de CO a la atmósfera :
 
 Viven 10 personas... con sus coches.
 Pero están muy mentalizados con el medio ambiente. 
-Se han puesto de acuerdo para ir a comprar el mismo coche (y que les hagan un barato en la tienda).
+Se han puesto de acuerdo para ir a comprar el mismo coche (y que se lo dejen más barato en la tienda).
 Eléctricos... que contaminan poco.
 Cada coche expulsa de CO a la atmósfera :
     
     5gCO/día
     5gCO/día
     5gCO/día
-    5gCO/día                Media: 5x9 + 1000 = 1045 / 10 = 104.5gCO/día
+    5gCO/día                Media: (5x9 + 1000) / 10 = 1045 / 10 = 104.5gCO/día
     5gCO/día                Mediana: 5gCO/día
     5gCO/día
     5gCO/día
@@ -391,12 +391,12 @@ La media en villa arriba de abajo es de    104.5gCO/día
 
         Por cierto... Los salarios en una empresa... pensáis que tienen una distribución simétrica o asimétrica? ASIMETRICA.
         La mayor parte de la gente tiene salarios BAJOS...
-        Y los 4 jerifantes son los que se reparten el turrón... Los salarios altos (SON MANOLOS!!!!) que suben la media de salarios... y que noss hacen pensar que la gente gana más de lo que gana... al ver el salario medio.
+        Y los 4 jerifantes son los que se reparten el turrón... Los salarios altos (SON MANOLOS!!!!) que suben la media de salarios... y que nos hacen pensar que la gente gana más de lo que gana... al ver el salario medio.
         Nunca me fiaría de una media salarial.
         Me interesa mirar la MEDIANA salarial.
 
 
-Hace justicia el dato? Ayuda ese datoa entender la realidad de los pueblos?
+Hace justicia el dato? Ayuda ese dato a entender la realidad de los pueblos?
 Si solo miro la media, qué pueblo pienso que están más concienciado/preocupado por el medio ambiente? villa arriba de arriba
 Y nada más lejos de la realidad. En Villa arriba de abajo la gente está mucho más concienciada que en villa arriba de arriba.
 Si tuviera que montar un negocio ecológico lo montaría posiblemente en villa arriba de abajo, que la gente está por la labor (en el rollito, en el mood!)
@@ -414,7 +414,7 @@ Otras veces la media me despista.. y entonces preferimos usar la mediana.
 
 Cuándo ? Dependiendo de la SIMETRIA de los datos.
 
-En las práctica lo solemos hace más fácil.
+En las práctica lo solemos hacer más fácil.
 Calculo las 2, media y mediana.
 Si son más o menos parecidas, me quedo con la media.
 Si son muy diferentes, en el informe, gráfica, cuadro de mando, lo que sea, pongo la mediana!
@@ -429,7 +429,7 @@ RESUMIENDO:
 
     La moda solo si el dato es nominal.
     Si el dato es ordinal: MEDIANA
-    Si el dato es cuantitativo: MEDIANA o MEDIA despendiendo de si se parecen o no.
+    Si el dato es cuantitativo: MEDIANA o MEDIA dependiendo de si se parecen o no.
                                 Si se parecen: MEDIA
                                 Si no se parecen MEDIANA (o incluso ambas)
 
@@ -460,7 +460,7 @@ Mirad este ejemplo:
                                       Raiz de la media de esas diferencias: 0 cm
                                             Media:      175cm *
                                             Mediana:    175cm
-                                      Multiplico la desviación típica por 1.4 = 0
+                                      Multiplico la desviación típica por 1.42 = 0
                                       Calculo el intervalo:
                                         Mínimo: 175 - 0 = 175
                                         Máximo: 175 + 0 = 175
@@ -475,11 +475,11 @@ Mirad este ejemplo:
                                          Raiz de la media de esas diferencias: 10 cm
                                             Media:      175cm
                                             Mediana:    175cm
-                                        Multiplico la desviación típica por 1.4 = 14
+                                        Multiplico la desviación típica por 1.42 = 14.2
                                         Calculo el intervalo:
-                                        Mínimo: 175 - 14 = 161
-                                        Máximo: 175 + 14 = 189
-                                        Entre 161 y 189 hay al menos el 50% de los habitantes de la casa. Osea, todos los habitantes de la casa.
+                                        Mínimo: 175 - 14.2 = 160.8
+                                        Máximo: 175 + 14.2 = 189.2
+                                        Entre 160.8 y 189.2 hay al menos el 50% de los habitantes de la casa. Osea, todos los habitantes de la casa.
 
     CASA 3:
         165cm   175cm   175cm   185cm
@@ -496,28 +496,28 @@ Mirad este ejemplo:
                                            Raiz de la media de esas diferencias: 5 cm
                                             Media:      175cm
                                             Mediana:    175cm
-                                        Multiplico la desviación típica por 1.4 = 7
+                                        Multiplico la desviación típica por 1.42 = 7.1
                                         Calculo el intervalo:
-                                        Mínimo: 175 - 7 = 168
-                                        Máximo: 175 + 7 = 182
-                                        Entre 168 y 182 hay al menos el 50% de los habitantes de la casa. Osea, todos los habitantes de la casa.
+                                        Mínimo: 175 - 7.1 = 167.9
+                                        Máximo: 175 + 7.1 = 182.1
+                                        Entre 167.9 y 182.1 hay al menos el 50% de los habitantes de la casa. Osea, todos los habitantes de la casa.
 
     CASA 4:
         155cm   165cm   185cm   195cm
          400cm²  100cm²   100cm²   400cm²   Diferencias a la media al cuadrado
-                                        Media de esas diferencias: 250 cm
+                                        Media de esas diferencias: 250 cm²
                                         Raiz de la media de esas diferencias: 15.81 cm
                                             Media:      175cm
                                             Mediana:    175cm
     CASA 5:
         150cm   150cm   200cm   200cm
         625cm²  625cm²  625cm²  625cm²   Diferencias a la media al cuadrado
-                                        Media de esas diferencias: 625 cm
+                                        Media de esas diferencias: 625 cm²
                                         Raiz de la media de esas diferencias: 25 cm
                                             Media:      175cm
                                             Mediana:    175cm
 
-Osea, tengo 4 casas que dan misma media y misma mediana.. y se parecen en algo los habitantes de esas 4 casas? NO. Son muy diferentes.
+Osea, tengo 6 casas que dan misma media y misma mediana.. y se parecen en algo los habitantes de esas 6 casas? NO. Son muy diferentes.
 
 Si solo tuviera el dato de media y mediana:
 
@@ -525,18 +525,19 @@ Si solo tuviera el dato de media y mediana:
         Casa 1      175cm       175cm
         Casa 2      175cm       175cm
         Casa 3      175cm       175cm
+        Casa 3.5    175cm       175cm
         Casa 4      175cm       175cm
         Casa 5      175cm       175cm
 
-Si solo veo esa tabla, y no tengo el detalle de todos los datos como arriba, tendería yo a pensar que los habitantes de esas 4 casas son muy parecidos... y no es así.
+Si solo veo esa tabla, y no tengo el detalle de todos los datos como arriba, tendería yo a pensar que los habitantes de esas 6 casas son muy parecidos... y no es así.
 
 Este es el problema de dar solamente la media o la mediana. Que varios grupos diferentes pueden tener la misma media y mediana, pero ser muy diferentes entre sí.
 
 Tengo que comprar 2 bancos para sentarse.. Los hay de tres tallas. Grandes, medianos, y pequeños.
-Para la casa 1: 2 medianos
-Para la casa 2: 1 pequeño y 1 grande
-Para la casa 3: 2 medianos
-Para la casa 4: 1 pequeño y 1 grande
+Para la casa 1:   2 medianos
+Para la casa 3.5: 2 medianos
+Para la casa 2:   1 pequeño y 1 grande
+Para la casa 5:   1 pequeño y 1 grande
 
 Aquí entran las medias de dispersión. 
 Las de tendencia central me informan de "por donde van los tiros" de mis datos. Por dónde está la cosa con mi variable
@@ -566,12 +567,14 @@ La interpretación la da la Regla de Chebyshev.
     Salario medio de 1500€ con una desviación típica de 200€.
     Cómo se interpreta eso?
     La forma de interpretarlo es la siguiente:
-    - Tomo la desviación típica y la multiplico por RAIZ DE 2 = 1.414 (redondeo a 1.4)
-    - 200 x 1.4 = 280
+    - Tomo la desviación típica y la multiplico por RAIZ DE 2 = 1.4142
+      (OJO: redondeo SIEMPRE HACIA ARRIBA, a 1.42. Si redondeo a 1.4 el intervalo
+       se queda corto y ya solo garantiza el 49%, no el 50%)
+    - 200 x 1.42 = 284
     - Lo sumo y resto de la media:
-      - 1500 - 280 = 1220
-      - 1500 + 280 = 1780
-    - Al menos el 50% de los empleados cobran entre 1220€ y 1780€.
+      - 1500 - 284 = 1216
+      - 1500 + 284 = 1784
+    - Al menos el 50% de los empleados cobran entre 1216€ y 1784€.
     - Es decir, si tengo al menos el 50% de la gente, eso significa la MAYOR PARTE DE LA GENTE.
     - Y si son la mayor parte alrededor de la media, eso significa la mayor parte MAS REPRESENTATIVA de la gente.
 
@@ -603,14 +606,14 @@ Imaginad el siguiente escenario:
   - ???
 
     Me interesa otra cosa.
-    Me interesa GARANTARIZAR que la inmensa mayoría de las conexiones se establecen en menos de un tiempo determinado que considero aceptable!
+    Me interesa GARANTIZAR que la inmensa mayoría de las conexiones se establecen en menos de un tiempo determinado que considero aceptable!
     ESO ME LO OFRECEN LAS MEDIDAS DE POSICION, por ejemplo los PERCENTILES!
 
     Aquí me interesaría un P95 o un P99
     Me interesa saber el tiempo máximo que tarda en establecerse la conexión para el 95% o el 99% de los usuarios.
     Oye que algunos les tarda más... Cosas raras pasan.. que voy a hacer. No me voy a cortar las venas. Tengo que asegurar que LA INMENSA MAYORIA de la gente pueda trabajar bien! Que tengo a 2 jodidos... mala suerte... Intentaré que no... pero mala suerte. TE HA TOCADO. 
     Mi trabajo no es para ti... ES PARA EL COLECTIVO! Mi prioridad es que la inmensa mayoría trabaje bien.
-    Que tengo 5 personas con problemas... ANECDOTAS... Que si quiero analizaré COMO CASOS SUELTOS... no como colectivo. 5 datos / usuarios: NO SON UN COPLECTIVO.
+    Que tengo 5 personas con problemas... ANECDOTAS... Que si quiero analizaré COMO CASOS SUELTOS... no como colectivo. 5 datos / usuarios: NO SON UN COLECTIVO.
     Quizás menchu tiene el windows desactualizado y por eso está jodida.
     Quizás Gertru tiene el antivirus a tope... y por eso le va lento.
     Quizás manolo esta conectado por telefono... y por eso le va lento.
@@ -643,7 +646,7 @@ El objetivo final es tener CUADROS DE MANDO, INFORMES, GRAFICAS, INDICADORES (ge
 Claro.. pero eso es la ESTADISTICA... porque llamarlo entonces BI. Porque para poder hacer esos análisis/aplicar esas técnicas, los datos habrá que procesarlos y guardarlos de forma OPTIMIZADA en soportes INFORMATICOS de forma que esas gráficas, cuadros de mando, informes, indicadores se puedan generar de forma rápida y eficiente.
 
 La estadística me dice como generar / resumir los datos para entenderlos mejor.
-Pero eso lo podría hacer en papel y con lapicero y calculadora... y tardar meses en ir calculando toda esa informaicón.
+Pero eso lo podría hacer en papel y con lapicero y calculadora... y tardar meses en ir calculando toda esa información.
 Lo que se trata es de poder hacer esos cálculos de forma rápida y eficiente, para poder tomar decisiones rápidas en la empresa, sobre millones de datos. Y entonces NO ES SOLO APLICAR TECNICAS ESTADISTICAS.
 TAMBIEN ES APLICAR TECNICAS INFORMATICAS. Y eso es BI. La estadística es una parte de BI, pero no toda la parte de BI.
 
@@ -666,27 +669,27 @@ BBDD (bases de datos)
     De hecho, puede incluso dejar FRITO el servidor tratar de hacer una de estas consultas de analitica de datos.
 
 Para evitar este problema, muchas (todas) las empresa, van sacando datos de sus BBDD de producción cuando ya no los usan activamente.
-    Si soy una compañía de seguros, el parte de siniestro que ocurrío a Menchu hace 3 años.. y que se cerró hace 2, NO ME INTERESA TENERLO OCUPANDO ESPACIO en la BBDD de producción. Ese datos esta MUERTO Y ENTERRAO!
+    Si soy una compañía de seguros, el parte de siniestro que le ocurrió a Menchu hace 3 años.. y que se cerró hace 2, NO ME INTERESA TENERLO OCUPANDO ESPACIO en la BBDD de producción. Ese dato está MUERTO Y ENTERRAO!
     Pero cuidado... una cosa es que no me valga para la OPERACION DIARIA, y otra cosa es que:
     - No tenga OBLIGACION LEGAL de mantener el dato X años.
     - Que pueda sacarle partido haciendo ANALISIS DE DATOS.
-      Soy un banco y doy préstamos. Hay prestamos ya cerrados. vencidos.. que se pagaron. O NO SE PAGARON y quedaron como deuda. Me puede interesar analizar esos datos con perspectiva para saber que tipo de cliente SI ME CUMPLE CON LOS PAGOS y cuales no... para decidir a futuro a quien le voy a dar un prestamo.
+      Soy un banco y doy préstamos. Hay préstamos ya cerrados. vencidos.. que se pagaron. O NO SE PAGARON y quedaron como deuda. Me puede interesar analizar esos datos con perspectiva para saber que tipo de cliente SI ME CUMPLE CON LOS PAGOS y cuales no... para decidir a futuro a quien le voy a dar un préstamo.
 
-Y esos datos los guardan en un DATA LAKES
+Y esos datos los guardan en un DATA LAKE
 
 Un data lake es otro tipo "de base de datos". Pero que guarda información en bruto histórica.
 Guarda datos, según salen de las BBDD de producción de las empresas.... a la espera de que esos datos puedan usarse en un futuro para algo... Para qué? NPI
 
 Es un cajón desastre donde voy echando TODO EL HISTORIAL DE DATOS DE LA EMPRESA.
 
-En el momento que decido que ciertos datos son interesantes para una finalidad (ANALISIS) los preparo (COCINO) para que pueda hacer esa finalidad de forma eficiente. Y ya cocinados los dejo en un DATA WARE HOUSE
+En el momento que decido que ciertos datos son interesantes para una finalidad (ANALISIS) los preparo (COCINO) para que pueda hacer esa finalidad de forma eficiente. Y ya cocinados los dejo en un DATA WAREHOUSE
 
-Un DATAWARE HOUSE es "otro tipo de BBDD" que tiene datos históricospreparados para un uso concreto: Por ejemplo, para hacer Business Intelligence.
+Un DATA WAREHOUSE es "otro tipo de BBDD" que tiene datos históricos preparados para un uso concreto: Por ejemplo, para hacer Business Intelligence.
 
-    En estas "bases de datos" que llamamos DATA WARE HOUSE, los datos se guardan de forma que se optimicen la ejecución de procesos OLAP: Procesos de Análisis de datos.
+    En estas "bases de datos" que llamamos DATA WAREHOUSE, los datos se guardan de forma que se optimicen la ejecución de procesos OLAP: Procesos de Análisis de datos.
 
-    BBDD         -> DATALAKES            -> DATAWAREHOUSE
-    Datos vivos     Historico en bruto      Histórico cocinado/preparado para un objetivo (BI)
+    BBDD         -> DATA LAKE            -> DATA WAREHOUSE
+    Datos vivos     Histórico en bruto      Histórico cocinado/preparado para un objetivo (BI)
 
 Creamos programas que mueven los datos entre las BBDD y los datalakes y los datawarehouse. Esos programas reciben el nombre de ETLs.
 Una ETL (Extract, Transform, Load) es un programa que extrae datos de una fuente de dato, los transforma y los carga en otro tipo de BBDD.
