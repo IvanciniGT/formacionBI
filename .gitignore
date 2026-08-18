@@ -19,3 +19,6 @@ render/
 
 # Generador de la presentación (no se publica)
 generador/
+
+# Tests con las respuestas marcadas: no se publican
+notas/tests/
