@@ -103,6 +103,11 @@ Pero realmente hay muchas variantes:
 EL -> Extract and Load (sin transformación)
 TEL -> Transformo los datos en origen, los saco de allí y los cargo en destino.
 ETL -> Extraigo los datos, los transformo y los cargo en destino.
+ELT -> Extraigo los datos, los cargo EN BRUTO en destino y allí los transformo.
+       OJO A ESTA. Es la única variante que tiene nombre propio en la industria,
+       y es la que domina hoy en los entornos cloud: el almacén tiene más
+       capacidad de cálculo que cualquier servidor intermedio, así que compensa
+       cargar primero y cocinar después, dentro del propio almacén.
 TELT -> Transformo los datos en origen, los saco de allí y los cargo en destino. Una vez cargados, los transformo en destino.
 
 Estos conceptos: BBDD/DataLake/DataWarehouse/ETL son conceptos relativos a la forma de almacenar los datos... y de moverlos entre esos tipos de almacenamiento. 
@@ -132,6 +137,17 @@ Con respecto al análisis de datos hay varios tipos de análisis diferentes que 
         En el año 2024 hemos vendido 800k zapatos
         En el año 2025 hemos vendido 1000k zapatos
         Espero, pienso, debería si todo va bien este año 2026 vender 1200k zapatos.
+
+        OJO A LA LINEA QUE ACABAMOS DE CRUZAR:
+        Contar lo que vendí de 2020 a 2025 es DESCRIPTIVO. Es BI en sentido estricto.
+        Decir que en 2026 venderé 1200k YA NO LO ES: eso es ANALITICA PREDICTIVA.
+        Y ahí es donde empieza el juego de los adivinos.
+
+        La escalera completa, que es el índice del resto del curso:
+            ¿Qué ha pasado?       DESCRIPTIVA    informes, cuadros de mando
+            ¿Por qué ha pasado?   DIAGNOSTICA    drill-down, segmentación
+            ¿Qué puede pasar?     PREDICTIVA     <- aquí empieza la adivinación
+            ¿Qué debería hacer?   PRESCRIPTIVA
         Como no tengo almacenes suficientes para tantos zapatos... Hay que alquilar almacenes. DECISION DE NEGOCIO BASADA EN DATOS!
 
 - Data Mining (Minería de datos)
@@ -154,7 +170,7 @@ Con respecto al análisis de datos hay varios tipos de análisis diferentes que 
     Y hay una disciplina entera dentro del mundo del MACHINE LEARNING para la generación de redes neuronales: DEEP LEARNING (Aprendizaje profundo). Que es la que más éxito ha dado en los últimos años.
 
 Ejemplo.
-Sease una compañía de Alarmas!
+Sea una compañía de Alarmas!
 Esa empresa instala alarmas en casas/negocios.
 Esas alarmas tienen un panel de control... Antes iba con claves (teclado) hoy en día con un llaverito.
 Pones llaverito y activa/desactiva alarma
@@ -173,7 +189,7 @@ Resulta que los humanos generamos patrones de uso de las alarmas. Las ponemos a 
 Y se puede hacer un seguimiento de esos patrones.
 Igual que puedo hacer un seguimiento de cuándo se ROMPEN ESOS PATRONES!
 Y de repente se cruza esa BBDD con otra BBDD de bajas de clientes.
-Y sorpresa. Se identifica que tyras ciertas rupturas de patrón hay clientes que se dan de baja pasado un tiempo.
+Y sorpresa. Se identifica que tras ciertas rupturas de patrón hay clientes que se dan de baja pasado un tiempo.
 Por qué ? Ni idea. El data mining no lo cuenta. SOLO IDENTIFICA ESE HALLAZGO, ESE PATRON.
 
 Esa información se pasa al dpto de marketing y se ponen a investigar... Llamadas de teléfono, emails.
@@ -230,6 +246,13 @@ Edad del conductor.
     Más edad implica más experiencia al volante (a priori)... si muchos años que tiene carnet y hace bastantes kms al año si no no.
     Ahora.. más años implica menores REFLEJOS.
 Sexo, Edad -> AGRESIVIDAD AL CONDUCIR.
+
+    OJO CON EL SEXO: en la Unión Europea NO SE PUEDE USAR para tarificar seguros.
+    Lo prohibió el Tribunal de Justicia de la UE (sentencia Test-Achats, 2011,
+    en vigor desde diciembre de 2012).
+    Y es un caso precioso: la variable ES estadísticamente predictiva y aun así
+    está PROHIBIDO usarla. Que un dato prediga bien no significa que se pueda
+    usar. Ahí tenemos el debate del sesgo y la ética en los modelos.
 
 Kilometros al año:
     - Más kilometros = Más experiencia           -> A priori - probabilidad de accidente
@@ -294,13 +317,16 @@ Una cosa es la capacidad total del disco... y otra lo más grande que puedo guar
 Imaginad una habitacion Grande, pero la lleno de estanterías con huecos muy pequeños.
 En total quizás tengo 20m3 de espacio de almacenaje, pero por como estan montadas las estanterias no entran cajas más grandes que una caja de zapatos.
 
-Un formato como FAT16 solo admite ficheros de no más de 2Gbs aunque haya libres 400Gbs de espacio en el disco.
+Un formato como FAT32 solo admite ficheros de no más de 4Gbs, aunque el disco tenga
+libres 400Gbs de espacio. Por eso el archivo de 4Gbs del USB de 16Gbs NO ENTRA si el
+USB viene formateado en FAT32, que es como vienen casi todos de fábrica.
+(FAT16, el anterior, era aún peor: 2Gbs por fichero.)
 
 Bueno... hay formatos que soportan archivos más grandes... pero todos tienen límite.
-Y el primier límite me lo dan los discos físicos. 
+Y el primer límite me lo dan los discos físicos. 
 Puedo comprar discos de 2Tbs, 10 Tbs
-Pero.. y si tengo un archivos de 20eB = 20.000 Tbs Qué disco compro? NO EXISTE. Qué formato le pongo? NO EXISTE
-Y no hablemos de si tengo un archivo de 20ZB = 20.000.000 Tbs Qué disco compro? NO EXISTE. Qué formato le pongo? NO EXISTE
+Pero.. y si tengo un archivos de 20eB = 20.000.000 Tbs (1 exabyte = 1 millón de Tbs) Qué disco compro? NO EXISTE. Qué formato le pongo? NO EXISTE
+Y no hablemos de si tengo un archivo de 20ZB = 20.000.000.000 Tbs (1 zettabyte = 1000 exabytes) Qué disco compro? NO EXISTE. Qué formato le pongo? NO EXISTE
 
 PROBLEMON!AHORA QUE? QUE ME QUEDA?
 
@@ -317,26 +343,30 @@ Que deben llegar a destino en menos de 500ms para que el juego tenga sentido, se
 
 Genero datos a cascoporro. Y tienen una vida útil muy baja (500ms). Si no llegan ya no son útiles.
 NO QUIERO ANALIZAR LOS DATOS. NO QUIERO ALMACENAR LOS DATOS. SOLO NECESITO TRANSMITIR LOS DATOS.
-No hay compoutadora en el mundo capaz de soportar 1.2 millones de mensajes/segundo. 
+No hay computadora en el mundo capaz de soportar 1.2 millones de mensajes/segundo. 
 
 PROBLEMON!AHORA QUE? QUE ME QUEDA?
 
 A estos problemas da solución el BIG DATA.
-Básicamente se trata de formar una GRANJA DE COMPUTADORAS (de mierda) - COMMODITY HARDWARE pero poníendolos todos aa trabajar como si fueran 1 solo.
+Básicamente se trata de formar una GRANJA DE COMPUTADORAS (de mierda) - COMMODITY HARDWARE pero poniéndolos todos a trabajar como si fueran 1 solo.
 
 BIGDATA es cuando creo esa granja e instalo programas y creo programas especiales para sacar provecho a esa GRANJA de computadoras.
 Tiene que ver con INFRAESTRUCTURA + SOFTWARE
 
 Quien arranca con esto es GOOGLE. 
 
-Crea un producto llamado BIGTABLE. Para escrapear la web.. y atender a las queries de los usuarios.
-Y CREARON SU PROPIO SISTEMA DE ARCHIVOS PARA FORMATO: GFS (GOOGLE FILE SYSTEM)
+Para escrapear la web y atender a las queries de los usuarios va montando tres piezas,
+y EN ESTE ORDEN:
+   2003  GFS (GOOGLE FILE SYSTEM)  su propio sistema de archivos distribuido
+   2004  MAPREDUCE                 su forma de repartir el cálculo por la granja
+   2006  BIGTABLE                  su almacén de datos sobre todo lo anterior
 
 Y publicaron unos papers de cómo lo habían hecho.
-Posteriormente un hombrecillo creo una copia de esos programas/formato: HADOOP y lo hizo opensource.
+Posteriormente Doug Cutting (con Mike Cafarella) creó una copia opensource de esos
+programas: HADOOP.
 ESE ES EL ORIGEN DEL BIGDATA.
 
-Hoy en día, en muchas empresas, principalmente por el mal uso del término por parte de muchos periodistas y comentaristas, se usa el término bigdata para referirse a técnicas de análisis de datos. Pero no tierne porqué ser asi.
+Hoy en día, en muchas empresas, principalmente por el mal uso del término por parte de muchos periodistas y comentaristas, se usa el término bigdata para referirse a técnicas de análisis de datos. Pero no tiene por qué ser así.
 
 ---
 
@@ -348,7 +378,7 @@ Hoy vamos a hablar de los tipos de datos desde el punto de vista informático. E
 Los ordenadores por dentro hablan en ceros y unos (binario). En realidad eso es mentira.
 Los ordenadores entienden de estados duales:
 - Entra corriente por una patilla del microprocesador o no entra corriente en un momento dado?
-- Entra corriente por un clabe de red o no entra corriente por un cable de red en un momento dado?
+- Entra corriente por un cable de red o no entra corriente por un cable de red en un momento dado?
 - Hay un trozo del HDD magnetizado o no?
 
 Los humanos solemos asignar a esos estados duales un 0 o un 1.
@@ -357,7 +387,7 @@ Si no hay un trozo del disco magnetizado -> 0
 Si entra corriente por un cable de red -> 1
 Si no entra corriente por un cable de red -> 0
 
-Lo represnetamos así apra entendernos. Y es una buena aproximación.
+Lo representamos así para entendernos. Y es una buena aproximación.
 
 Los datos los guardamos en 2 sitios dentro de un ordenador:
 - RAM
@@ -449,7 +479,7 @@ Incluso, siendo números, puede haber variaciones:
 Esto son las CODIFICACIONES. Sistemas que nos permiten representar datos complejos en binario (ceros y unos).
 
 Qué pasa con los textos?
-Vamnos a representar letra a letra: "FEDERICO": F, E, D, E, R, I, C, O
+Vamos a representar letra a letra: "FEDERICO": F, E, D, E, R, I, C, O
 
 Cuántos caracteres tenemos potenciales para guardar?
 28-29 letras... En informática: A a á à ä â Son diferentes grafías... Son diferentes caracteres.
@@ -462,13 +492,16 @@ Los españoles necesitamos más caracteres. Ñ, á, é, í, ó, ú, ü, ¡, ¿, 
 Los chinos? FLIPAS... El alfabeto chino son más de 8000 caracteres diferentes. Y eso es solo el chino simplificado. El chino tradicional son más de 50.000 caracteres diferentes.
 Japonés? FLIPAS... El alfabeto japonés son más de 2000 caracteres diferentes. Y eso es solo el japonés simplificado. El japonés tradicional son más de 50.000 caracteres diferentes.
 
-Hay un estandar que recoje TODOS LOS CARACTERES QUE USA LA HUMANIDAD: UNICODE. Va por unos 150.000 caracteres diferentes. Y sigue creciendo.
+Hay un estandar que recoge TODOS LOS CARACTERES QUE USA LA HUMANIDAD: UNICODE. Va por unos 150.000 caracteres diferentes. Y sigue creciendo.
 A ver.. yo soy español no uso chino... no necesito tanta variedad.
 Y los americanos menos aún.
 
-Hay distintos JUEGOS DE CARACTERES depuendiendo los caracteres que quiera representar.
+Hay distintos JUEGOS DE CARACTERES dependiendo los caracteres que quiera representar.
 
-    El más simple ASCII 256 caracteres diferentes. Suficiente para los americanos.
+    El más simple ASCII: 128 caracteres diferentes (usa solo 7 de las 8 casillas).
+    Suficiente para los americanos.
+    Al aprovechar la octava casilla llegamos a 256 y aparecen los juegos "extendidos",
+    como ISO-8859-1 (latin-1), que es el que mete la ñ y las vocales acentuadas.
 
                             ESPAÑA
                 ASCII       ISO-8859-1     UTF-8
@@ -493,8 +526,10 @@ Soporta todos los caracteres de UNICODE.
 Un caracter ocupa:
 - Si es un caracter simplón: A-Za-z0-9., etc. -> 1 byte (8 casillas)
 - Si es un poco más complejo: á, é, í, ó, ú, ü, ñ, à, etc. -> 2 bytes (16 casillas)
-- Si el caracter es mu raro (pa' nosotros: chino, japonés, coreano, árabe, etc.) -> 4 bytes (32 casillas)
-- Es un sistema de codificación variable. Un caracter puede ocupar 1, 2 o 4 bytes dependiendo de su complejidad.
+- Si es de otro alfabeto: árabe, hebreo, griego, cirílico -> 2 bytes (16 casillas)
+- Si el caracter es mu raro (pa' nosotros: chino, japonés, coreano) -> 3 bytes (24 casillas)
+- Y los rarísimos, como los emojis -> 4 bytes (32 casillas)
+- Es un sistema de codificación variable. Un caracter puede ocupar 1, 2, 3 o 4 bytes dependiendo de su complejidad.
 - UTF empieza como ASCII y va añadiendo caracteres según la necesidad. Por eso es un sistema de codificación variable.
 
 En 1 byte puedo guardar: 2^8 = 256 valores diferentes... Si son números positivos: 0-255
@@ -531,7 +566,8 @@ Y otra cosa es cómo voy a guardar los datos para que ese análisis sea rápido 
 RAPIDO / BARATO son 2 restricciones / variables con las que tengo que jugar a la hora de diseñar un proyecto BI. Tengo que minimizar el coste de almacenamiento y maximizar la velocidad de análisis.
 
 Desde el punto de vista informático hablamos de:
-- Datos booleanos: 1 bytes (permiten guardar hasta 2 valores diferentes)
+- Datos booleanos: conceptualmente 1 BIT (2 valores), aunque en la práctica casi
+  todos los sistemas reservan 1 byte entero para guardarlo
 - Datos numéricos:
   - Enteros:
       - Cortos: 1 byte (permiten guardar hasta 256 valores diferentes)
@@ -539,16 +575,17 @@ Desde el punto de vista informático hablamos de:
       - Largos: 4 bytes (permiten guardar hasta 4.294.967.296 valores diferentes)
       - Muy largos: 8 bytes (permiten guardar hasta 18.446.744.073.709.551.616 valores diferentes)
     - Decimales:
-      - Cortos: 4 bytes (permiten guardar hasta 7 cifras decimales)
-      - Largos: 8 bytes (permiten guardar hasta 15 cifras decimales)
-      - Muy largos: 16 bytes (permiten guardar hasta 34 cifras decimales)
+      - Cortos: 4 bytes (unas 7 cifras SIGNIFICATIVAS, no decimales)
+      - Largos: 8 bytes (unas 15 cifras significativas)
+      - Muy largos: 16 bytes (unas 34 cifras significativas)
 - Fechas
   - Fecha:        4 bytes
   - Fecha y hora: 8 bytes 
 - Textos (UTF-8)... los contamos por caracter:
   - Caracter simplón: 1 byte
-  - Caracter un poco más complejo: 2 bytes
-  - Caracter muy raro: 4 bytes
+  - Caracter un poco más complejo (á, ñ) u otro alfabeto: 2 bytes
+  - Caracter muy raro (chino, japonés, coreano): 3 bytes
+  - Emojis y similares: 4 bytes
 
 Estos son los principales tipos de datos. 
 Hay más que soportan distintos sistemas:
@@ -574,7 +611,7 @@ Por ejemplo:
     Como tenga que guardar esto como caracteres... necesito la hueva
         España -> 7 bytes
         Francia -> 7 bytes
-        Estados Unidos de América -> 27 bytes
+        Estados Unidos de América -> 26 bytes (la é ocupa 2)
     Ahora si los codifico como números:
         España -> 1
         Francia -> 2
@@ -583,7 +620,9 @@ Por ejemplo:
         En total 255 paises.
 
         En 1 bytes me entran 255 paises. Perfecto.
-        Aquí no he ahorrado un 45 o un 55% ... Aquí ahorro un 90% del espacio en disco. De 41 bytes a 1 byte.
+        Aquí no he ahorrado un 45 o un 55%.
+        Mirándolo por registro: "Estados Unidos de América" pasa de 26 bytes a 1 byte.
+        Un 96% de ahorro. Y los tres juntos, de 40 bytes a 3.
 
 Este trabajo le hacemos muchísimo en transformación de datos. 
 A nosotros, desde el punto de vista informático nos interesaría que todos los datos los pudieramos representar como números.
@@ -622,7 +661,7 @@ Esto es una transacción que afecta a un solo expediente. Es una actualización 
 En un datawarehouse quiero poder consultar el estado de todos los expedientes del año 2026, para montar una gráfica.
 Esto necesita datos de muchos expedientes. Es una consulta masiva de datos. OLAP
 
-Esto noo se ve solo afectado por el tipo de dato informático. Eso hay que tenerlo en cuenta.. pero hay más.
+Esto no se ve solo afectado por el tipo de dato informático. Eso hay que tenerlo en cuenta.. pero hay más.
 
 Hay 2 grandes formas de guardar información de una tabla en un sistema informático:
 - Orientada a filas      EXCEL, BBDD relacionales
@@ -630,7 +669,7 @@ Hay 2 grandes formas de guardar información de una tabla en un sistema informá
 
 > Qué significa esto?
 
-Imagihnad que tengo los datos de 4 usuarios de un sistema informático. 
+Imaginad que tengo los datos de 4 usuarios de un sistema informático. 
 Cada usuario tiene: Id, Nombre, Apellidos, Edad y Email
 
     ID | Nombre | Apellidos | Edad | Email
@@ -677,11 +716,11 @@ Necesitamos ir haciendo por separado el análisis estadístico de los datos y el
 
 ---
 
-# Cómo se guardan los datos en las BBDD y en los datawarehouses. En cuanto la su NORMALIZACION.
+# Cómo se guardan los datos en las BBDD y en los datawarehouses. En cuanto a su NORMALIZACION.
 
     En las BBDD de producción los datos tienden a estar normalizados.
     Qué significa esto?
-    Imaginaad que tenemos datos de empleados y empresas. Cada empleado trabaja en una empresa. Cada empresa tiene un nombre, una dirección, un CIF, etc. Y cada empleado tiene un nombre, un apellido, un DNI, una fecha de nacimiento, etc.
+    Imaginad que tenemos datos de empleados y empresas. Cada empleado trabaja en una empresa. Cada empresa tiene un nombre, una dirección, un CIF, etc. Y cada empleado tiene un nombre, un apellido, un DNI, una fecha de nacimiento, etc.
 
 
     Tabla:
@@ -743,7 +782,7 @@ Necesitamos ir haciendo por separado el análisis estadístico de los datos y el
         3 | 03/01/2023  | Producto A | 20       | 5.00   | 1
         4 | 04/01/2023  | Producto C | 15       | 20.00  | 3
 
-        Imaginad que un interés esoecial que tengo es analizar en base al día de la semana. Quiero saber cuántas ventas he tenido en lunes, martes, miércoles, jueves, viernes, sábado y domingo.
+        Imaginad que un interés especial que tengo es analizar en base al día de la semana. Quiero saber cuántas ventas he tenido en lunes, martes, miércoles, jueves, viernes, sábado y domingo.
         Para ello, en lugar de calcularlo cada vez que hago la consulta, puedo precalcularlo y guardarlo en la tabla de ventas en el datawarehouse:
 
         ID| Fecha       | Producto   | Cantidad | Precio | ClienteID | DiaSemana | Mes
@@ -831,7 +870,7 @@ Muchas veces, como parte del proceso de preparación de los datos, separo los da
 
 El estudio de valores perdidos es imprescindible hacerlo en la fase de preparación de los datos.
 
-Todos estos estudios y preparaciones de los datos, suelen requewrir mucha intervención humana. Y eso es caro. Y eso es lo que hace que los proyectos de BI sean caros y lentos. Depende de la calidad de origen de los datos el proyecto puede ser más sencillo o extraordinariamente complejo. Y eso es algo que no podemos controlar. Nos lo encontramos y tenemos que adaptarnos a ello.
+Todos estos estudios y preparaciones de los datos, suelen requerir mucha intervención humana. Y eso es caro. Y eso es lo que hace que los proyectos de BI sean caros y lentos. Depende de la calidad de origen de los datos el proyecto puede ser más sencillo o extraordinariamente complejo. Y eso es algo que no podemos controlar. Nos lo encontramos y tenemos que adaptarnos a ello.
 
 ES ALGO QUE TENGO QUE ANALIZAR A PRIORI, antes de comprometerme y de dar fechas y presupuesto.
 
@@ -843,7 +882,7 @@ ES ALGO QUE TENGO QUE ANALIZAR A PRIORI, antes de comprometerme y de dar fechas 
 # El espacio en disco es caro o barato?
 
 Los HDD son de las cosas más caras que hay en un entorno empresarial.
-Y muchas veces, si no estaos metidos en este mundo es algo que no entendemos.
+Y muchas veces, si no estamos metidos en este mundo es algo que no entendemos.
 
 Para casa, puedo ir al Mediamarkt (no soy tonto!) y comprar un disco de 2Tbs por 100€.
 Pues no es tanto. Ahñi entran la hueva de fotos y peliculas.
@@ -855,12 +894,23 @@ En la empresa esta cuenta no sale. Por muchos motivos.
    Claro que en casa escribo la foto 1 vez... y la leo a los 6 meses (2 veces al año) Casi ni lo uso.
    En la empresa necesito un HDD que se degrade más despacio... y eso implica componentes químicos de más calidad y más caros. x2 del precio
    En realidad esa cifra puede subir en un disco bueno hasta un x10. 
-3. En la empresa, en el entorno de producción cada dato se guarda al menos en 3HDD distintos.. por si se estropea uno, que no pierda acceso al dato. Eso implica x3 del precio. -> ALTA DISPONIBILIDAD (si un disco se rompe, sio con acceso al dato)
+3. En la empresa, en el entorno de producción cada dato se guarda al menos en 3HDD distintos.. por si se estropea uno, que no pierda acceso al dato. Eso implica x3 del precio. -> ALTA DISPONIBILIDAD (si un disco se rompe, sigo con acceso al dato)
 4. Y luego están las copias de seguridad... que no es lo mismo -> RECUPERACION DE DESASTRES 
-  Llega un degenerado y borra sin quere (por descuido ) una tabla de una BBDD... ese borrado SE REPLICA a los 3 HDD de producción. Y si no tengo copias de seguridad, he perdido el dato para siempre.
+  Llega un degenerado y borra sin querer (por descuido) una tabla de una BBDD... ese borrado SE REPLICA a los 3 HDD de producción. Y si no tengo copias de seguridad, he perdido el dato para siempre.
   Y hago backups diarios de mis datos. Y los guardo al menos por duplicado... y de un dato tengo copias de al menos 2 semanas atrás.
 
-100 x 5 x 3 x 10 x 2 = 30.000€ por 2Tbs de almacenamiento en la empresa. 
+Poniendo los factores uno a uno, y siendo generosos:
+
+    100€    precio doméstico de 2Tbs
+    x 10    disco de calidad empresarial, pensado para escritura continua
+    x 3     tres copias en producción            -> ALTA DISPONIBILIDAD
+    x 2     backups duplicados                   -> RECUPERACION DE DESASTRES
+    x 5     cabina, controladoras, red, licencias, mantenimiento, sala, energía
+    -------
+    30.000€ por 2Tbs de almacenamiento en la empresa
+
+(La cifra es orientativa y del lado alto: sirve para el orden de magnitud, que es
+lo que importa aquí. Lo relevante es que NO son 100€.)
 
 En casa 2Tbs me cuestan 100€... 
 En la empresa 2Tbs me cuestan 30.000€.

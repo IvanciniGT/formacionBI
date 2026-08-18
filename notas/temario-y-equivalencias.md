@@ -157,7 +157,7 @@ Ingeniería de datos (Data Engineering) → Big Data
 
 ### Puntos 1.4, 1.5 y 1.6 — Fundamentos, características y ventajas del Datawarehouse
 
-**Sesión 1** (introducción, dentro del glosario) y **sesión 3** (desarrollo).
+**Sesión 1** (introducción, dentro del glosario) y **sesión 2** (desarrollo).
 
 Un data warehouse es «otro tipo de base de datos» que guarda datos históricos ya preparados (**cocinados**) para un uso concreto. Sus propiedades:
 
@@ -184,9 +184,9 @@ Hay un segundo motivo, menos evidente y más grave: **el sistema operacional gua
 
 **Sesiones 3 y 4.**
 
-La sesión 3 aborda el soporte físico: tipos de datos informáticos, cuánto ocupa cada uno en bytes, y por qué elegir bien el formato de almacenamiento cambia radicalmente el rendimiento de un sistema analítico. Ahí entra la distinción **fila frente a columna**, que es la que explica por qué un almacén analítico consulta rápido y la que ha dejado obsoletos a los servidores MOLAP.
+La sesión 2 aborda el soporte físico: tipos de datos informáticos, cuánto ocupa cada uno en bytes, y por qué elegir bien el formato de almacenamiento cambia radicalmente el rendimiento de un sistema analítico. Ahí entra la distinción **fila frente a columna**, que es la que explica por qué un almacén analítico consulta rápido y la que ha dejado obsoletos a los servidores MOLAP.
 
-La sesión 4 aborda el modelo lógico: esquema en **estrella** y en **copo de nieve**.
+Las sesiones 3 y 4 abordan el modelo lógico: esquema en **estrella** y en **copo de nieve**.
 
 ### Punto 1.9 — Análisis OLAP: Drill Down, Drill Up
 
@@ -204,7 +204,7 @@ El *drill-down* es **la operación diagnóstica por excelencia**: el total dice 
 
 ### Punto 1.10 — Servidores OLAP y definiciones de Data Mining
 
-La parte de **servidores OLAP** se trata en la sesión 3, ligada al almacenamiento columnar. Ver el [apartado 2](#2-conceptos-del-temario-que-hoy-hay-que-matizar).
+La parte de **servidores OLAP** se trata en la sesión 2, ligada al almacenamiento columnar. Ver el [apartado 2](#2-conceptos-del-temario-que-hoy-hay-que-matizar).
 
 La parte de **minería de datos** se trata en la sesión 7. La diferencia con todo lo anterior está en el punto de partida: en estadística descriptiva y en reporting, la pregunta la formula una persona y los datos responden; en minería de datos, es el algoritmo el que propone la pregunta, buscando estructura que nadie había pedido.
 
@@ -365,9 +365,9 @@ La decisión más importante del diseño es el **grano**: qué representa una fi
 | # | Sesión | Contenido | Notas |
 |---|---|---|---|
 | **1** | Estadística univariante y glosario del dato | Tres partes del curso · tener datos ≠ entenderlos · tipos de datos estadísticos · frecuencias · tendencia central · dispersión · posición · BBDD, OLTP, data lake, DWH, OLAP, ETL | `dia1.md` |
-| **2** | Glosario y análisis bivariante | BI, ciencia de datos, ingeniería de datos · relaciones entre variables · correlación y causalidad | `dia2.md` |
-| **3** | Soporte informático del dato | Tipos de datos informáticos · tamaño en bytes · formatos de almacenamiento · fila frente a columna · inicio del modelo dimensional | `dia3.md` |
-| **4** | Modelos de datos | Esquema en estrella y en copo de nieve · hechos y dimensiones · grano · jerarquías · procesos ETL | `dia4.md` |
+| **2** | Vocabulario del dato y soporte informático | BI, minería, aprendizaje automático y Big Data · tipos de datos informáticos y tamaño en bytes · codificaciones y UTF-8 · fila frente a columna · normalización y desnormalización · calidad del dato y valores perdidos | `dia2.md` |
+| **3** | Análisis bivariante y modelo dimensional | Correlación · correlación frente a causalidad · variables de confusión · hechos y dimensiones · esquema en estrella y en copo de nieve | `dia3.md` |
+| **4** | Modelo dimensional y ETL | Granularidad · jerarquías · la dimensión Fecha · aditividad de las métricas · procesos ETL y ELT | `dia4.md` |
 | **5** | Cuadro de mando (I) | Pirámide organizacional · de los datos cocinados al primer cuadro · KPIs y contexto · reportes | `dia5.md` |
 | **6** | Cuadro de mando (II) | Navegación OLAP · consultas y autoservicio · alertas · visualización honesta | `dia6.md` |
 | **7** | Analizar y predecir | Minería de datos: categorías, proceso y CRISP-DM · series temporales y pronósticos | `dia7.md` |
@@ -386,20 +386,20 @@ Los 29 epígrafes del programa ADGG102PO y la sesión en la que se imparte cada 
 | 1.1 | Introducción | 1 |
 | 1.2 | La pirámide organizacional | 5 |
 | 1.3 | Herramientas de inteligencia de negocios | 1 · 2 · 5 · 6 |
-| 1.4 | Fundamentos del Datawarehouse | 1 · 3 |
-| 1.5 | Características | 3 |
-| 1.6 | Ventajas | 3 |
+| 1.4 | Fundamentos del Datawarehouse | 1 · 2 |
+| 1.5 | Características | 2 |
+| 1.6 | Ventajas | 2 |
 | 1.7 | Sistemas OLTP | 1 |
-| 1.8 | Implementación del Datawarehouse | 3 · 4 |
+| 1.8 | Implementación del Datawarehouse | 2 · 3 · 4 |
 | 1.9 | Análisis OLAP: Drill Down, Drill Up | 5 · 6 |
-| 1.10 | Servidores OLAP: ROLAP, MOLAP, HOLAP · Minería de datos, definiciones | 3 · 7 |
+| 1.10 | Servidores OLAP: ROLAP, MOLAP, HOLAP · Minería de datos, definiciones | 2 · 7 |
 | 1.11 | Categorías de Data Mining | 7 |
 | 1.12 | Proceso de Minería de Datos | 7 |
 | 1.13 | Metodología | 7 · 8 |
 | 1.14 | Reportes | 5 · 6 |
 | 1.15 | Consultas | 6 |
 | 1.16 | Alertas | 6 |
-| 1.17 | Análisis | 1 · 2 |
+| 1.17 | Análisis | 1 · 3 |
 | 1.18 | Pronósticos | 7 |
 
 ### Bloque 2 · La gestión de proyectos de Business Intelligence
@@ -414,8 +414,8 @@ Los 29 epígrafes del programa ADGG102PO y la sesión en la que se imparte cada 
 
 | Epígrafe | Denominación oficial | Sesión |
 |---|---|---|
-| 3.1 | Procesos de Extracción, Transformación y Carga | 1 · 4 |
-| 3.2 | El almacén de datos | 1 · 3 |
+| 3.1 | Procesos de Extracción, Transformación y Carga | 1 · 2 · 4 |
+| 3.2 | El almacén de datos | 1 · 2 |
 | 3.3 | Herramientas de visualización y consulta: Reportes | 5 · 6 |
 | 3.4 | Herramientas de visualización y consulta: Dashboards | 5 · 6 |
 | 3.5 | Herramientas de visualización y consulta: OLAP | 5 · 6 |
@@ -431,8 +431,8 @@ Se incluyen porque, sin ellos, buena parte del temario oficial se aplica mal:
 |---|---|---|
 | Escalas de medida | 1 | Determinan qué es dimensión, qué es hecho y qué técnica se puede aplicar |
 | Dispersión y medidas de posición | 1 | Sin ellas, cualquier indicador de tendencia central es engañoso |
-| Análisis bivariante y causalidad | 2 | El puente entre «análisis» (1.17) y la minería de datos |
-| Almacenamiento fila frente a columna | 3 | Es lo que explica ROLAP, MOLAP y HOLAP en términos actuales |
-| Calidad del dato | 8 | Es el 25 % del esfuerzo real de cualquier proyecto y el origen de la mayoría de los riesgos |
+| Análisis bivariante y causalidad | 3 | El puente entre «análisis» (1.17) y la minería de datos |
+| Almacenamiento fila frente a columna | 2 | Es lo que explica ROLAP, MOLAP y HOLAP en términos actuales |
+| Calidad del dato y valores perdidos | 2 · 8 | Es el 25 % del esfuerzo real de cualquier proyecto y el origen de la mayoría de los riesgos |
 
 ---
