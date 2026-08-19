@@ -1,6 +1,6 @@
-# Práctica · Preparación de los datos de un call-center
+# Práctica: preparar los datos de un call-center
 
-**Sesión 3 · segundo bloque · trabajo individual**
+**Preparación de los datos para su análisis**
 
 ---
 
@@ -14,22 +14,23 @@ Dirección quiere un cuadro de mando con la satisfacción de los clientes, para
 decidir dónde invertir en atención al cliente el año que viene.
 
 Tu trabajo **no es** hacer el cuadro de mando. Es lo de antes, que es lo que de
-verdad cuesta: decidir cómo hay que dejar estos datos.
+verdad cuesta: decidir cómo hay que dejar estos datos para que ese cuadro de mando
+se pueda construir y no mienta.
 
-> Estos mismos datos son los que modelaremos mañana y los que alimentarán el cuadro
-> de mando de la semana que viene. Lo que decidas hoy lo vas a arrastrar hasta el
-> final del curso.
+> Estos mismos datos son los que modelaremos en la próxima sesión y los que
+> alimentarán el cuadro de mando de la semana que viene. Lo que decidas hoy lo vas a
+> arrastrar hasta el final del curso.
 
 ---
 
-## LA REGLA
+## La regla
 
 **Hoy no se toca ni una sola celda del fichero.**
 
 Hoy se diagnostica, no se opera. Puedes filtrar, ordenar, hacer tablas dinámicas y
 contar todo lo que quieras. Lo que no puedes es corregir un dato.
 
-El entregable es un **documento de decisiones**, no un fichero limpio.
+Lo que entregas es un **documento de decisiones**, no un fichero limpio.
 
 ---
 
@@ -57,6 +58,75 @@ operador                    Operador que hizo la llamada
 
 ---
 
+## Qué hay que entregar
+
+### 1 · La ficha de preparación
+
+Una fila por cada columna del fichero, con estas cinco decisiones:
+
+| Columna | Tipo estadístico | Tipo informático y bytes | Problemas detectados | Transformación propuesta |
+|---|---|---|---|---|
+| | Nominal · Ordinal · Cuantitativo | El más pequeño que sirva | Cuál, y a cuántas filas afecta | Qué harías, y si se recodifica |
+
+**Ejemplo resuelto.** Así es como tiene que quedar cada fila:
+
+```
+Columna              comunidad
+
+Tipo estadístico     NOMINAL
+                     Es un nombre. Sirve para clasificar clientes, pero no hay
+                     ningún orden entre las comunidades ni unidad de medida.
+
+Tipo informático     Ahora: texto, hasta 21 bytes por fila (unos 15 de media).
+                     Propuesto: entero corto, 1 byte.
+                     Sólo hay 5 comunidades reales y en 1 byte caben 255.
+
+Problemas            24 grafías distintas para 5 comunidades.
+                     Varía mayúsculas, acentos, guiones, abreviaturas y hay
+                     alguna con un espacio al final.
+
+Transformación       Conformar a un catálogo único de 5 valores y recodificar
+                     a número. Ahorro: de ~15 bytes a 1 por fila.
+```
+
+Para el **tipo estadístico**, la pregunta que decide es siempre la misma: ¿tiene
+unidad de medida? Cuidado, que hay al menos una columna que parece cuantitativa y
+no lo es.
+
+Para el **tipo informático**, elige el tipo más pequeño que sirva, y justifica el
+tamaño diciendo cuántos valores distintos necesitas poder representar.
+
+### 2 · Los valores perdidos
+
+Hay huecos en el fichero. **No todos significan lo mismo.** Sepáralos en dos grupos:
+
+- **No aplica** — la pregunta no tenía sentido para ese cliente. No genera incertidumbre.
+- **No informado** — el dato existe pero no lo tenemos. Sí genera incertidumbre.
+
+Y con eso hecho, responde a esta pregunta **con un intervalo**, no con un número:
+
+```
+¿Qué porcentaje de clientes había tenido alguna incidencia previa?
+```
+
+### 3 · El cálculo del ahorro
+
+Estima cuánto ocupa una fila **tal y como viene el fichero**, y cuánto ocuparía
+**después de tus transformaciones**. Expresa el ahorro en porcentaje.
+
+| Tipo | Tamaño |
+|---|---|
+| Booleano | 1 byte |
+| Entero corto, hasta 255 | 1 byte |
+| Entero mediano, hasta 65.535 | 2 bytes |
+| Entero largo | 4 bytes |
+| Decimal corto | 4 bytes |
+| Fecha | 4 bytes |
+| Fecha y hora | 8 bytes |
+| Texto | 1 byte por carácter; 2 si lleva tilde o ñ |
+
+---
+
 ## En qué orden trabajar
 
 Hazlas en **este** orden, no en el del fichero. Las cinco primeras son las que
@@ -66,7 +136,7 @@ enseñan; el resto es refuerzo.
  1  satisfaccion_1_10
  2  num_incidencias_previas   ┐ van juntas
  3  tipo_primera_incidencia   ┘
- 4  comunidad
+ 4  comunidad                   ← la del ejemplo resuelto
  5  importe_ultima_factura
  6  edad
  7  dni
@@ -84,67 +154,47 @@ Si no llegas a las quince, no pasa nada. Si no llegas a las cinco primeras, sí.
 
 ---
 
-## Cómo perfilar cada columna
+## Cómo perfilar una columna
 
-Una **tabla dinámica** con la columna en filas y en valores te da, en menos de un
-minuto, todos los valores distintos con su recuento. Es la herramienta correcta y la
-vas a usar el resto de tu vida profesional. Lo veremos en pantalla con `comunidad`
-antes de empezar.
+**La tabla dinámica es la herramienta.** Te da, en menos de un minuto, todos los
+valores distintos de una columna con su recuento:
 
-Para lo demás: `CONTAR.BLANCO` para los huecos, `CONTAR.SI` o un filtro para los
-valores fuera de rango, y **Formato condicional › Duplicados** para los repetidos.
+```
+1 · Selecciona los datos y ve a Insertar › Tabla dinámica
+2 · Arrastra la columna que quieras al área de FILAS
+3 · Arrastra esa MISMA columna al área de VALORES
+4 · Te sale la lista de valores distintos y cuántas veces aparece cada uno
+```
+
+Es la técnica que vas a usar el resto de tu vida profesional para lo mismo:
+saber qué hay realmente dentro de una columna antes de fiarte de ella.
+
+Para lo demás:
+
+| Qué quieres saber | Cómo |
+|---|---|
+| Cuántos huecos hay | `CONTAR.BLANCO` |
+| Cuántos valores fuera de rango | `CONTAR.SI` con criterio, o un filtro |
+| Si hay valores repetidos | Formato condicional › Reglas › Duplicados |
 
 ⚠️ **Dos excepciones.** En `fecha_llamada` y en `importe_ultima_factura` no
 intentes contar con fórmulas: recorre la columna de arriba abajo con la vista y
-anota lo que veas raro. Ahí lo que importa no es cuántos hay, es **haberlos visto**.
+anota lo que veas raro. Ahí lo que importa no es cuántos hay, sino **haberlos
+visto**.
 
 ---
 
-## Lo que hay que entregar
+## Las preguntas que te tienes que hacer
 
-### 1 · La ficha de preparación
+Ante cada columna, siempre las mismas siete:
 
-Una fila por columna, con estas cinco decisiones:
-
-| Columna | Tipo estadístico | Tipo informático y bytes | Problemas detectados | Transformación propuesta |
-|---|---|---|---|---|
-| | Nominal / Ordinal / Cuantitativo | El más pequeño que sirva | Con cuántas filas afecta | Y si se recodifica o no |
-
-Para el **tipo estadístico**, la pregunta que decide es siempre la misma: ¿tiene
-unidad de medida? Cuidado, que hay al menos una columna que parece cuantitativa y
-no lo es.
-
-Para el **tipo informático**, elige el tipo más pequeño que sirva, y justifica el
-tamaño: cuántos valores distintos necesitas poder representar.
-
-### 2 · Los valores perdidos
-
-Hay huecos en el fichero. **No todos significan lo mismo.** Sepáralos en:
-
-- **No aplica** — la pregunta no tenía sentido para ese cliente. No genera incertidumbre.
-- **No informado** — el dato existe pero no lo tenemos. Sí genera incertidumbre.
-
-Y con eso, responde a esta pregunta **con un intervalo**, no con un número:
-
-```
-¿Qué porcentaje de clientes había tenido alguna incidencia previa?
-```
-
-### 3 · El cálculo del ahorro
-
-Estima cuánto ocupa una fila **tal y como viene el fichero**, y cuánto ocuparía
-**después de tus transformaciones**. Expresa el ahorro en porcentaje.
-
-| Tipo | Tamaño |
-|---|---|
-| Booleano | 1 byte |
-| Entero corto (hasta 255) | 1 byte |
-| Entero mediano (hasta 65.535) | 2 bytes |
-| Entero largo | 4 bytes |
-| Decimal corto | 4 bytes |
-| Fecha | 4 bytes |
-| Fecha y hora | 8 bytes |
-| Texto | 1 byte por carácter simple, 2 si lleva tilde o ñ |
+1. ¿Qué mide realmente esta columna?
+2. ¿Tiene unidad de medida?
+3. ¿Cuántos valores distintos puede tomar?
+4. ¿Este hueco es «no aplica» o «no informado»?
+5. ¿Este valor es raro o es imposible?
+6. ¿Puedo deducir esta columna a partir de otra?
+7. ¿Qué decisión de negocio se va a tomar con este dato?
 
 ---
 
@@ -156,16 +206,4 @@ Con tu ficha delante, contesta a esto:
 > satisfacción, ¿qué columnas serían **dimensiones** y cuáles **hechos**?
 > ¿Y qué harías con `satisfaccion_1_10`?
 
-Es literalmente por donde empezamos mañana.
-
----
-
-## Las preguntas que te tienes que hacer
-
-1. ¿Qué mide realmente esta columna?
-2. ¿Tiene unidad de medida?
-3. ¿Cuántos valores distintos puede tomar?
-4. ¿Este hueco es «no aplica» o «no informado»?
-5. ¿Este valor es raro o es imposible?
-6. ¿Puedo deducir esta columna a partir de otra?
-7. ¿Qué decisión de negocio se va a tomar con este dato?
+Es por donde empezamos la próxima sesión.
