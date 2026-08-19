@@ -433,3 +433,122 @@ Dentro de un proyecto de BI, necesitamos un gran repertorio de profesionales con
 - Administradores de bases de datos (Database Administrators)
 
 Yo no puedo hacerlo todo... a no ser que sea algo muy simple... y con poca trasformación de los datos.
+
+
+---
+
+# Variable tipo_primera_incidencia
+
+Etiquetas de fila    | Cuenta de tipo_primera_incidencia
+---------------------+----------------------------------
+                     |                 631
+Atención al cliente  |                  93
+Averia tecnica       |                  97
+Avería técnica       |                  79
+facturacion          |                  70
+Facturación          |                  86
+Instalación          |                  65
+Portabilidad         |                  93
+Total general        |                1214
+
+
+Aparecen en el fichero 7 valores diferentes, pero.. cuántos valores REALES puede tomar esta variable?
+- Atención al cliente
+- Avería técnica
+- Facturación
+- Instalación
+- Portabilidad
+- No aplica -> No genera incertidumbre
+- VACIO | NO INFORMADO | DESCONOCIDO -> SI genera incertidumbre
+
+Lo normal es que una variable como esta, la guardemos informaticamente como un NUMERO! -> QUE HAGAMOS UNA CODIFICACION
+
+- Atención al cliente -> 1                                                                  93
+- Avería técnica      -> 2                                                                  97+79 = 176
+- Facturación         -> 3                                                                  70+86 = 156
+- Instalación         -> 4                                                                  65
+- Portabilidad        -> 5                                                                  93
+- No aplica           -> 0                              No genera incertidumbre             388
+- VACIO | NO INFORMADO | DESCONOCIDO -> 99              SI genera incertidumbre             631-388 = 243 -> 243 / 1214 = 20% de los datos
+                                                                                    TOTAL = 1214
+- NO RECONOCIDO -> SI GENERA INCERTIDUMBRE 
+
+    | CODIGO    |  ETIQUETA           |
+    |-----------|---------------------|
+    |        0  | No aplica           |
+    |        1  | Atención al cliente |
+    |        2  | Avería técnica      |
+    |        3  | Facturación         |
+    |        4  | Instalación         |
+    |        5  | Portabilidad        |
+    |       98  | No reconocido       |
+    |       99  | No informado        |
+
+Si yo tuviera que hacer esta tabla, añadiría una categoría más.
+Esto ya lo da la experiencia.
+
+Lo que tendremos que hacer, en el futuro, es un PROGRAMA que traduzca los valores que vienen en el EXCEL a esos CODIGOS QUE HEMOS DEFINIDO.
+Ese programa le haría un programador.
+Pero viendo el desparrame de datos que hay, a mis ojos, me da la sensación, que ese dato se está escribiendo a mano por un operador.
+Si saliera de una BBDD, de un desplegable de formulario... no habría esas inconsistencias.
+A día de hoy hemos detectado 7 variantes: "Atención al cliente", "Averia tecnica", "Avería técnica", "facturacion", "Facturación", "Instalación", "Portabilidad"
+
+La pregunta es, tengo garantias de que en el futuro no vaya a haber más variantes? NO CLARAMENTE.
+Y qué va a pasar cuando el PROGRAMA que haga el programador se encuentre con un dato que no reconozca y no sepa en qué categoría ponerlo?
+Qué va a pasar? SERIA GENIAL TENER UNA CATEGORIA DE "NO IDENTIFICADO", "NO RECONOCIDO".
+
+La idea es que el día 1 no haya ningún dato codificado como "NO RECONOCIDO". 
+Esos datos irán apareciendo en el futuro!
+
+En general TODAS LAS CATEGORIAS QUE TENEMOS tienen un buen número de datos.
+Podría ser que una categoría tuviera MUY MUY POCOS DATOS... o incluso varias de ellas: 5 datos, 8 datos, 2 datos.
+Lo suyo en este caso sería agrupar esas categorías en una sola categoría que se llamara "OTROS" o "VARIOS".
+Y tratar de conseguir un número MAS GRANDE.
+
+Para hacer un estudio estadístico necesito un mínimo de datos. Si no tengo un mínimo de datos, no hay estudio estadístico que tenga sentido.
+Solo tengo ANECDOTAS. 4 datos = ANECDOTAS. Y de anécdotas no podemos hacer un estudio estadístico.
+
+En total vamos a guardar 7 valores diferentes, pero no los 7 que aparecen en el fichero... otros 7 resultantes de una recodificación de los valores que aparecen en el fichero.
+
+Podemos usar un número corto (1 byte) para guardar esta variable. En un byte guardo hasta 256 valores diferentes. Y como solo voy a guardar 7, me sobra mucho espacio.
+
+
+---
+
+duracion_llamada_segundos 
+
+CUANTITATIVA
+
+
+Llamadas de 4 y 7 segundos          41  de cada.
+Llamadas de 8400 y 11200 segundos   29 de cada.
+    8400s = 2h 20m
+    11200s = 3h 6m
+
+
+Esos datos tienen sentido para llamadas de encuestas de satisfacción? NINGUNO
+
+Esto son errores de grabación de datos. Y lo que tenemos que hacer es detectarlos y eliminarlos.
+No puedo dejar esos datos y que luego haga una media, una mediana , un percentil.. y se vean afectados por esos datos erroneos.
+
+Lo normal sería codificar esos datos de alguna forma.
+YA que tenemos números (la variable es cuantitativa)... y dado que la variable es de razón!
+Es decir, el cero es absoluto! No hay valores por debajo del CERO, podróa usar valores NEGATIVOS para codificar los datos erroneos.
+Por ejemplo: 
+- Llamada anormalmente corta        -> -1   LIMITE
+- Llamada anormalmente larga        -> -2   LIMITE
+- Dato no grabado / No informado    -> -3
+
+Los valores positivos con sentido los dejo tal cual: 67 segundos, 578 segundos
+
+El LIMITE inferior y superior no debe ser 7 y 8400.
+El día de mañana pueden venir datos nuevos, por ejemplo 8, 11, 7800 y debería también considerarlos erroneos.
+
+ESTO HAY QUE DECIDIRLO. Y es información que le debo dar al PROGRAMADOR que haga el programa que recodifique los datos.
+Mi decisión puede ser:
+- LIMITE INFERIOR = 20 segundos
+- LIMITE SUPERIOR = 1800 segundos (1/2 hora)
+
+Si en total puede ser que guarde hasta el segundo 1800 (aunque ahora solo tenga en los datos 898), significa
+que potencialmente en el futuro podría tener que guardar 1800 valores diferentes + los 3 negativos.
+Eso no entra en un numero de 1 bytes (256 valores diferentes). Por lo que tendré que usar 2 bytes (65536 valores diferentes) para guardar esta variable.
