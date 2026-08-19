@@ -1,0 +1,1215 @@
+id_encuesta;dni;fecha_llamada;hora_llamada;comunidad;edad;sexo;producto_contratado;importe_ultima_factura;satisfaccion_1_10;recomendaria;num_incidencias_previas;tipo_primera_incidencia;duracion_llamada_seg;operador
+10600;73434221G;27/12/2026;11:51;C. Madrid;23;2;Fibra 600Mb;2437;2;n;1;Portabilidad;671;Gertrudis Pérez
+10585;60961083N;14-05-26;17:06;CATALUÑA;81;Hombre;Móvil 20GB;154,60;4;Sí;1;Facturación;148;Ana Ruiz
+10435;81256097X;2026-10-01;12:30;C. La Mancha;-3;2;Fibra+Móvil;148,95;4;s;0;;573;Manuel Sánchez
+10816;23495554W;09/05/2026;21:24;C. Madrid;82;H;FIBRA + MOVIL;93,62;7;N;0;;790;Federico Álvarez
+10515;41396118P;13-06-26;14:29;CASTILLA LA MANCHA;37;M;tv premium;113.45;9;NO;0;;864;Menchu Rodríguez
+10439;65366561E;25/03/2025;08:05;valencia;81;Mujer;TV Premium;68,06;4;N;1;Atención al cliente;4;Gertrudis Pérez
+10268;39278256V;27/06/2026;08:09;madrid;;h;Fibra 600Mb;187,88;9;SI;;;146;Menchu Rodríguez
+11065;56139660K;17/12/2026;15:45;CASTILLA LA MANCHA;64;1;TV Premium;173,27 €;1;;2;;55;Manuel Sánchez
+10656;27666356L;10/05/2025;14:24;cataluña;54;1;Móvil 50GB;164,43;2;N;0;;611;Menchu Rodriguez
+10101;19992985P;12-03-25;12:14;andalucía;28;h;FIBRA + MOVIL;105,32;10;Sí;0;;363;Luciano Gómez
+10252;55343071X;27/03/2025;17:52;andalucía;76;Hombre;Fibra+Móvil;120.27;10;No;1;Avería técnica;505;Ana Ruiz
+10493;56195960Y;07/02/2026;13:25;andalucía;72;h;Móvil 50GB;160,18 €;1;N;0;;565;Federico Álvarez
+10597;73408077D;2025-12-25;15:07;Castilla la Mancha;73;1;Fibra600;137,78;8;;;;586;Manuel Sánchez
+10004;94058838X;02/08/2025;20:18;Comunidad Valenciana;0;Mujer;FIBRA + MOVIL;82,38;;N;0;;528;Ana Ruiz
+10839;59091767A;2026-07-11;14:27;Castilla La Mancha ;82;m;MOVIL 20GB;134,04 €;4;;;;854;Luciano Gómez
+10122;27093715L;2025-01-18;11:38;Cataluña;82;Mujer;Fibra600;163.87;9;Sí;2;Atención al cliente;276;Menchu Rodriguez
+10246;53099597W;19-12-26;19:50;MADRID;21;2;Móvil 20GB;67,41;4;n;3;AVERIA TECNICA;445;Luciano Gómez
+10782;80319684H;12/10/2026;10:52;andalucía;20;H;Fibra+Móvil;54.04;10;Sí;2;;412;Manuel Sánchez
+11045;50851957B;2026-10-06;21:43;VALENCIA;40;Mujer;FIBRA 600;129,83;5;S;0;;724;Luciano Gómez
+10532;35162973A;06/09/2025;12:51;cataluña;29;Hombre;Fibra600;35,33;6;No;2;AVERIA TECNICA;666;Ana Ruiz
+10848;73425273G;08/06/2025;17:54;madrid;-3;2;FIBRA + MOVIL;177,86;2;S;1;Facturación;895;Luciano Gómez
+10629;58530641E;2026-05-17;15:49;CATALUÑA;76;H;TV Premium;68.31;;N;2;Avería técnica;695;Federico Álvarez
+10983;10508196H;10/07/2026;16:15;Catalunya;23;h;Fibra 600Mb;163,63;6;N;1;;189;Ana Ruiz
+10875;10492908H;18/09/2026;12:02;CASTILLA LA MANCHA;74;2;Móvil 50GB;99,06 €;;s;3;Avería técnica;549;Manuel Sánchez
+10990;27624922C;28/06/2026;18:57;CATALUÑA;43;Mujer;FIBRA + MOVIL;159,38;5;N;0;;393;Federico Álvarez
+10575;79481283G;25/12/2025;21:40;C. Valenciana;52;m;Móvil 50GB;124.98;6;N;;;140;Ana Ruiz
+11002;48977602J;04/12/2025;17:07;valencia;68;H;MOVIL 20GB;21.04;9;No;3;Avería técnica;743;Federico Álvarez
+10017;91814137Z;16/11/2026;08:42;C. La Mancha;31;h;Fibra600;;;Sí;1;Instalación;11200;Menchu Rodríguez
+10161;68868303B;02/06/2026;16:41;Andalucía;64;Mujer;Fibra 600Mb;58,24;8;NO;1;AVERIA TECNICA;723;Menchu Rodríguez
+10909;99590719Y;2025-08-10;17:47;MADRID;38;m;FIBRA 600;46.68;7;S;4;Portabilidad;533;Menchu Rodriguez
+10154;81762305C;20/05/2025;12:40;Castilla-La Mancha;31;2;Fibra+Móvil;12910;9;No;1;Atención al cliente;724;Federico Álvarez
+11196;70508093V;10/03/2025;10:11;andalucía;48;Hombre;Fibra 600Mb;124.57;7;;;;175;Luciano Gómez
+10509;29445978N;22/12/2026;20:05;CATALUÑA;56;M;FIBRA + MOVIL;25,42;3;No;0;;76;Menchu Rodríguez
+10251;79519415N;12-08-25;12:06;C. Madrid;47;m;FIBRA 600;159,55;9;No;1;;51;Ana Ruiz
+10433;75313260X;04/12/2026;18:14;Andalucía;50;M;Móvil 20GB;87,29;;n;2;AVERIA TECNICA;691;Ana Ruiz
+90739;32472405C;08/12/2025;10:48;Castilla-La Mancha;47;2;FIBRA 600;28,24;8;Sí;0;;468;Ana Ruiz
+10918;10763950N;14/03/2025;12:26;Castilla la Mancha;-3;Mujer;FIBRA + MOVIL;111.69;10;SI;1;Avería técnica;51;Federico Álvarez
+11057;70727420M;20/09/2026;18:33;Cataluña;62;H;Móvil 20GB;125,10 €;1;S;4;AVERIA TECNICA;180;Gertrudis Pérez
+10858;98682000A;10/09/2025;11:44;Andalucia;32;m;FIBRA + MOVIL;62,85;7;Sí;0;;873;Menchu Rodriguez
+10382;75106148B;12-10-25;11:21;ANDALUCIA;199;M;Fibra600;;7;SI;2;Atención al cliente;801;Federico Álvarez
+10799;34995104L;17-04-26;09:27;andalucía;59;h;Fibra 600Mb;25,86 €;3;NO;2;Atención al cliente;285;Luciano Gómez
+10736;59775878T;28/06/2025;17:59;Andalucía;71;M;FIBRA + MOVIL;131,15 €;;n;1;Avería técnica;377;Manuel Sánchez
+11147;43090825S;07/11/2025;11:12;CASTILLA LA MANCHA;70;H;Móvil 50GB;41,50;1;SI;0;;137;Ana Ruiz
+10804;29032182Z;2025-05-01;11:09;Cataluña;39;Mujer;FIBRA + MOVIL;74,26;4;n;0;;81;Gertrudis Pérez
+11078;54805225M;2026-09-10;12:20;CATALUÑA;60;M;Móvil 50GB;179.73;8;Sí;;;292;Ana Ruiz
+10929;23701151J;19/04/2025;10:35;Andalucía;66;h;FIBRA + MOVIL;83,03;5;s;0;;209;Federico Álvarez
+10827;25527931J;06/10/2025;20:29;CASTILLA LA MANCHA;82;2;FIBRA 600;59,75;5;s;0;;772;Ana Ruiz
+10751;26095599A;04/10/2025;12:12;MADRID;19;H;FIBRA + MOVIL;69,93;5;n;2;;7;Menchu Rodriguez
+11138;98415073L;27/10/2026;15:16;valencia;47;Mujer;tv premium;180.69;8;Sí;0;;107;Ana Ruiz
+10904;20967980N;08/10/2025;21:43;Comunidad Valenciana;29;M;Fibra+Móvil;140,50;;NO;2;;178;Federico Álvarez
+10877;63033490F;02/02/2025;21:11;C. Madrid;62;m;TV Premium;82,66;7;No;4;Avería técnica;385;Ana Ruiz
+10881;94228764Y;2025-02-01;21:17;Madrid;48;2;Fibra 600Mb;91.36;5;N;;;7;Manuel Sánchez
+10530;56650823L;12-11-25;18:21;andalucía;;2;TV Premium;52.32;5;s;0;;795;Gertrudis Pérez
+10811;28699835T;21/08/2026;17:20;C. Valenciana;26;m;Fibra 600Mb;135,22;2;Sí;0;;401;Menchu Rodríguez
+10718;52678611B;09/08/2025;21:40;castilla la mancha;37;Hombre;Móvil 20GB;;2;Sí;1;AVERIA TECNICA;7;Menchu Rodriguez
+11105;42734298N;02/11/2026;16:30;cataluña;53;H;TV Premium;72.11;2;SI;0;;246;Ana Ruiz
+10998;54949456S;02/06/2025;12:47;valencia;999;Mujer;FIBRA 600;96.72;;S;1;Avería técnica;574;Menchu Rodríguez
+10337;25704934T;26-03-26;19:34;C. Valenciana;78;1;tv premium;44,87;5;s;2;Instalación;11200;Federico Álvarez
+11013;73282322T;16/03/2026;11:09;andalucía;87;1;FIBRA 600;29,03;2;S;4;Avería técnica;434;Ana Ruiz
+10740;57729668P;2025-02-24;19:41;MADRID;28;1;Fibra 600Mb;;9;N;1;;480;Manuel Sánchez
+10732;63931605B;2026-04-03;16:31;Comunidad de Madrid;25;1;Móvil 50GB;95,96;7;s;4;Portabilidad;4;Gertrudis Pérez
+10723;15117232F;07/10/2025;21:43;Comunidad Valenciana;54;Mujer;Fibra+Móvil;125.21;8;SI;4;;116;Gertrudis Pérez
+10950;99021336Z;01/17/2025;19:05;C. Valenciana;71;H;FIBRA + MOVIL;35,32;6;N;4;AVERIA TECNICA;363;Gertrudis Pérez
+10221;92304230X;16/11/2025;17:33;valencia;26;Mujer;Móvil 20GB;110,56;2;s;3;Avería técnica;808;Federico Álvarez
+10828;73373850N;12/10/2026;13:26;Comunidad de Madrid;54;2;FIBRA 600;30,91 €;7;s;1;facturacion;715;Ana Ruiz
+10556;47620609L;26/02/2025;14:43;cataluña;68;M;Móvil 20GB;133,69;1;n;3;Instalación;626;Luciano Gómez
+11180;10912965X;16/12/2026;08:34;valencia;43;M;Fibra600;126,68;4;Sí;0;;804;Gertrudis Pérez
+11086;76332729Q;21/03/2025;17:08;CASTILLA LA MANCHA;199;M;FIBRA 600;183,98;5;;4;facturacion;782;Menchu Rodríguez
+10328;17501759J;15/12/2025;12:57;Catalunya;999;H;FIBRA + MOVIL;138,07 €;;n;0;;139;Menchu Rodríguez
+10468;14148868Q;27/10/2026;17:21;Cataluña;77;Mujer;Fibra600;176.49;;Sí;1;AVERIA TECNICA;541;Federico Álvarez
+10742;20465789T;01/01/2025;08:00;Comunidad Valenciana;65;Hombre;Móvil 20GB;147.55;10;n;1;Portabilidad;272;Ana Ruiz
+10083;98151005T;19/07/2026;18:01;castilla la mancha;79;H;Fibra600;114,44;7;SI;;;309;Gertrudis Pérez
+10705;96515359G;2026-03-25;09:07;castilla la mancha;25;H;tv premium;97.04;9;S;;;191;Ana Ruiz
+11145;26470422N;27/01/2025;18:32;Andalucia;47;M;Móvil 50GB;109,75;8;s;0;;224;Luciano Gómez
+10886;78702755R;21/03/2026;21:15;CLM;80;Hombre;MOVIL 20GB;139,09;;s;0;;114;Menchu Rodríguez
+11143;74725290R;07/04/2025;16:48;CASTILLA LA MANCHA;82;H;TV Premium;114,23;;N;;;147;Federico Álvarez
+10896;11576585J;2026-03-07;11:06;Castilla-La Mancha;35;H;MOVIL 20GB;165.56;3;Sí;1;Avería técnica;393;Menchu Rodríguez
+11158;16756037T;2026-06-17;19:28;Comunidad Valenciana;81;m;MOVIL 20GB;101,79;7;n;;;546;Menchu Rodríguez
+10164;79615955P;05/07/2026;21:03;Castilla la Mancha;;M;Fibra 600Mb;184.43;8;Sí;0;;712;Manuel Sánchez
+11175;91992067Q;2025-05-15;13:45;VALENCIA;44;M;Fibra+Móvil;;9;S;;;62;Gertrudis Pérez
+10250;61721315F;22-11-26;11:34;Castilla la Mancha;20;2;MOVIL 20GB;76,65;9;No;0;;754;Federico Álvarez
+10623;98334533M;2025-08-21;09:37;Comunidad de Madrid;43;Mujer;Móvil 20GB;22,47;5;;2;facturacion;133;Federico Álvarez
+10882;40535843L;11/04/2025;10:08;VALENCIA;75;Mujer;TV Premium;;8;N;0;;894;Menchu Rodriguez
+11156;76625437H;2025-02-18;19:56;Castilla-La Mancha;59;H;TV Premium;37,21;9;s;0;;440;Manuel Sánchez
+10824;45697816S;25/12/2026;10:59;MADRID;53;Mujer;MOVIL 20GB;105,01;;N;2;AVERIA TECNICA;119;Manuel Sánchez
+11159;91413646F;07/04/2026;09:02;castilla la mancha;50;Hombre;Móvil 20GB;84,57;6;S;2;;848;Menchu Rodriguez
+10935;72762271L;01/07/2025;17:25;ANDALUCIA;46;1;tv premium;63.26;6;S;2;;189;Menchu Rodríguez
+11075;21985503E;16/06/2026;17:23;C. La Mancha;0;1;MOVIL 20GB;26.92;10;;2;;633;Manuel Sánchez
+10231;92203408G;03/11/2026;10:10;Comunidad de Madrid;53;H;TV Premium;;;S;2;facturacion;632;Gertrudis Pérez
+10590;86120966N;02-12-26;13:26;Castilla La Mancha ;48;1;TV Premium;91,38;8;No;0;;11200;Manuel Sánchez
+10169;42407150E;2026-08-07;14:38;castilla la mancha;43;2;Fibra+Móvil;174.33;4;Sí;1;Atención al cliente;466;Gertrudis Pérez
+10963;92479140R;17/10/2025;16:49;madrid;42;Mujer;TV Premium;63.87;7;;1;AVERIA TECNICA;57;Ana Ruiz
+11030;71702109R;2025-07-06;12:27;castilla la mancha;30;h;FIBRA 600;59,62 €;3;n;0;;256;Menchu Rodríguez
+11172;60835622H;2025-02-06;16:55;madrid;23;2;FIBRA 600;106,88;9;s;;;216;Menchu Rodríguez
+10230;75532658E;16/09/2026;19:59;C. Valenciana;67;Hombre;Móvil 50GB;38,61;;n;2;Portabilidad;401;Manuel Sánchez
+11174;18751044S;2026-05-02;11:24;Andalucia;66;Hombre;FIBRA 600;128.59;;Sí;1;Avería técnica;735;Manuel Sánchez
+10199;80779024H;27/09/2025;11:02;Catalunya;47;2;FIBRA 600;;5;;4;Portabilidad;376;Menchu Rodríguez
+10626;28053998S;18/04/2026;16:15;Castilla-La Mancha;88;Mujer;TV Premium;136.95;8;N;0;;71;Menchu Rodriguez
+11119;51375455X;22-01-25;10:20;MADRID;54;h;TV Premium;83,42;4;No;3;;7;Luciano Gómez
+10889;58452143D;25/12/2025;20:46;Comunidad de Madrid;56;h;Fibra+Móvil;147,27;6;No;1;Facturación;868;Ana Ruiz
+10108;31964975C;23/09/2025;16:01;Comunidad Valenciana;53;H;Fibra 600Mb;128.94;2;No;1;;677;Ana Ruiz
+10320;36067998A;01/10/2025;15:25;ANDALUCIA;46;2;FIBRA 600;116,85;10;S;;;440;Menchu Rodríguez
+11140;36986236S;01/05/2026;08:29;andalucía;59;1;Fibra+Móvil;176,85;3;No;0;;606;Gertrudis Pérez
+10511;44789350X;13-06-26;18:04;VALENCIA;36;Mujer;Fibra 600Mb;152,70;;n;2;Portabilidad;587;Menchu Rodríguez
+10130;85234799R;2025-06-28;19:27;valencia;-3;2;Móvil 20GB;158,76;10;n;2;Facturación;621;Menchu Rodriguez
+10090;44547178T;2026-05-06;11:59;castilla la mancha;77;M;TV Premium;73.86;2;;1;;643;Ana Ruiz
+10577;48749351H;20/01/2026;20:14;Castilla la Mancha;88;Hombre;FIBRA 600;58,83 €;5;Sí;4;AVERIA TECNICA;4;Ana Ruiz
+10420;94467833X;11-05-25;08:24;Castilla La Mancha ;;1;Fibra+Móvil;134,85;;Sí;;;868;Luciano Gómez
+10554;58915273V;03-10-25;08:01;andalucía;53;M;Móvil 50GB;83,17;7;;;;428;Menchu Rodríguez
+10769;16825666N;2026-07-04;21:36;Comunidad Valenciana;59;m;Fibra 600Mb;158.04;;;2;Avería técnica;316;Luciano Gómez
+11165;80678290J;26-12-26;08:37;Andalucia;71;M;tv premium;35,05;1;NO;0;;675;Menchu Rodríguez
+10107;42582616S;2026-10-26;10:53;Comunidad de Madrid;999;2;Móvil 50GB;171.78;5;S;0;;207;Luciano Gómez
+10900;94267678S;22-09-26;13:28;C. La Mancha;28;H;FIBRA 600;163,35;1;No;0;;828;Ana Ruiz
+11187;13767093V;18/09/2025;20:51;Castilla-La Mancha;37;1;Móvil 20GB;41,46;9;Sí;2;facturacion;247;Gertrudis Pérez
+11189;92872880G;17/12/2026;09:20;C. Madrid;35;m;tv premium;47,95 €;3;N;1;;201;Menchu Rodriguez
+10711;98030035G;07/25/2025;13:36;Cataluña;18;h;Fibra 600Mb;113,55 €;9;s;4;Avería técnica;7;Menchu Rodríguez
+10317;17058041B;23/06/2026;16:09;C. Madrid;32;2;TV Premium;108,20;1;n;2;;78;Manuel Sánchez
+10488;22737672A;04/02/2025;18:56;Andalucia;999;2;Fibra 600Mb;170,30;;SI;2;AVERIA TECNICA;878;Federico Álvarez
+10954;42230090H;12-03-26;20:45;MADRID;51;1;FIBRA 600;;4;No;0;;233;Manuel Sánchez
+10151;37080325Y;22-06-25;09:09;C. Valenciana;29;Mujer;Móvil 20GB;;4;S;0;;8400;Menchu Rodriguez
+10815;31140608V;2025-02-22;08:05;Andalucía;65;H;FIBRA 600;88.08;;n;0;;468;Luciano Gómez
+10351;74722085A;03/12/2026;08:47;VALENCIA;62;h;Fibra 600Mb;135.03;5;SI;;;711;Menchu Rodríguez
+11176;41491100N;27/11/2025;17:54;valencia;999;Mujer;FIBRA + MOVIL;59,96 €;3;S;1;;279;Federico Álvarez
+10997;90288563J;22/07/2025;13:59;ANDALUCIA;32;1;Móvil 50GB;151,44;3;s;0;;145;Menchu Rodríguez
+10010;98152506K;27/03/2026;17:14;MADRID;59;m;TV Premium;113,13;10;n;0;;384;Luciano Gómez
+10449;20530919N;2025-01-03;17:55;castilla la mancha;43;2;Móvil 20GB;94,33 €;;N;;;308;Gertrudis Pérez
+10548;58116663M;02/11/2026;12:55;Comunidad de Madrid;69;Hombre;tv premium;53,21;2;NO;0;;4;Menchu Rodriguez
+10037;56435233J;19/05/2026;11:45;valencia;67;Hombre;Móvil 20GB;;7;n;0;;183;Gertrudis Pérez
+10342;47049537J;2025-01-27;16:32;ANDALUCIA;60;Hombre;Fibra 600Mb;139,21 €;1;SI;4;Facturación;158;Manuel Sánchez
+10662;46181106E;02/05/2026;15:52;Madrid;55;M;Móvil 50GB;;9;N;0;;11200;Ana Ruiz
+10039;23789531A;01/06/2026;14:27;cataluña;77;h;FIBRA + MOVIL;103,90;5;S;0;;209;Federico Álvarez
+10755;59329945A;26/07/2026;14:17;Comunidad de Madrid;68;2;Fibra600;20,58 €;4;Sí;2;Instalación;772;Federico Álvarez
+10137;35064018C;02/05/2025;18:53;ANDALUCIA;64;m;FIBRA + MOVIL;108,84;1;;4;AVERIA TECNICA;719;Gertrudis Pérez
+10675;32044649J;2025-05-26;16:16;castilla la mancha;71;2;Fibra600;34.76;1;s;1;Portabilidad;250;Gertrudis Pérez
+10287;73727543D;2025-01-14;16:48;Cataluña;;1;Fibra600;69,95;1;SI;2;Instalación;857;Manuel Sánchez
+10408;62229970N;17/12/2026;08:06;Castilla La Mancha ;46;Mujer;Móvil 50GB;36,89;3;;2;Facturación;682;Manuel Sánchez
+10949;67856582N;06/05/2025;10:00;cataluña;34;m;Fibra600;144,74;5;Sí;0;;7;Manuel Sánchez
+10323;68887406N;16/03/2025;12:18;Madrid;68;M;Fibra 600Mb;136,02;1;S;0;;780;Menchu Rodriguez
+10982;42889284B;2025-10-16;11:14;Castilla la Mancha;22;1;TV Premium;83,98 €;7;Sí;0;;178;Menchu Rodríguez
+10321;25236850R;2025-01-03;12:29;Comunidad de Madrid;54;h;FIBRA + MOVIL;88,14 €;3;n;0;;555;Menchu Rodríguez
+10645;10307476M;2025-02-13;09:16;andalucía;66;M;Móvil 50GB;68.44;6;NO;1;Avería técnica;594;Gertrudis Pérez
+10006;56691700Q;24-12-26;21:13;CATALUÑA;57;2;Móvil 50GB;94.80;1;;0;;11200;Menchu Rodriguez
+11111;88992344J;15/10/2026;13:08;C. Valenciana;19;1;MOVIL 20GB;152.17;5;n;1;facturacion;440;Ana Ruiz
+11120;46893145X;09/03/2025;15:48;Madrid;27;H;Fibra600;;2;NO;1;Portabilidad;234;Federico Álvarez
+10862;22501514M;16/04/2026;14:03;Castilla-La Mancha;70;H;tv premium;179,55 €;9;No;0;;4;Manuel Sánchez
+10084;82702131Q;2025-08-16;10:43;Castilla La Mancha ;29;M;Móvil 20GB;181,47 €;1;Sí;;;873;Luciano Gómez
+10522;28398887A;28/10/2026;12:37;MADRID;82;h;Fibra 600Mb;186,07;3;NO;0;;492;Federico Álvarez
+10242;80206669J;16-12-25;14:46;Cataluña;59;M;Móvil 20GB;34,78;9;Sí;4;facturacion;265;Ana Ruiz
+10018;68784149H;2025-04-02;08:57;cataluña;51;m;MOVIL 20GB;22.15;7;;0;;4;Ana Ruiz
+11148;57619769K;21-07-25;19:27;MADRID;68;h;tv premium;79,13;9;No;0;;141;Menchu Rodriguez
+10980;45498870M;16-11-25;11:10;valencia;44;H;FIBRA + MOVIL;33,33;5;s;0;;891;Menchu Rodriguez
+10658;41110204A;01/09/2026;18:36;CATALUÑA;50;1;FIBRA + MOVIL;187,51;4;S;0;;781;Menchu Rodríguez
+10236;26349017M;2025-08-08;17:55;Castilla la Mancha;56;Hombre;Fibra 600Mb;83,27 €;6;S;0;;4;Manuel Sánchez
+11052;55047688C;2026-01-08;20:53;C. Valenciana;39;H;tv premium;37,32;5;s;1;;447;Menchu Rodriguez
+10117;51057467V;03/11/2025;13:22;Andalucia;78;h;MOVIL 20GB;169,24;8;n;1;AVERIA TECNICA;400;Gertrudis Pérez
+10806;89464060S;07/11/2026;10:16;Comunidad de Madrid;46;M;MOVIL 20GB;145.37;8;n;1;;809;Federico Álvarez
+10749;75096120D;06/05/2025;20:12;cataluña;39;Hombre;TV Premium;152,14;9;NO;;;557;Menchu Rodriguez
+11200;34900020G;11-05-25;15:28;C. Valenciana;74;2;Móvil 20GB;164,95;3;n;;;55;Ana Ruiz
+90822;97593779B;12/07/2026;15:28;valencia;57;Mujer;Móvil 50GB;76,77;5;No;4;AVERIA TECNICA;143;Ana Ruiz
+10778;12179863W;22/03/2026;21:10;Andalucía;;h;MOVIL 20GB;75,63;8;NO;0;;666;Ana Ruiz
+10100;51794818J;22-12-26;21:07;andalucía;23;h;MOVIL 20GB;112,77;;No;1;Avería técnica;588;Ana Ruiz
+10531;35020058W;2025-04-23;14:09;C. Madrid;199;h;MOVIL 20GB;58,95;5;Sí;4;AVERIA TECNICA;140;Menchu Rodríguez
+10277;55308652C;28/09/2025;14:16;CATALUÑA;;h;MOVIL 20GB;46,14;;NO;0;;207;Menchu Rodríguez
+10822;39085043Q;23/06/2026;19:49;C. Madrid;23;m;tv premium;83,72;;n;0;;805;Luciano Gómez
+10041;26588798P;07/08/2025;15:06;andalucía;55;m;TV Premium;132.77;4;N;1;Facturación;517;Menchu Rodríguez
+10808;21895884R;2026-06-25;15:39;cataluña;83;2;FIBRA + MOVIL;65,89;6;S;0;;757;Menchu Rodriguez
+10052;68854810L;2026-05-01;21:10;Catalunya;83;m;MOVIL 20GB;84,73;3;s;0;;7;Ana Ruiz
+10486;70762364P;01-01-25;15:21;CASTILLA LA MANCHA;50;Hombre;TV Premium;95,23;;S;1;AVERIA TECNICA;697;Menchu Rodríguez
+10852;94141141J;19-11-25;10:03;C. Valenciana;80;H;Fibra+Móvil;94,37;6;n;3;Atención al cliente;573;Manuel Sánchez
+10810;30818696V;02-04-25;12:59;VALENCIA;48;m;TV Premium;170,26;3;N;3;Portabilidad;69;Federico Álvarez
+10588;64201369M;15-05-25;11:46;castilla la mancha;999;h;Fibra 600Mb;73,41;7;;3;Atención al cliente;618;Gertrudis Pérez
+10278;72893661X;22/06/2025;14:15;VALENCIA;67;m;Fibra 600Mb;48.18;9;NO;0;;481;Ana Ruiz
+10783;38289579C;22/02/2026;20:07;ANDALUCIA;73;Hombre;FIBRA 600;33.15;5;n;1;;438;Gertrudis Pérez
+10818;39839737V;2026-12-12;14:34;Andalucía;55;1;FIBRA + MOVIL;;4;No;2;;129;Menchu Rodríguez
+10111;99667845W;03/09/2025;11:22;Comunidad Valenciana;43;Mujer;tv premium;60.06;6;SI;0;;822;Menchu Rodriguez
+10702;91821665D;07/22/2026;18:19;Madrid;999;h;Fibra+Móvil;132,98;;n;0;;7;Federico Álvarez
+10540;22132351A;26/09/2026;15:39;CLM;24;M;MOVIL 20GB;170,51 €;9;SI;;;483;Menchu Rodriguez
+10570;67808829A;09/09/2026;19:47;CASTILLA LA MANCHA;86;1;TV Premium;173,21;8;s;1;Avería técnica;792;Menchu Rodriguez
+10866;27808883G;03-07-25;11:35;C. La Mancha;0;2;FIBRA + MOVIL;168,09;;;;;4;Menchu Rodriguez
+10286;36657432G;16/05/2025;15:41;andalucía;71;2;MOVIL 20GB;57.69;5;No;0;;892;Manuel Sánchez
+11124;26761009D;2025-02-24;09:53;CATALUÑA;41;2;FIBRA 600;;7;SI;3;Portabilidad;340;Ana Ruiz
+10462;81539043W;22-09-26;11:50;C. Valenciana;82;m;Móvil 20GB;174,21;2;Sí;0;;136;Ana Ruiz
+10825;47314149J;22-01-25;19:25;valencia;22;1;TV Premium;181,31 €;;s;0;;805;Manuel Sánchez
+10892;63841857R;24/07/2025;17:27;andalucía;21;m;Fibra600;76,28;10;s;3;Instalación;93;Menchu Rodríguez
+10424;48674406L;18/07/2026;15:34;castilla la mancha;78;Mujer;Fibra+Móvil;92,96;7;No;;;789;Gertrudis Pérez
+90214;45380171D;15/07/2025;18:02;Castilla la Mancha;75;Hombre;Móvil 20GB;108,48;1;S;1;;725;Gertrudis Pérez
+10560;10657629V;01/03/2025;10:04;C. Valenciana;61;1;Móvil 20GB;105,65;8;s;1;AVERIA TECNICA;235;Ana Ruiz
+10833;19413349N;02-03-25;19:05;Catalunya;48;M;tv premium;39,56 €;8;n;0;;390;Ana Ruiz
+11097;12366639P;08/04/2026;17:38;Catalunya;;M;Fibra 600Mb;122,52;9;NO;0;;60;Federico Álvarez
+11127;26865440Y;12-04-26;13:43;C. Madrid;30;H;Fibra+Móvil;119.72;10;Sí;1;Avería técnica;235;Menchu Rodriguez
+10270;87985531F;05/11/2025;18:35;CASTILLA LA MANCHA;23;M;FIBRA 600;175,78 €;6;Sí;0;;659;Manuel Sánchez
+10405;77209533K;11/03/2025;09:15;Comunidad Valenciana;49;m;MOVIL 20GB;138,12;8;n;1;Facturación;509;Luciano Gómez
+10649;54812188W;04/07/2026;21:55;cataluña;58;1;Fibra600;128.13;2;n;2;Avería técnica;864;Ana Ruiz
+10871;22968073W;03/11/2025;19:42;Castilla la Mancha;64;Hombre;Móvil 20GB;66,09;5;No;1;Instalación;800;Menchu Rodriguez
+11130;93188670R;2026-12-21;19:45;Castilla-La Mancha;83;Hombre;Fibra 600Mb;101.73;10;SI;2;Portabilidad;175;Ana Ruiz
+10730;21813140C;25-06-25;20:40;valencia;78;H;TV Premium;26,43;8;SI;0;;7;Federico Álvarez
+10314;86969264F;06/05/2025;13:04;andalucía;;H;FIBRA + MOVIL;96,70;8;SI;1;Avería técnica;225;Manuel Sánchez
+11132;82272735H;2026-08-08;18:03;Comunidad de Madrid;77;1;tv premium;164,75;5;NO;1;Portabilidad;451;Menchu Rodriguez
+10356;21321887R;09/27/2026;14:37;C. Valenciana;83;1;Fibra+Móvil;146,84;;No;4;;155;Manuel Sánchez
+10599;12649093L;17/05/2025;14:42;Castilla-La Mancha;46;M;FIBRA + MOVIL;46,48;6;S;2;Avería técnica;409;Federico Álvarez
+10046;73041498C;07/07/2025;12:42;Andalucia;32;Hombre;Fibra600;33.39;1;No;;;198;Ana Ruiz
+10712;20385133T;19-03-25;10:11;andalucía;199;H;Fibra+Móvil;62.11;10;SI;0;;639;Menchu Rodriguez
+10244;63465720D;27/12/2025;16:26;Andalucía;0;M;Fibra 600Mb;148,88;5;NO;1;AVERIA TECNICA;288;Menchu Rodríguez
+10936;42892005F;14/03/2025;17:28;madrid;33;Mujer;MOVIL 20GB;82,08;;S;4;Portabilidad;4;Luciano Gómez
+10617;53794765H;05/09/2026;11:44;CLM;999;M;Fibra+Móvil;30,42;;N;1;Atención al cliente;357;Menchu Rodriguez
+10840;71880282Z;15/05/2025;12:13;cataluña;63;m;Fibra+Móvil;124,18;10;n;2;Atención al cliente;426;Manuel Sánchez
+10684;70673572F;2025-03-18;11:06;Catalunya;67;M;Fibra+Móvil;78,60 €;3;N;1;Instalación;192;Manuel Sánchez
+10112;83554680G;2026-05-25;15:46;Castilla-La Mancha;60;Hombre;Fibra+Móvil;81.87;2;S;4;facturacion;4;Gertrudis Pérez
+10055;19942451M;2026-04-27;10:52;Andalucia;69;Hombre;MOVIL 20GB;97,35;10;s;4;Atención al cliente;419;Menchu Rodríguez
+10855;28131726T;14/05/2025;20:00;C. Valenciana;54;Mujer;Fibra+Móvil;79,35;8;NO;4;Atención al cliente;480;Luciano Gómez
+10790;45293271J;2025-06-15;17:51;Castilla La Mancha ;63;1;MOVIL 20GB;117.28;1;SI;2;;4;Manuel Sánchez
+10603;35440668W;11/03/2025;11:56;castilla la mancha;82;h;TV Premium;74.43;3;No;0;;870;Ana Ruiz
+10225;39636902F;14/08/2026;11:41;ANDALUCIA;35;H;TV Premium;134.07;7;No;0;;405;Menchu Rodríguez
+10036;89404822C;12/07/2026;21:12;CLM;35;h;tv premium;37,76 €;1;NO;2;AVERIA TECNICA;502;Federico Álvarez
+10015;61643613D;15/09/2026;17:08;Madrid;40;m;tv premium;186,08;7;N;0;;536;Gertrudis Pérez
+10132;58519143D;2025-04-20;12:49;Castilla-La Mancha;;Mujer;Fibra 600Mb;101,95;9;SI;0;;291;Menchu Rodríguez
+10371;69329493P;13/10/2026;20:29;Castilla La Mancha ;81;H;FIBRA + MOVIL;143.15;2;S;1;Atención al cliente;617;Menchu Rodríguez
+10920;88142281F;25/10/2026;08:38;C. Madrid;44;2;Móvil 20GB;11273;7;n;0;;499;Menchu Rodriguez
+10406;15945625Y;2026-12-02;17:03;valencia;54;Hombre;Fibra600;171,86;3;NO;1;facturacion;876;Manuel Sánchez
+10650;49454815X;05/03/2026;09:21;Andalucía;48;2;tv premium;50,11;3;SI;0;;203;Ana Ruiz
+10283;88990391D;14/01/2026;20:03;Andalucia;25;Hombre;MOVIL 20GB;181,04;3;N;4;Avería técnica;487;Menchu Rodriguez
+11155;59079350Q;2026-05-13;16:35;ANDALUCIA;199;Hombre;Móvil 20GB;29.58;10;s;0;;616;Menchu Rodriguez
+10796;34237622K;2025-04-24;12:18;Cataluña;20;M;Fibra 600Mb;125,42;10;SI;1;facturacion;647;Manuel Sánchez
+10973;66094857G;2025-05-17;16:36;Andalucía;79;h;tv premium;107,28;8;n;1;Instalación;11200;Ana Ruiz
+10114;16894419K;2025-04-04;13:43;Andalucía;59;Mujer;FIBRA + MOVIL;150,34;6;NO;;;446;Menchu Rodriguez
+10754;39148784A;12/02/2025;11:19;C. Valenciana;63;2;FIBRA + MOVIL;129.13;6;No;2;;7;Luciano Gómez
+11047;68906870F;2026-10-18;08:01;Andalucia;82;1;TV Premium;179,33 €;3;NO;0;;598;Menchu Rodriguez
+10779;69529554P;21-11-26;10:54;VALENCIA;0;1;tv premium;35,57 €;;Sí;;;311;Luciano Gómez
+11157;57062622L;26/05/2025;20:01;Comunidad de Madrid;28;1;Fibra600;153.37;8;No;1;facturacion;341;Ana Ruiz
+10627;52938560V;2026-02-04;18:49;C. Valenciana;53;m;Móvil 50GB;37,05;8;SI;0;;664;Manuel Sánchez
+11192;94788771E;2026-11-20;20:25;Castilla La Mancha ;54;2;TV Premium;104.44;1;Sí;;;344;Federico Álvarez
+10272;81886966E;2026-11-06;21:41;VALENCIA;0;1;Móvil 50GB;161,75;9;NO;4;Portabilidad;4;Ana Ruiz
+10961;78361702V;17/03/2026;10:02;Comunidad de Madrid;23;m;Fibra+Móvil;56,24;6;N;0;;207;Federico Álvarez
+10534;83729821L;02/01/2025;08:26;C. La Mancha;23;Hombre;Fibra600;131,83;8;Sí;1;facturacion;11200;Menchu Rodríguez
+10614;57255416S;01/07/2026;10:33;C. Valenciana;78;H;FIBRA 600;20,33;7;s;0;;820;Menchu Rodríguez
+10167;59893839M;01/09/2026;09:38;ANDALUCIA;26;1;Móvil 20GB;59,59;3;;0;;326;Federico Álvarez
+10520;77495695N;08/07/2025;16:39;valencia;56;Hombre;TV Premium;135,97;4;N;4;;286;Ana Ruiz
+10312;10663461V;20/07/2025;20:59;ANDALUCIA;73;m;Móvil 50GB;63,39;;s;0;;71;Menchu Rodríguez
+10331;52886324V;08/12/2026;15:19;Madrid;999;h;Móvil 50GB;108,88;9;NO;1;;437;Menchu Rodriguez
+10389;81630909H;2025-10-14;16:57;Madrid;199;1;Fibra 600Mb;;8;S;0;;186;Manuel Sánchez
+10081;93519329M;2025-02-27;21:57;andalucía;33;M;Fibra 600Mb;140,29;;s;2;;865;Federico Álvarez
+11178;48016285J;2026-07-12;09:15;CLM;44;2;Móvil 50GB;161,50;7;;0;;674;Gertrudis Pérez
+11084;35321537F;2026-09-01;16:13;Castilla la Mancha;54;m;tv premium;61,46;3;s;1;Instalación;4;Gertrudis Pérez
+11036;52112898S;2025-05-19;20:06;CATALUÑA;19;Hombre;TV Premium;81,98;10;s;2;Atención al cliente;365;Gertrudis Pérez
+10549;57729445M;26/07/2025;09:38;C. La Mancha;84;1;TV Premium;177,40;6;S;4;Facturación;8400;Luciano Gómez
+10349;56256073D;2026-12-03;14:12;MADRID;87;Mujer;tv premium;130,57;5;N;0;;269;Federico Álvarez
+10362;62791231N;02-10-25;09:12;castilla la mancha;68;2;FIBRA + MOVIL;18130;;Sí;4;Avería técnica;477;Federico Álvarez
+10925;33643271W;2026-09-17;18:26;cataluña;34;Mujer;Fibra 600Mb;161,88 €;2;SI;2;Facturación;189;Ana Ruiz
+11027;36268957N;02/09/2026;18:42;Cataluña;199;H;Móvil 20GB;181,45;5;n;3;Portabilidad;887;Luciano Gómez
+10908;89215293D;10/07/2026;15:42;CASTILLA LA MANCHA;72;M;Móvil 50GB;135,63;10;N;0;;484;Menchu Rodriguez
+10336;31068325B;24/01/2026;16:47;Cataluña;65;2;Fibra+Móvil;148.59;4;N;1;facturacion;558;Ana Ruiz
+10338;59683575F;15/11/2026;21:13;Comunidad Valenciana;51;Hombre;Fibra 600Mb;44,55;5;;0;;114;Gertrudis Pérez
+10994;10001827C;20/01/2026;17:17;ANDALUCIA;0;Hombre;Fibra+Móvil;131.55;7;No;0;;85;Ana Ruiz
+10510;25448279A;09/04/2025;10:27;C. La Mancha;25;M;Fibra600;132,62;3;S;4;;288;Menchu Rodriguez
+10715;12127517W;10/10/2026;20:05;Comunidad Valenciana;56;H;Fibra600;178,32;7;Sí;;;4;Menchu Rodriguez
+10596;24270573W;28/12/2025;09:28;valencia;43;h;tv premium;127,13;9;No;1;Avería técnica;563;Ana Ruiz
+10361;93197569A;2026-12-18;10:25;C. Valenciana;27;Hombre;Fibra 600Mb;157,76;;S;4;Atención al cliente;11200;Luciano Gómez
+10182;58382788L;07/02/2026;12:32;ANDALUCIA;999;H;MOVIL 20GB;175.82;4;No;0;;837;Federico Álvarez
+10211;46427960R;08/10/2026;21:23;Andalucía;49;Mujer;tv premium;102,60;8;NO;4;Atención al cliente;774;Gertrudis Pérez
+10181;43975797V;26/08/2026;19:09;CLM;22;M;Móvil 20GB;;7;NO;1;facturacion;199;Manuel Sánchez
+10071;95581888K;02/03/2026;15:01;Comunidad Valenciana;55;Hombre;MOVIL 20GB;37,24;9;NO;2;Portabilidad;265;Manuel Sánchez
+10905;17522524N;2025-09-28;11:54;valencia;88;M;Móvil 50GB;97.87;3;S;1;Atención al cliente;396;Gertrudis Pérez
+10777;97133326M;04/02/2026;20:33;andalucía;60;2;Fibra+Móvil;127,39;3;Sí;0;;8400;Federico Álvarez
+10611;15587525Q;17/01/2026;11:23;madrid;20;1;Fibra600;143,50;2;SI;0;;777;Menchu Rodriguez
+11040;58979051T;14/02/2025;21:48;madrid;47;h;FIBRA 600;59,34 €;8;S;2;Instalación;265;Luciano Gómez
+10068;54197464Z;12/02/2025;10:14;Comunidad Valenciana;45;H;tv premium;171.87;6;NO;1;AVERIA TECNICA;159;Federico Álvarez
+10846;56558947V;06-06-26;14:18;cataluña;66;h;Fibra+Móvil;149.91;4;;0;;399;Menchu Rodríguez
+11022;55404893N;2026-12-07;11:15;castilla la mancha;38;m;Fibra+Móvil;78,35;;n;1;AVERIA TECNICA;466;Gertrudis Pérez
+10789;82348108T;2026-10-07;17:48;Castilla la Mancha;23;h;FIBRA + MOVIL;66,67;3;S;1;Facturación;127;Luciano Gómez
+10185;86064723Q;01-07-26;14:14;Comunidad de Madrid;69;1;Móvil 50GB;180,87 €;1;NO;1;AVERIA TECNICA;417;Menchu Rodriguez
+10007;10641349Q;15/06/2025;15:13;CATALUÑA;-3;1;Fibra 600Mb;142,49;6;;3;AVERIA TECNICA;125;Federico Álvarez
+10976;25466150T;09/04/2026;10:54;Comunidad Valenciana;999;1;TV Premium;74,37;1;N;2;Atención al cliente;143;Gertrudis Pérez
+10573;80388955P;11/12/2026;12:37;andalucía;53;m;tv premium;121,31;5;N;0;;274;Menchu Rodríguez
+10087;14148288G;27/04/2026;16:23;valencia;26;M;Fibra600;173,96 €;5;S;0;;110;Manuel Sánchez
+10921;33001891M;03/05/2026;12:17;cataluña;35;Mujer;TV Premium;46,26;5;S;0;;685;Menchu Rodriguez
+10149;92463542S;2026-12-25;08:07;cataluña;27;2;Fibra+Móvil;;7;s;2;facturacion;555;Menchu Rodriguez
+10721;14639127F;20/05/2025;10:49;C. Valenciana;;Mujer;FIBRA 600;145,96 €;;N;2;facturacion;600;Menchu Rodríguez
+10630;13478172C;01-06-26;20:13;Catalunya;59;M;tv premium;80,69 €;;NO;0;;207;Menchu Rodríguez
+11198;25639122Q;03-01-25;16:13;Madrid;48;1;FIBRA 600;26.52;1;;0;;478;Gertrudis Pérez
+10413;42100657T;12/02/2026;17:15;MADRID;199;Hombre;Fibra 600Mb;69,34;1;N;1;AVERIA TECNICA;414;Menchu Rodríguez
+11005;79736330B;03/04/2026;18:01;Comunidad Valenciana;50;Mujer;TV Premium;20,62;5;No;0;;206;Manuel Sánchez
+10459;88804353A;2025-10-01;11:16;CASTILLA LA MANCHA;75;Mujer;TV Premium;140,09;9;N;0;;8400;Ana Ruiz
+11037;74215111C;14-08-25;08:20;Castilla La Mancha ;19;h;Fibra600;29,56;;NO;1;AVERIA TECNICA;151;Menchu Rodríguez
+10583;49966367S;04/02/2025;17:24;C. Madrid;59;m;Fibra 600Mb;82.12;2;;1;Facturación;8400;Menchu Rodriguez
+10387;53767849M;11-05-25;17:14;VALENCIA;21;m;FIBRA 600;162.67;3;s;3;facturacion;849;Menchu Rodríguez
+10326;76436539A;2025-05-24;13:53;C. La Mancha;0;Hombre;FIBRA + MOVIL;137,46;9;NO;2;Facturación;8400;Menchu Rodríguez
+10455;10770115B;2025-03-24;21:44;valencia;52;H;Móvil 20GB;187,99;6;S;1;AVERIA TECNICA;66;Menchu Rodriguez
+10474;40213563D;2026-09-24;15:10;Castilla La Mancha ;76;1;Fibra 600Mb;121,83;;Sí;1;facturacion;459;Manuel Sánchez
+11016;86857873J;21/04/2025;11:19;Castilla-La Mancha;999;2;tv premium;75,26;2;N;2;Portabilidad;208;Menchu Rodríguez
+10514;10345738H;02/05/2025;15:41;madrid;34;2;Móvil 20GB;28.27;7;;2;facturacion;71;Federico Álvarez
+10717;17713756H;23-04-26;08:40;MADRID;999;Mujer;Fibra600;178,97;7;SI;2;;739;Manuel Sánchez
+10291;99283454A;19-05-25;18:32;CATALUÑA;69;h;tv premium;13840;2;n;0;;82;Manuel Sánchez
+10521;53685387S;20/04/2025;21:07;Comunidad de Madrid;52;M;Fibra 600Mb;69,83;7;N;;;7;Manuel Sánchez
+10404;65759896J;21-11-25;18:58;castilla la mancha;25;Mujer;Fibra 600Mb;78,90;5;No;0;;377;Manuel Sánchez
+10179;24568405K;10/01/2025;14:33;castilla la mancha;78;Mujer;Fibra+Móvil;79,53;5;NO;2;;168;Menchu Rodríguez
+10539;82359480D;21/10/2025;18:39;C. Madrid;31;2;FIBRA 600;75,46;1;Sí;0;;573;Federico Álvarez
+10786;58087436L;18/12/2026;12:32;ANDALUCIA;76;1;Fibra 600Mb;148,34;2;NO;1;Portabilidad;413;Federico Álvarez
+10756;12842422R;2026-11-17;16:15;VALENCIA;40;M;Fibra 600Mb;45,30 €;6;N;2;;66;Ana Ruiz
+11079;76380213T;2026-08-08;20:54;MADRID;199;h;FIBRA 600;91,94 €;5;N;4;AVERIA TECNICA;698;Gertrudis Pérez
+10206;12797426K;16/07/2026;18:33;MADRID;59;h;Móvil 50GB;30,30;;;0;;684;Luciano Gómez
+10243;24978268V;07/01/2026;16:46;castilla la mancha;87;2;Fibra600;116.96;4;n;3;Atención al cliente;415;Menchu Rodriguez
+10438;25485695D;07/08/2026;20:19;madrid;32;m;FIBRA + MOVIL;80,50;5;Sí;3;;808;Ana Ruiz
+10318;31442622N;02/06/2026;13:33;CATALUÑA;28;m;Móvil 20GB;181,25;10;s;1;Facturación;203;Menchu Rodríguez
+11135;69568098K;2026-06-01;14:55;C. Madrid;40;m;Móvil 50GB;150,21;;S;0;;4;Ana Ruiz
+10960;58461841R;28/12/2025;14:51;andalucía;42;H;tv premium;52,32 €;;n;2;AVERIA TECNICA;281;Menchu Rodríguez
+10345;35858816S;06/01/2025;16:59;cataluña;50;h;TV Premium;28,67;1;Sí;0;;96;Ana Ruiz
+10621;47322352K;11/11/2025;15:56;madrid;57;h;Móvil 20GB;154.08;10;s;0;;380;Gertrudis Pérez
+10820;38943472R;2025-02-14;09:09;MADRID;31;m;FIBRA 600;170,07;7;n;1;Atención al cliente;566;Menchu Rodriguez
+10106;41125751M;08/08/2025;11:34;C. La Mancha;59;1;tv premium;179,05 €;9;;2;Facturación;8400;Luciano Gómez
+10634;98616848Y;07/08/2025;19:47;andalucía;25;H;Fibra+Móvil;102,59 €;10;SI;0;;130;Federico Álvarez
+11008;49595517K;22-01-25;11:29;ANDALUCIA;33;H;Fibra 600Mb;108,33 €;2;n;2;;513;Menchu Rodríguez
+10745;65741078W;23/10/2025;11:53;cataluña;-3;H;Móvil 20GB;173.75;4;Sí;;;101;Ana Ruiz
+10483;23851493V;2025-12-03;10:30;CASTILLA LA MANCHA;61;h;FIBRA + MOVIL;188,63;9;s;;;331;Luciano Gómez
+10821;14758123Y;2025-09-15;17:21;C. Madrid;41;h;MOVIL 20GB;25,70;;N;3;Avería técnica;843;Menchu Rodríguez
+10638;90601340V;27-05-25;09:22;Cataluña;44;Mujer;Fibra 600Mb;147,00;;SI;;;349;Menchu Rodriguez
+10753;22251262W;02/07/2025;14:13;Andalucía;38;Hombre;Móvil 50GB;37,39;7;SI;1;;208;Manuel Sánchez
+10639;85253408G;2025-07-18;12:40;Cataluña;21;Mujer;tv premium;54,81;8;N;0;;851;Menchu Rodríguez
+10305;46233307F;04/11/2025;17:50;CASTILLA LA MANCHA;71;h;Móvil 20GB;;1;No;0;;458;Menchu Rodriguez
+10655;76059736Y;17/02/2026;11:23;castilla la mancha;42;1;FIBRA 600;70,52;5;s;;;789;Menchu Rodríguez
+10710;89074732F;2026-01-28;16:52;CLM;24;Mujer;Móvil 20GB;3730;2;n;0;;267;Luciano Gómez
+11061;83391716M;21-06-26;21:32;Catalunya;46;Hombre;Fibra600;34,68;2;S;3;Instalación;624;Menchu Rodríguez
+10339;40805859L;20/10/2026;09:04;Cataluña;21;h;Móvil 20GB;149,29;;S;;;510;Gertrudis Pérez
+10907;18950030D;06/09/2025;14:38;CASTILLA LA MANCHA;33;Mujer;FIBRA 600;70,97;9;;;;143;Menchu Rodriguez
+10582;29223934R;08/02/2026;10:12;CASTILLA LA MANCHA;58;H;Fibra 600Mb;125,89 €;5;NO;;;729;Manuel Sánchez
+10895;34696515S;28/05/2025;12:43;madrid;25;Hombre;Móvil 50GB;22.88;4;s;0;;211;Luciano Gómez
+10072;39165426T;28/05/2025;12:20;CASTILLA LA MANCHA;28;h;FIBRA + MOVIL;100,47;6;s;1;;506;Ana Ruiz
+10141;72005068Q;2025-02-10;08:06;CLM;76;Hombre;tv premium;44.62;5;s;1;Portabilidad;553;Manuel Sánchez
+10138;55375500G;02/09/2025;10:13;Castilla La Mancha ;82;h;Fibra+Móvil;25.93;7;;1;Portabilidad;698;Luciano Gómez
+10469;24316018S;28/05/2025;17:21;CASTILLA LA MANCHA;19;M;Fibra 600Mb;124.83;5;NO;0;;4;Menchu Rodriguez
+10672;29796124L;06/11/2026;10:40;Andalucia;67;1;Fibra 600Mb;149.91;8;Sí;;;11200;Menchu Rodríguez
+10859;41907118R;17-05-25;18:57;Cataluña;74;1;Móvil 20GB;79.26;4;s;0;;238;Menchu Rodríguez
+10551;61733044J;25/03/2025;09:50;C. La Mancha;52;H;FIBRA 600;58,54;8;N;2;AVERIA TECNICA;814;Gertrudis Pérez
+10864;34055189N;06-07-25;21:30;CASTILLA LA MANCHA;72;H;Móvil 50GB;92,76;1;SI;0;;240;Gertrudis Pérez
+10374;41489786E;06/08/2026;11:51;Comunidad Valenciana;75;Hombre;Fibra 600Mb;48,24 €;3;No;2;;508;Luciano Gómez
+11069;86068553D;11/15/2025;20:37;ANDALUCIA;999;Hombre;FIBRA 600;41.63;8;NO;3;facturacion;522;Manuel Sánchez
+10233;82089139V;2025-09-06;09:30;Madrid;74;H;Fibra+Móvil;107.20;2;No;2;Atención al cliente;97;Gertrudis Pérez
+10911;35011236B;27/02/2026;21:14;CASTILLA LA MANCHA;46;Hombre;FIBRA + MOVIL;108.64;9;SI;;;455;Gertrudis Pérez
+10538;54096554Z;06/05/2025;12:05;Andalucía;0;2;Fibra600;116.13;1;No;1;;633;Federico Álvarez
+10533;20239675Q;09-11-25;17:05;Catalunya;19;Mujer;Fibra 600Mb;107,44;;S;2;Atención al cliente;212;Gertrudis Pérez
+10029;65381563E;08/04/2025;14:39;madrid;33;2;Fibra+Móvil;24,13;4;No;0;;699;Menchu Rodriguez
+10685;57479674L;20/03/2025;12:57;ANDALUCIA;999;h;FIBRA 600;69,65;8;NO;2;Facturación;740;Federico Álvarez
+10436;95144803X;2025-09-16;14:13;Andalucia;199;h;Fibra600;66,54;3;S;0;;8400;Menchu Rodriguez
+10104;52199254M;17/08/2026;14:54;Castilla La Mancha ;39;m;FIBRA 600;185,34;10;N;1;Portabilidad;382;Menchu Rodríguez
+10280;67150719E;10/03/2026;13:22;Castilla la Mancha;999;h;Fibra600;71,34 €;4;n;1;Avería técnica;11200;Menchu Rodríguez
+10970;47812980A;03-08-26;18:23;Castilla-La Mancha;23;Hombre;MOVIL 20GB;137,91 €;6;No;0;;206;Gertrudis Pérez
+11091;90370145A;2025-08-23;11:29;Castilla la Mancha;73;2;Fibra 600Mb;159.43;3;NO;0;;433;Menchu Rodríguez
+10034;23649762F;2025-10-28;13:51;madrid;33;H;Fibra600;83,31 €;;s;0;;589;Menchu Rodríguez
+10506;33859156N;04/21/2025;20:33;VALENCIA;75;2;Móvil 20GB;123,56;;No;0;;523;Federico Álvarez
+10319;30260109C;09/11/2026;13:39;Andalucia;75;2;FIBRA + MOVIL;136.46;2;No;1;Instalación;389;Menchu Rodríguez
+10503;11056162L;19/09/2026;09:31;CATALUÑA;39;m;FIBRA + MOVIL;64,87 €;1;SI;4;Avería técnica;626;Gertrudis Pérez
+10537;56007255Y;06/07/2025;19:59;Madrid;;H;TV Premium;65,98;1;NO;;;536;Federico Álvarez
+11104;10926793Y;03-08-25;12:41;VALENCIA;75;2;FIBRA 600;172,65;3;N;3;Avería técnica;215;Gertrudis Pérez
+10192;31408373T;09/12/2025;13:02;castilla la mancha;23;h;MOVIL 20GB;157,84 €;1;Sí;2;;294;Menchu Rodriguez
+10372;13835700K;13/01/2025;09:27;valencia;69;2;Móvil 20GB;94,05;9;SI;1;Instalación;4;Federico Álvarez
+10738;28901347P;2025-11-25;10:54;madrid;18;m;Fibra+Móvil;;;Sí;;;268;Gertrudis Pérez
+10735;16582982H;2025-02-14;12:50;madrid;60;M;Fibra600;135,67;10;No;1;Facturación;512;Menchu Rodríguez
+10142;85368228K;2025-10-21;09:41;ANDALUCIA;68;M;tv premium;40,35;8;NO;2;;490;Menchu Rodríguez
+10516;71602446B;24-07-26;09:43;ANDALUCIA;49;Hombre;FIBRA 600;85,44;1;SI;;;135;Manuel Sánchez
+10059;83669038Q;2026-10-28;09:49;castilla la mancha;88;2;TV Premium;142,97;8;N;1;Avería técnica;830;Menchu Rodriguez
+10073;63989836W;01/04/2025;14:18;C. Madrid;55;2;MOVIL 20GB;111,64;4;N;0;;872;Menchu Rodríguez
+10500;47564723Q;2026-03-28;20:47;madrid;50;2;TV Premium;118.97;6;NO;0;;788;Menchu Rodriguez
+10536;62823936C;2026-03-08;16:59;VALENCIA;81;M;Fibra+Móvil;169,17 €;6;SI;0;;205;Federico Álvarez
+10764;72654514G;13/05/2025;09:56;C. La Mancha;67;h;FIBRA + MOVIL;52.20;8;n;1;;201;Ana Ruiz
+10110;29457450C;08/11/2026;11:53;ANDALUCIA;76;1;Fibra600;163,80;2;s;1;Portabilidad;213;Manuel Sánchez
+11092;96661652N;22-04-26;09:57;Castilla-La Mancha;-3;m;Fibra600;144,65;10;NO;2;Avería técnica;7;Ana Ruiz
+10001;64951938B;13-02-25;19:50;Castilla La Mancha ;36;1;MOVIL 20GB;165,59;10;No;2;Atención al cliente;630;Menchu Rodríguez
+10048;52775417F;11-05-25;13:47;ANDALUCIA;50;H;Fibra600;82.71;4;N;1;AVERIA TECNICA;77;Federico Álvarez
+10484;39083264G;2025-11-27;18:07;valencia;50;1;tv premium;121.90;5;S;0;;302;Menchu Rodríguez
+10803;18535293G;2026-03-16;11:52;Castilla-La Mancha;77;2;Fibra600;18289;7;N;1;Portabilidad;854;Manuel Sánchez
+10832;30542615P;05-11-25;17:36;castilla la mancha;999;Hombre;Fibra 600Mb;66,16;9;;0;;286;Menchu Rodriguez
+10198;65483317M;2026-01-13;11:47;madrid;19;H;FIBRA + MOVIL;130,48 €;4;s;0;;693;Menchu Rodríguez
+10569;81799524H;19-07-25;10:53;ANDALUCIA;37;h;FIBRA 600;102.83;8;NO;0;;280;Luciano Gómez
+10741;95417637J;01/17/2025;08:51;andalucía;57;h;Fibra600;39,19 €;4;NO;0;;722;Gertrudis Pérez
+10451;19640426X;2025-05-23;15:31;C. Madrid;199;2;FIBRA + MOVIL;65,98;5;s;4;;82;Manuel Sánchez
+10646;46864635A;2025-05-27;17:20;castilla la mancha;84;1;FIBRA + MOVIL;164,35;;SI;1;;738;Menchu Rodriguez
+10263;36044167Z;15/09/2025;15:17;madrid;199;1;FIBRA 600;34,76;8;No;0;;505;Manuel Sánchez
+10432;50106830Q;08/12/2026;20:18;ANDALUCIA;88;h;tv premium;163,69;7;S;2;Portabilidad;729;Menchu Rodriguez
+11044;10018723Y;12-12-25;10:13;Andalucia;39;H;MOVIL 20GB;;10;s;0;;8400;Ana Ruiz
+10719;94901389G;05/09/2026;17:17;C. La Mancha;27;Mujer;Fibra600;165,91 €;4;n;1;AVERIA TECNICA;547;Menchu Rodríguez
+10876;49847781H;2026-05-10;10:53;Madrid;70;m;tv premium;46,56;3;n;;;7;Ana Ruiz
+10078;90207312D;2026-11-21;19:12;Castilla-La Mancha;81;M;Fibra+Móvil;155,76;10;;0;;11200;Menchu Rodriguez
+10370;72811170J;2026-12-28;20:09;Cataluña;56;Mujer;Fibra+Móvil;25,27;;Sí;2;Atención al cliente;183;Gertrudis Pérez
+10170;92309496R;04/05/2026;18:48;andalucía;73;m;Móvil 20GB;110,63 €;1;S;2;Facturación;808;Federico Álvarez
+10647;68849048X;2025-05-19;08:43;ANDALUCIA;65;Hombre;MOVIL 20GB;66.91;4;NO;2;Atención al cliente;243;Manuel Sánchez
+10348;20282717B;17/07/2026;17:53;Castilla la Mancha;23;2;MOVIL 20GB;180,69;6;s;4;Facturación;753;Ana Ruiz
+10393;83562804L;27-10-26;17:28;C. Valenciana;78;H;Móvil 20GB;165.06;;;2;AVERIA TECNICA;512;Ana Ruiz
+10450;37299518R;28-08-25;21:00;cataluña;0;M;MOVIL 20GB;26,57;9;N;0;;347;Menchu Rodríguez
+10490;22073884M;28/04/2025;19:41;Comunidad Valenciana;63;h;MOVIL 20GB;148,63;3;S;1;Avería técnica;852;Federico Álvarez
+10562;85427026M;12/03/2025;12:56;C. Madrid;84;h;Móvil 50GB;62,21;8;No;1;Atención al cliente;118;Luciano Gómez
+10145;32076966T;2025-02-19;09:49;Andalucía;23;Mujer;Fibra 600Mb;51.82;2;S;2;Atención al cliente;175;Menchu Rodríguez
+10868;66027892S;23/01/2025;15:32;Madrid;19;m;Fibra 600Mb;92,85;10;n;0;;796;Luciano Gómez
+10700;28575378X;23/06/2026;08:09;Catalunya;87;m;Fibra600;177.56;3;n;1;Avería técnica;874;Ana Ruiz
+10948;40578982Q;14/08/2026;21:29;andalucía;60;H;Móvil 50GB;;;N;1;AVERIA TECNICA;829;Federico Álvarez
+11007;93883351C;10/11/2026;08:28;Madrid;66;M;TV Premium;29,50;8;N;1;Facturación;82;Federico Álvarez
+10011;75357980L;07-03-26;20:02;Madrid;71;Mujer;Fibra 600Mb;178,23;5;S;3;Atención al cliente;479;Menchu Rodríguez
+11017;14210540S;2026-02-15;20:19;Comunidad Valenciana;46;2;MOVIL 20GB;18928;7;Sí;0;;56;Federico Álvarez
+10558;84708453C;2025-11-10;10:21;Comunidad de Madrid;39;2;Móvil 50GB;112,25;9;NO;0;;571;Menchu Rodriguez
+10368;88410845F;2026-06-13;08:37;Castilla la Mancha;50;M;Fibra+Móvil;;4;Sí;1;;4;Menchu Rodriguez
+10559;30130679J;2026-11-16;19:50;Comunidad Valenciana;70;m;FIBRA + MOVIL;120,06;9;Sí;2;Facturación;469;Gertrudis Pérez
+10416;78811741X;11/20/2025;09:42;Cataluña;21;2;TV Premium;187.54;10;N;4;Atención al cliente;7;Ana Ruiz
+10391;53235830E;14-11-26;17:46;castilla la mancha;30;h;TV Premium;24,78;5;Sí;1;Atención al cliente;366;Federico Álvarez
+10479;37656364G;28-06-26;11:18;Andalucía;32;H;Fibra 600Mb;121,12;3;NO;;;514;Ana Ruiz
+10027;70298197D;12/05/2026;14:09;cataluña;49;m;tv premium;;8;No;0;;786;Manuel Sánchez
+10218;11371632F;03/12/2026;21:20;CASTILLA LA MANCHA;56;2;FIBRA 600;166,07;10;;1;Facturación;178;Menchu Rodríguez
+10931;55239247X;12/09/2026;12:54;valencia;31;1;FIBRA + MOVIL;69,99 €;10;NO;2;Atención al cliente;7;Menchu Rodríguez
+10038;78048018H;19/01/2025;14:55;CASTILLA LA MANCHA;54;1;Fibra 600Mb;139,87;7;S;1;;223;Gertrudis Pérez
+11095;39275191H;14/08/2025;12:49;C. Madrid;38;Mujer;Fibra600;62,14;8;S;3;Facturación;385;Gertrudis Pérez
+10168;63145851R;02/11/2025;21:46;madrid;30;2;Fibra 600Mb;118,85;1;S;3;Portabilidad;337;Federico Álvarez
+11144;83671166F;04/06/2026;10:11;castilla la mancha;85;Mujer;tv premium;27,76;10;s;0;;566;Federico Álvarez
+10364;14302686J;13/09/2025;08:25;VALENCIA;999;h;Móvil 20GB;71,75;;;2;AVERIA TECNICA;406;Federico Álvarez
+10475;90456408Q;14/10/2026;19:23;andalucía;46;H;Fibra+Móvil;85,13 €;8;Sí;2;facturacion;280;Gertrudis Pérez
+10525;36515337Z;27/09/2025;15:29;C. Valenciana;67;2;MOVIL 20GB;;2;S;0;;150;Manuel Sánchez
+10501;33000989Y;2025-04-01;17:45;Castilla La Mancha ;20;2;FIBRA 600;52,04;1;NO;;;186;Menchu Rodríguez
+10687;68915357X;2025-05-04;17:14;madrid;86;M;FIBRA 600;158,43;7;NO;3;Facturación;349;Ana Ruiz
+10057;76824713A;2026-06-19;21:35;CATALUÑA;78;Hombre;TV Premium;11233;6;S;0;;548;Manuel Sánchez
+10771;98483367J;2025-10-07;18:42;CATALUÑA;65;m;FIBRA 600;180,15;10;S;1;facturacion;734;Gertrudis Pérez
+10870;39607456H;2026-11-11;14:49;Castilla La Mancha ;-3;Hombre;tv premium;112,12;1;N;1;Avería técnica;783;Ana Ruiz
+10934;99826483V;01-06-25;15:27;Madrid;37;1;TV Premium;;5;S;3;Atención al cliente;380;Menchu Rodríguez
+10697;57622493L;05/08/2026;14:31;Castilla-La Mancha;40;m;Móvil 20GB;85,91;1;Sí;2;Facturación;687;Federico Álvarez
+10863;54089168K;05/06/2025;09:28;VALENCIA;32;Mujer;Fibra+Móvil;38.09;9;n;1;facturacion;628;Luciano Gómez
+10912;23325099G;01/11/2026;08:24;C. Valenciana;-3;1;Móvil 50GB;87,55;8;Sí;0;;520;Menchu Rodríguez
+10144;52541548W;09/03/2025;08:56;Andalucía;20;H;Fibra+Móvil;126,02;9;Sí;4;Facturación;892;Luciano Gómez
+10939;28947990Y;28/12/2025;15:51;ANDALUCIA;37;M;Móvil 20GB;47,21 €;9;s;0;;837;Luciano Gómez
+10608;40221362J;21/05/2025;13:48;CATALUÑA;;Hombre;Fibra 600Mb;;8;No;1;Facturación;873;Menchu Rodríguez
+10776;14539446A;04/11/2026;18:44;C. La Mancha;69;Hombre;TV Premium;32,10;;NO;3;Avería técnica;369;Luciano Gómez
+10496;55145301V;25/03/2026;19:43;CLM;;m;Móvil 20GB;35,19 €;10;s;3;Atención al cliente;754;Federico Álvarez
+11173;40586515T;21/01/2025;09:13;C. Madrid;57;h;Fibra 600Mb;60,12 €;7;SI;;;631;Luciano Gómez
+10213;91085400A;05-05-26;20:39;Catalunya;0;1;TV Premium;35,13;3;NO;1;Facturación;363;Menchu Rodriguez
+10121;88468317S;2025-01-05;15:14;ANDALUCIA;85;2;FIBRA 600;44,75 €;;Sí;0;;659;Menchu Rodríguez
+10440;17037901T;2026-12-06;09:57;Castilla la Mancha;24;h;MOVIL 20GB;152,56;4;s;;;374;Luciano Gómez
+10247;79107455V;25-04-25;10:42;VALENCIA;62;m;Fibra 600Mb;163,42;2;S;0;;563;Gertrudis Pérez
+10801;15852150E;11/09/2026;20:07;Madrid;46;Hombre;Fibra600;29,44 €;9;S;0;;113;Luciano Gómez
+10946;68177086P;01-04-25;14:22;CLM;76;h;tv premium;153.32;6;No;1;Instalación;642;Gertrudis Pérez
+10340;61768073J;26/02/2025;08:51;ANDALUCIA;73;2;Móvil 20GB;83,52;;;2;facturacion;69;Ana Ruiz
+10253;43477630X;2025-09-12;09:33;C. La Mancha;83;M;Móvil 50GB;110,55 €;4;S;0;;728;Federico Álvarez
+11041;37459249W;23/08/2025;12:02;ANDALUCIA;29;m;Móvil 50GB;77,38;6;Sí;1;Portabilidad;511;Menchu Rodriguez
+10670;17479684R;23/12/2025;15:51;C. Madrid;-3;m;tv premium;58,07;4;SI;2;Avería técnica;517;Menchu Rodríguez
+10497;38718444K;03/06/2026;17:41;C. Valenciana;40;2;FIBRA 600;133.89;1;SI;4;;447;Manuel Sánchez
+10800;77131927Y;26-03-26;17:47;Castilla-La Mancha;53;1;MOVIL 20GB;76,11;2;No;2;facturacion;81;Manuel Sánchez
+10762;73273045Q;05/04/2025;20:11;madrid;38;2;FIBRA + MOVIL;134,23;5;S;1;AVERIA TECNICA;274;Gertrudis Pérez
+10906;14510072E;02/08/2026;15:10;Comunidad Valenciana;-3;Hombre;MOVIL 20GB;121,26 €;2;n;2;AVERIA TECNICA;526;Luciano Gómez
+10183;19268401J;16/11/2026;08:35;madrid;64;Mujer;Fibra+Móvil;69,77;4;n;2;;715;Menchu Rodríguez
+10854;51109986F;08/03/2025;13:02;Castilla La Mancha ;199;Hombre;FIBRA 600;144,95;;S;3;Atención al cliente;162;Menchu Rodríguez
+10089;48215042F;04/12/2025;20:17;Comunidad de Madrid;50;m;FIBRA + MOVIL;108,10;9;SI;1;AVERIA TECNICA;694;Manuel Sánchez
+11074;22627106B;24/02/2025;11:02;VALENCIA;36;H;Fibra600;6464;5;No;2;;141;Ana Ruiz
+10814;88986549X;17/01/2025;19:52;CLM;55;Mujer;Móvil 20GB;102,23;5;Sí;0;;801;Manuel Sánchez
+10196;44657715L;2025-11-15;21:20;MADRID;67;H;Fibra+Móvil;136,52 €;;s;1;AVERIA TECNICA;223;Ana Ruiz
+11117;94915155Z;03/28/2025;10:51;MADRID;57;h;FIBRA + MOVIL;55,97;10;N;0;;327;Ana Ruiz
+10545;86285523Y;2025-11-10;17:30;castilla la mancha;-3;Mujer;tv premium;32,94;6;NO;3;facturacion;818;Menchu Rodríguez
+11121;56808781X;12/07/2026;10:35;CLM;51;M;FIBRA + MOVIL;95.21;3;SI;0;;576;Federico Álvarez
+10418;89973807W;17/01/2025;19:05;Castilla la Mancha;73;Hombre;FIBRA + MOVIL;104,22;9;;0;;380;Menchu Rodriguez
+10005;29936407Z;22/12/2026;18:04;CASTILLA LA MANCHA;199;H;tv premium;35,40;5;;3;Facturación;147;Menchu Rodriguez
+10410;86263236E;01/09/2025;08:12;CASTILLA LA MANCHA;42;Hombre;FIBRA + MOVIL;161,68;3;SI;0;;364;Gertrudis Pérez
+10023;59282637L;12/03/2025;21:13;C. Valenciana;33;H;Fibra 600Mb;132,00;3;NO;1;AVERIA TECNICA;852;Menchu Rodriguez
+11110;95788809V;23/07/2026;21:42;Andalucia;-3;h;FIBRA + MOVIL;80.19;;;0;;614;Ana Ruiz
+11195;20609307B;22-06-26;15:14;andalucía;63;m;Fibra 600Mb;89,72;;NO;2;;116;Menchu Rodríguez
+10952;48969808H;04/11/2025;20:39;Comunidad Valenciana;55;m;FIBRA 600;62,52 €;10;n;2;;717;Ana Ruiz
+10851;61338343R;09/06/2026;19:59;Madrid;-3;H;tv premium;153,39;;;0;;483;Federico Álvarez
+10116;59396812T;20/12/2026;20:52;andalucía;79;M;TV Premium;90,45;1;NO;2;;499;Federico Álvarez
+10853;74556502T;2025-05-13;20:05;Comunidad de Madrid;;Hombre;tv premium;178,22;10;S;3;Atención al cliente;7;Manuel Sánchez
+10358;56015462G;06/25/2026;16:45;Andalucía;49;1;Fibra+Móvil;106,26;3;NO;0;;443;Luciano Gómez
+11112;36011625Y;2025-04-01;17:13;CLM;46;H;TV Premium;78,84;1;No;1;Avería técnica;439;Federico Álvarez
+11010;37453814N;14/10/2026;08:29;Andalucía;32;Hombre;FIBRA + MOVIL;155.33;1;S;2;Facturación;480;Ana Ruiz
+10188;67497225J;2025-03-15;14:22;C. Madrid;199;h;FIBRA + MOVIL;27,57 €;;s;0;;171;Federico Álvarez
+11058;14149294B;24-06-26;12:56;Castilla la Mancha;74;Hombre;Fibra+Móvil;109.99;7;Sí;2;Facturación;622;Federico Álvarez
+10601;13298147Y;22-09-25;11:08;CATALUÑA;79;2;Móvil 20GB;182.25;9;S;4;facturacion;179;Menchu Rodriguez
+10103;75879320N;05/02/2025;17:57;Comunidad Valenciana;23;2;Fibra 600Mb;76,37;;No;;;466;Gertrudis Pérez
+10193;68843175N;15/09/2025;18:27;Comunidad de Madrid;69;2;TV Premium;20,69;1;s;4;Avería técnica;524;Ana Ruiz
+10651;28422275W;2025-02-07;17:26;C. Madrid;0;2;Fibra 600Mb;32,88;6;SI;3;facturacion;414;Manuel Sánchez
+10271;64648818Z;07/05/2025;16:01;MADRID;999;m;FIBRA + MOVIL;143,22;;No;4;;139;Gertrudis Pérez
+10376;87355728F;27/01/2025;08:55;cataluña;25;1;Fibra600;69,44;3;s;1;Portabilidad;370;Menchu Rodríguez
+10491;93125775M;2025-02-16;14:33;castilla la mancha;-3;h;FIBRA + MOVIL;98,73;;SI;1;AVERIA TECNICA;517;Federico Álvarez
+10152;72022352Z;2025-02-23;09:45;Castilla la Mancha;58;H;Fibra+Móvil;149.56;7;No;0;;189;Luciano Gómez
+11106;25748587R;2025-12-26;12:56;VALENCIA;75;Mujer;MOVIL 20GB;;9;SI;0;;729;Manuel Sánchez
+10031;24772153L;08/04/2026;17:00;C. La Mancha;33;1;TV Premium;42,32;5;NO;1;Instalación;764;Gertrudis Pérez
+90468;28901347P;2025-11-25;10:54;madrid;18;m;Fibra+Móvil;;;Sí;;;268;Gertrudis Pérez
+10947;97593779B;12/07/2026;15:28;valencia;57;Mujer;Móvil 50GB;76,77;5;No;4;AVERIA TECNICA;143;Ana Ruiz
+10673;28148446C;2026-04-02;16:14;Cataluña;38;M;Fibra 600Mb;50,39;8;Sí;;;113;Federico Álvarez
+10592;92727752D;2026-10-19;17:11;Andalucía;81;h;FIBRA + MOVIL;28,53;;Sí;2;Portabilidad;332;Manuel Sánchez
+11089;96536622K;07/09/2025;18:34;CATALUÑA;22;m;Móvil 20GB;;7;NO;2;Portabilidad;262;Luciano Gómez
+10332;47425785S;07/28/2026;15:30;C. La Mancha;26;1;FIBRA 600;70,77;7;N;0;;637;Ana Ruiz
+10642;16585384Y;2026-02-26;10:33;Castilla la Mancha;79;H;Fibra600;46,15;1;Sí;1;Atención al cliente;887;Manuel Sánchez
+10887;76556838G;2026-02-25;17:51;C. Valenciana;41;H;MOVIL 20GB;102.52;9;;2;AVERIA TECNICA;162;Luciano Gómez
+10426;68033089Z;2026-02-11;19:35;Comunidad de Madrid;;H;FIBRA + MOVIL;97,38 €;1;n;0;;549;Menchu Rodríguez
+11015;60998261A;2025-08-27;20:24;valencia;999;Hombre;TV Premium;151,46;;SI;1;facturacion;191;Menchu Rodriguez
+10850;97547053X;05/03/2026;17:35;MADRID;25;Mujer;Fibra600;106.83;5;SI;4;Avería técnica;193;Menchu Rodriguez
+10409;64565883R;2025-02-12;19:50;C. Madrid;53;1;Móvil 20GB;23.78;1;NO;1;AVERIA TECNICA;701;Menchu Rodríguez
+10984;58222538X;12/23/2026;12:24;Castilla-La Mancha;29;Mujer;FIBRA 600;120,79;;NO;1;Facturación;673;Federico Álvarez
+10849;42348100C;2025-02-03;17:18;MADRID;74;Hombre;Fibra+Móvil;133.85;8;N;0;;829;Menchu Rodriguez
+11179;95658272C;2025-07-10;20:20;C. Madrid;62;2;Móvil 50GB;107,68;;Sí;1;Atención al cliente;501;Federico Álvarez
+10461;31036209M;15/09/2025;11:33;cataluña;42;2;FIBRA + MOVIL;140,55;7;s;2;facturacion;4;Ana Ruiz
+11113;87316587W;17/02/2025;11:54;Andalucia;27;M;Fibra600;183,19;4;SI;0;;883;Menchu Rodriguez
+10173;83957649W;05/07/2026;08:12;Cataluña;44;Hombre;Fibra 600Mb;;8;NO;0;;744;Gertrudis Pérez
+11186;84395145F;19/12/2026;16:28;Castilla la Mancha;25;Mujer;MOVIL 20GB;42.22;6;SI;0;;380;Menchu Rodriguez
+10760;62608502W;09/02/2025;18:02;andalucía;62;Hombre;Móvil 20GB;132,56;3;s;0;;880;Federico Álvarez
+10543;20269179M;2026-09-02;18:18;C. Valenciana;31;1;tv premium;84,31;10;;3;Avería técnica;605;Manuel Sánchez
+10354;54785119H;07/11/2025;10:26;VALENCIA;67;2;FIBRA + MOVIL;153,29;7;SI;0;;209;Menchu Rodriguez
+10664;76488011G;09/08/2025;09:50;Comunidad de Madrid;26;M;Fibra 600Mb;;7;No;;;783;Ana Ruiz
+10134;89954590T;02-09-26;15:19;Madrid;26;Hombre;Móvil 20GB;24,05;7;NO;0;;336;Luciano Gómez
+10204;73887059P;2026-04-17;17:07;CLM;199;Hombre;Fibra+Móvil;51,76 €;5;s;2;Atención al cliente;457;Manuel Sánchez
+10512;91875248R;13/03/2026;15:54;Castilla la Mancha;77;Mujer;FIBRA + MOVIL;151,07;10;;1;AVERIA TECNICA;4;Manuel Sánchez
+11193;89894473Q;09/07/2025;16:27;CATALUÑA;21;M;tv premium;161,48;4;N;1;facturacion;4;Luciano Gómez
+10366;79963181A;20/10/2026;19:31;C. Madrid;77;1;TV Premium;100,39;5;NO;0;;4;Gertrudis Pérez
+10030;56184396X;22/06/2025;21:34;castilla la mancha;64;H;Móvil 50GB;40,70 €;9;;2;facturacion;729;Menchu Rodríguez
+10933;25781173X;2026-01-06;19:03;CASTILLA LA MANCHA;42;h;FIBRA 600;98,32 €;1;S;;;831;Menchu Rodríguez
+10425;63641910F;20/02/2026;09:03;Madrid;78;M;Móvil 50GB;79,50;1;NO;0;;197;Menchu Rodriguez
+11028;31268863H;13-09-26;13:36;Cataluña;65;Mujer;Fibra600;181,89;;n;4;Avería técnica;162;Gertrudis Pérez
+10761;64817293L;20/08/2026;20:22;CLM;46;Mujer;tv premium;47,11;6;;4;;157;Menchu Rodríguez
+10300;65330377S;2026-06-07;10:42;Comunidad Valenciana;61;m;FIBRA + MOVIL;98.86;9;s;1;Avería técnica;426;Luciano Gómez
+10448;88093316X;15/04/2026;14:34;Castilla-La Mancha;58;Hombre;tv premium;127,92 €;5;SI;4;Instalación;264;Luciano Gómez
+10235;78885683C;15/01/2026;12:46;CATALUÑA;57;Mujer;Fibra+Móvil;116,82 €;3;S;0;;490;Luciano Gómez
+10186;55861509F;2026-06-23;08:28;C. La Mancha;35;M;FIBRA + MOVIL;87,53;;S;0;;616;Manuel Sánchez
+10989;23335931W;2026-10-18;13:56;Castilla la Mancha;57;H;FIBRA 600;43,43;5;No;3;;811;Manuel Sánchez
+10775;19221609H;19-04-25;11:46;valencia;47;Mujer;Fibra 600Mb;25,55 €;3;;0;;121;Gertrudis Pérez
+11024;89510115W;2025-07-13;18:04;Castilla La Mancha ;69;Hombre;TV Premium;178,19 €;3;NO;3;Facturación;4;Menchu Rodriguez
+10373;32472405C;08/12/2025;10:48;Castilla-La Mancha;47;2;FIBRA 600;28,24;8;Sí;0;;468;Ana Ruiz
+10355;33133417X;2025-06-21;11:40;castilla la mancha;35;m;Fibra600;48.45;1;n;4;facturacion;298;Ana Ruiz
+10932;87157735E;04-10-25;16:04;Madrid;75;H;tv premium;178,83;8;n;0;;54;Gertrudis Pérez
+10787;41478293E;02/02/2025;10:26;cataluña;32;h;FIBRA + MOVIL;140,96;9;Sí;0;;7;Menchu Rodriguez
+10618;18199120M;19/11/2025;11:19;cataluña;45;h;tv premium;10820;3;NO;2;AVERIA TECNICA;636;Menchu Rodríguez
+11071;24528654M;11/12/2026;16:18;andalucía;19;h;FIBRA 600;126,17 €;4;N;0;;547;Luciano Gómez
+10322;17968688B;2025-06-24;11:24;C. La Mancha;999;Mujer;MOVIL 20GB;22,79;6;NO;1;Facturación;193;Manuel Sánchez
+11142;98216880Y;2025-04-15;11:09;castilla la mancha;35;H;Fibra 600Mb;4920;10;No;0;;305;Menchu Rodriguez
+10226;21391482Z;18/12/2026;17:54;MADRID;52;Mujer;FIBRA + MOVIL;124,39;2;S;3;Facturación;324;Manuel Sánchez
+10447;77206680Z;2026-09-25;15:33;Comunidad Valenciana;20;M;FIBRA 600;157.98;7;NO;2;Portabilidad;849;Gertrudis Pérez
+11101;99314180Q;2025-02-12;08:04;CATALUÑA;40;m;Fibra+Móvil;97,88 €;;SI;2;Avería técnica;822;Federico Álvarez
+10518;26639777L;2026-06-23;18:44;cataluña;38;Hombre;TV Premium;28.98;7;No;3;Portabilidad;252;Ana Ruiz
+10160;86857383J;03/09/2025;20:02;ANDALUCIA;78;Mujer;Fibra 600Mb;15169;2;n;0;;774;Menchu Rodríguez
+10693;90038930X;19/08/2026;09:14;CATALUÑA;74;Mujer;Móvil 20GB;171,43;3;;1;facturacion;765;Gertrudis Pérez
+10379;64436598T;07/02/2025;20:51;andalucía;41;Mujer;FIBRA + MOVIL;159.90;3;N;0;;443;Menchu Rodriguez
+10744;87106491G;18/10/2026;09:47;Comunidad de Madrid;0;1;Fibra+Móvil;;8;Sí;2;Instalación;730;Gertrudis Pérez
+11150;98217511W;19-11-25;20:40;Castilla la Mancha;36;1;Móvil 20GB;36.72;5;;4;Avería técnica;11200;Federico Álvarez
+10467;29794853F;19/07/2026;13:34;ANDALUCIA;22;H;Móvil 50GB;149,99;3;s;0;;8400;Gertrudis Pérez
+11118;49225185A;2026-12-15;10:00;Castilla la Mancha;34;Hombre;Móvil 50GB;4936;6;n;0;;373;Luciano Gómez
+10480;78943133D;24/12/2025;12:28;Andalucia;42;1;Fibra+Móvil;121,31;3;n;4;Instalación;7;Luciano Gómez
+10040;59531761F;15/05/2025;17:30;valencia;41;Mujer;Móvil 20GB;120,89 €;10;NO;1;Instalación;779;Manuel Sánchez
+10709;79130374M;04/09/2026;10:09;cataluña;50;h;Fibra 600Mb;5516;8;Sí;;;390;Luciano Gómez
+11038;84461392S;17-11-26;18:05;Madrid;27;2;FIBRA + MOVIL;;3;NO;0;;184;Menchu Rodríguez
+10289;91912090G;22/01/2025;18:09;Comunidad Valenciana;75;2;FIBRA + MOVIL;77,86 €;5;;2;Instalación;552;Federico Álvarez
+10197;13882731W;06/05/2026;10:44;Andalucía;48;1;FIBRA 600;;10;Sí;1;Portabilidad;480;Federico Álvarez
+10720;25008079E;2025-05-09;08:12;Andalucía;56;H;FIBRA 600;143,00;3;NO;1;Avería técnica;4;Ana Ruiz
+11009;19524726Z;07/03/2026;08:59;Comunidad de Madrid;-3;h;Fibra600;134,45;4;N;0;;484;Ana Ruiz
+10924;59296045K;12/02/2025;12:14;valencia;40;Mujer;Fibra 600Mb;170,27;5;Sí;1;Portabilidad;473;Luciano Gómez
+11004;26785721L;07-07-26;16:26;Comunidad Valenciana;84;Hombre;Móvil 20GB;24,35;1;s;0;;7;Federico Álvarez
+10579;88489854V;27/06/2026;13:00;Catalunya;19;h;Móvil 50GB;154,50;6;S;0;;630;Menchu Rodriguez
+11184;54695230L;2025-04-02;13:32;andalucía;46;2;MOVIL 20GB;100.42;3;NO;0;;840;Federico Álvarez
+11160;59126250M;09/05/2025;14:32;Castilla-La Mancha;36;m;FIBRA 600;69.80;10;Sí;1;;81;Federico Álvarez
+10200;85412906X;2025-01-22;21:44;Castilla la Mancha;74;h;Móvil 50GB;22,68;4;SI;0;;557;Gertrudis Pérez
+10395;57105454L;19/05/2025;10:09;C. Madrid;33;H;tv premium;124,44;5;Sí;0;;861;Ana Ruiz
+10624;43531723Q;07/02/2025;09:46;CASTILLA LA MANCHA;-3;H;FIBRA + MOVIL;169,17 €;7;s;2;Instalación;825;Ana Ruiz
+10482;14306667X;2025-12-25;08:23;Comunidad de Madrid;80;H;FIBRA + MOVIL;187,30;3;s;2;;578;Manuel Sánchez
+10419;42040612P;26/08/2026;20:55;MADRID;68;h;Fibra600;51,58;;S;4;Facturación;473;Ana Ruiz
+10691;95676069A;06-04-25;15:48;Castilla la Mancha;82;Hombre;Móvil 50GB;76,26;1;n;0;;522;Manuel Sánchez
+10308;93450026F;2025-10-06;14:57;CATALUÑA;49;m;Fibra 600Mb;5309;1;S;0;;253;Ana Ruiz
+10844;76841070X;04/06/2025;12:17;Castilla La Mancha ;54;Hombre;Fibra600;172,04;1;NO;2;;855;Ana Ruiz
+10898;57452945J;13-08-26;11:06;Comunidad Valenciana;54;2;FIBRA + MOVIL;59,27 €;2;No;2;Avería técnica;633;Ana Ruiz
+11026;16350783F;2025-01-07;16:24;cataluña;77;Hombre;Fibra+Móvil;176,37;4;S;4;Portabilidad;597;Ana Ruiz
+10131;69366854R;2026-10-14;19:19;CLM;62;Hombre;FIBRA 600;29,56;4;n;;;91;Manuel Sánchez
+10172;46471665X;12/03/2025;12:54;andalucía;86;1;tv premium;92,77;6;NO;2;;244;Ana Ruiz
+10535;85734009K;17/01/2025;09:31;C. Valenciana;47;h;TV Premium;63.76;6;Sí;0;;128;Menchu Rodríguez
+11072;82491003R;03/04/2025;18:45;Castilla la Mancha;39;Hombre;Fibra600;48.10;3;SI;0;;287;Menchu Rodríguez
+10333;48058440F;13/12/2026;09:38;CASTILLA LA MANCHA;73;2;tv premium;;7;;2;Portabilidad;289;Menchu Rodriguez
+11067;26050826W;11-04-26;10:29;castilla la mancha;999;Hombre;FIBRA + MOVIL;43,99;10;No;1;;743;Gertrudis Pérez
+10507;67642686E;23/08/2026;12:40;C. Valenciana;54;Hombre;FIBRA + MOVIL;57,76 €;8;Sí;0;;331;Gertrudis Pérez
+10098;82825157W;27-05-26;19:27;CLM;50;H;tv premium;17968;9;;0;;376;Menchu Rodríguez
+11123;19908926H;2026-04-01;11:27;CASTILLA LA MANCHA;18;Mujer;Fibra 600Mb;106,64;2;NO;0;;834;Manuel Sánchez
+10429;67356070Z;23/01/2025;19:16;ANDALUCIA;49;H;tv premium;79,45;9;;1;facturacion;75;Luciano Gómez
+10944;75259029P;23-01-25;13:35;Cataluña;50;1;Móvil 20GB;84,27;3;N;3;Avería técnica;497;Menchu Rodriguez
+10080;47899345M;11/05/2025;17:48;MADRID;;M;FIBRA + MOVIL;23,53;7;N;0;;296;Menchu Rodriguez
+10595;33409604R;2025-03-01;21:26;castilla la mancha;85;1;TV Premium;86,01;8;N;1;Atención al cliente;668;Gertrudis Pérez
+10316;13971947A;28/05/2026;15:30;CLM;61;M;Fibra 600Mb;110,05;1;;1;Avería técnica;292;Federico Álvarez
+10187;66778365N;05/10/2025;13:30;madrid;77;Hombre;FIBRA + MOVIL;42.39;9;Sí;1;Atención al cliente;416;Manuel Sánchez
+10014;67145035L;24/11/2026;15:19;Cataluña;86;H;TV Premium;130,74;8;SI;0;;11200;Luciano Gómez
+11060;99872149E;10/05/2026;19:50;Andalucia;58;Mujer;Fibra+Móvil;;;Sí;0;;48;Ana Ruiz
+10217;35123431A;05/10/2026;08:18;CASTILLA LA MANCHA;49;1;Fibra 600Mb;189.24;;No;2;facturacion;548;Menchu Rodriguez
+10019;51364742J;20-11-26;18:57;cataluña;52;1;Fibra+Móvil;165.11;9;No;;;237;Menchu Rodríguez
+11042;67907342M;2026-05-24;20:51;Catalunya;57;Hombre;Fibra600;74,83;9;N;1;Instalación;177;Gertrudis Pérez
+10747;26464814A;24/04/2026;13:55;Castilla la Mancha;69;h;Fibra+Móvil;88.60;4;s;0;;8400;Menchu Rodriguez
+10571;21430217M;2026-04-05;16:01;CLM;25;M;Fibra+Móvil;;3;No;4;Facturación;309;Manuel Sánchez
+10951;85672096A;20/09/2026;19:26;andalucía;83;1;Fibra600;;4;s;0;;877;Manuel Sánchez
+10708;56807492E;22-08-26;09:49;Castilla la Mancha;42;Hombre;FIBRA 600;143.83;1;s;1;facturacion;783;Menchu Rodríguez
+10885;77145688Q;07/11/2025;15:45;C. Valenciana;57;M;Fibra600;64,54 €;;SI;1;Avería técnica;146;Federico Álvarez
+10421;69414246V;05/01/2025;12:58;madrid;46;Hombre;Fibra+Móvil;141,38;;SI;;;498;Ana Ruiz
+11141;29187032A;13/11/2026;08:04;Comunidad Valenciana;32;H;MOVIL 20GB;138.60;7;N;2;;845;Luciano Gómez
+10743;42412088S;22/07/2026;17:45;CATALUÑA;51;2;FIBRA + MOVIL;24,67;7;Sí;0;;580;Ana Ruiz
+10294;90015836K;01/08/2025;12:41;Castilla La Mancha ;37;H;tv premium;156,20;7;Sí;4;Portabilidad;812;Menchu Rodríguez
+11034;43280382N;2026-05-12;11:23;Catalunya;80;2;FIBRA + MOVIL;119,66;6;NO;4;;553;Ana Ruiz
+10916;28983997E;01/04/2025;20:31;valencia;83;M;FIBRA 600;71.20;3;NO;3;Facturación;572;Gertrudis Pérez
+10003;58644706F;2026-01-18;20:22;valencia;18;m;Móvil 50GB;67.66;3;s;0;;7;Gertrudis Pérez
+10313;10978896H;23/11/2026;15:20;madrid;55;Hombre;Fibra+Móvil;70.05;1;No;2;Facturación;165;Gertrudis Pérez
+10241;69568814W;2025-04-06;17:56;Comunidad de Madrid;62;1;tv premium;186.45;3;N;1;AVERIA TECNICA;8400;Federico Álvarez
+11011;30035824S;2025-06-09;08:19;C. Valenciana;77;M;tv premium;166,45 €;;Sí;0;;112;Menchu Rodriguez
+10586;91914938B;2025-01-11;18:40;Castilla-La Mancha;73;Hombre;FIBRA + MOVIL;120.43;1;SI;0;;352;Manuel Sánchez
+10227;90503768A;24/10/2026;14:12;VALENCIA;77;h;FIBRA 600;103,26;1;;0;;195;Menchu Rodríguez
+10473;12210220A;18-11-25;18:55;Castilla la Mancha;199;M;tv premium;100,83;9;NO;0;;341;Ana Ruiz
+10619;31964920F;24/10/2025;21:23;VALENCIA;57;1;Fibra+Móvil;119,43 €;4;SI;1;AVERIA TECNICA;195;Manuel Sánchez
+10249;51804817E;02/03/2026;15:01;C. La Mancha;35;2;TV Premium;70.49;1;N;0;;249;Luciano Gómez
+10195;34826484B;07-01-25;08:19;Cataluña;46;Mujer;Fibra 600Mb;152,44;6;N;1;;796;Menchu Rodríguez
+11100;43334364A;16-09-26;19:06;Andalucia;46;m;FIBRA 600;27,84;;N;;;258;Gertrudis Pérez
+10823;30947394T;2025-10-02;10:39;cataluña;30;Mujer;Móvil 50GB;133,76;8;N;0;;731;Manuel Sánchez
+11050;90522672P;20-02-26;09:41;Comunidad de Madrid;41;m;FIBRA 600;186,11;;SI;;;262;Federico Álvarez
+10495;58834034L;21/03/2025;15:09;Castilla-La Mancha;66;M;FIBRA 600;173,43;2;s;1;Atención al cliente;157;Menchu Rodriguez
+10307;72458976Z;19/06/2026;20:41;C. Valenciana;42;Hombre;FIBRA 600;181.56;3;N;0;;527;Federico Álvarez
+10385;61361868C;03/12/2026;17:09;CASTILLA LA MANCHA;88;H;tv premium;159.41;9;S;2;Avería técnica;369;Manuel Sánchez
+10212;22944004S;06/05/2026;15:10;Comunidad de Madrid;51;M;Fibra600;100,91;9;No;1;Instalación;388;Menchu Rodríguez
+11102;10845238A;28-09-25;15:37;cataluña;77;Mujer;Fibra600;85.24;10;;0;;424;Menchu Rodríguez
+10128;83281608B;2026-04-06;11:38;cataluña;76;m;MOVIL 20GB;152,52;;n;1;Avería técnica;583;Manuel Sánchez
+10189;13076052A;28-12-25;17:07;Andalucía;61;2;FIBRA + MOVIL;58,60;5;SI;0;;7;Menchu Rodríguez
+10324;72549303F;02/10/2026;11:54;MADRID;0;m;FIBRA + MOVIL;54,49;;Sí;2;;52;Luciano Gómez
+10430;88255416H;24-03-25;15:12;valencia;31;Hombre;FIBRA + MOVIL;43.38;3;SI;0;;648;Ana Ruiz
+10260;49784491K;09/08/2025;08:52;CATALUÑA;66;Mujer;Fibra600;142,77 €;;No;0;;257;Luciano Gómez
+10991;27318035K;07/04/2026;11:48;MADRID;0;1;FIBRA + MOVIL;130,18;8;;0;;4;Luciano Gómez
+10062;88145168S;26/05/2025;14:44;Cataluña;54;M;tv premium;99,40;;NO;1;Instalación;850;Gertrudis Pérez
+10396;18373955Q;08/08/2026;18:14;CLM;48;2;Móvil 20GB;;;s;;;11200;Luciano Gómez
+10093;24296540G;07/01/2025;08:42;Castilla-La Mancha;199;M;Móvil 50GB;182.90;7;S;1;AVERIA TECNICA;427;Manuel Sánchez
+10329;14802783V;05/03/2026;18:20;Catalunya;0;2;TV Premium;172,85;;S;1;Instalación;895;Ana Ruiz
+10977;63754119D;18/05/2026;10:43;Castilla-La Mancha;85;m;Fibra600;110,52;;n;0;;382;Menchu Rodriguez
+10572;33526147H;2025-12-03;11:52;castilla la mancha;60;Hombre;tv premium;164,32;7;s;1;;492;Ana Ruiz
+10953;95296975G;02/05/2026;21:00;andalucía;;1;tv premium;23.15;;S;1;Atención al cliente;182;Menchu Rodriguez
+10733;92604261C;06/08/2025;13:10;valencia;199;H;Fibra 600Mb;101,33;7;No;3;Facturación;110;Manuel Sánchez
+11025;31705243T;15/03/2026;18:48;Madrid;29;H;Móvil 20GB;126,45;7;N;1;Atención al cliente;8400;Gertrudis Pérez
+10174;62145259E;07/10/2026;19:09;Comunidad de Madrid;26;1;FIBRA 600;145,11;2;s;1;Portabilidad;350;Luciano Gómez
+10826;91311613G;04/10/2025;17:21;MADRID;199;m;tv premium;35,71;7;No;;;570;Menchu Rodríguez
+10119;14612821V;26/01/2025;12:42;castilla la mancha;42;1;tv premium;57,06;;SI;3;AVERIA TECNICA;270;Manuel Sánchez
+10207;74098364M;13/02/2026;08:05;madrid;33;H;TV Premium;73,50;4;SI;0;;398;Ana Ruiz
+10346;55202474Z;24/11/2025;13:45;CATALUÑA;36;Hombre;Móvil 20GB;119,11 €;;n;0;;139;Manuel Sánchez
+10628;95457541L;22/02/2025;09:34;ANDALUCIA;999;2;Móvil 50GB;96,72;1;Sí;1;Atención al cliente;612;Gertrudis Pérez
+11029;59506922D;02/06/2025;10:27;Catalunya;44;h;Fibra600;145,54;9;SI;1;Avería técnica;894;Menchu Rodriguez
+10276;48052256Z;19/04/2025;08:37;VALENCIA;48;M;MOVIL 20GB;148,55 €;3;No;0;;352;Manuel Sánchez
+11114;15451957H;18/10/2026;18:09;CATALUÑA;40;h;Fibra600;51,86;;Sí;;;103;Federico Álvarez
+10729;79376591Y;19-10-26;17:16;C. La Mancha;85;Hombre;Fibra+Móvil;93,78;;N;0;;755;Manuel Sánchez
+11168;66600152M;2026-04-15;18:21;CASTILLA LA MANCHA;54;M;Fibra+Móvil;45.05;2;;1;Atención al cliente;296;Manuel Sánchez
+10129;28892464Y;28-09-26;16:55;ANDALUCIA;85;m;Fibra 600Mb;69,75;2;n;0;;758;Menchu Rodríguez
+10593;35704896M;2025-10-01;13:10;Castilla-La Mancha;83;Mujer;Fibra+Móvil;124,34;2;;3;facturacion;7;Manuel Sánchez
+10076;93849718X;09/07/2025;11:56;Castilla-La Mancha;999;M;FIBRA + MOVIL;47,15;3;N;4;facturacion;308;Menchu Rodriguez
+10981;67186202M;11/10/2025;16:57;C. Madrid;45;2;MOVIL 20GB;53.07;1;SI;0;;77;Ana Ruiz
+10978;24447094T;2025-11-13;17:21;valencia;25;Hombre;tv premium;27,37;3;S;0;;842;Ana Ruiz
+10377;28181822N;15-05-25;21:25;Castilla La Mancha ;25;h;MOVIL 20GB;165,92;6;N;2;Instalación;558;Menchu Rodríguez
+10216;15272949B;2026-04-28;10:58;Madrid;999;2;Fibra+Móvil;104,28;8;n;3;Atención al cliente;11200;Luciano Gómez
+10390;81669547A;2025-12-13;14:34;CASTILLA LA MANCHA;21;1;FIBRA + MOVIL;55.19;8;Sí;0;;655;Ana Ruiz
+10446;78978077M;12-06-26;13:19;Catalunya;65;H;FIBRA + MOVIL;59,12;3;NO;4;;50;Luciano Gómez
+10088;78380457T;11/11/2025;13:10;Andalucia;84;1;TV Premium;32,98;5;s;;;94;Federico Álvarez
+11177;44641475W;24/10/2025;18:34;madrid;86;Hombre;FIBRA 600;134.14;3;SI;0;;448;Manuel Sánchez
+11108;54931194R;19/05/2026;08:37;VALENCIA;;2;TV Premium;160,88 €;;No;2;AVERIA TECNICA;888;Luciano Gómez
+10699;94933352P;2025-07-01;15:13;C. Madrid;47;2;TV Premium;56,51;8;s;1;Facturación;7;Menchu Rodríguez
+10605;64138058V;09/10/2026;10:23;madrid;22;H;Fibra 600Mb;163,53;2;NO;1;Portabilidad;4;Ana Ruiz
+10785;46980133E;25/04/2026;19:54;VALENCIA;66;2;Móvil 20GB;;5;;4;;696;Ana Ruiz
+10589;66492541Y;28/09/2026;12:45;Cataluña;199;Hombre;Móvil 50GB;67,44;10;N;4;;644;Federico Álvarez
+10210;39009695W;07/10/2025;20:47;C. Madrid;40;H;Móvil 50GB;117,64;10;n;;;305;Federico Álvarez
+10180;47030216P;01/26/2025;10:10;Catalunya;55;2;FIBRA + MOVIL;;;Sí;1;Facturación;4;Luciano Gómez
+10504;47651929V;07/05/2026;11:00;madrid;199;Hombre;TV Premium;29,75;3;S;0;;578;Menchu Rodriguez
+10063;46257871P;18/07/2026;13:20;ANDALUCIA;58;1;Fibra 600Mb;160.13;10;SI;1;;678;Luciano Gómez
+10143;77509988Q;04/08/2025;19:21;CLM;31;H;tv premium;113,02 €;1;No;1;;73;Menchu Rodriguez
+10587;45538407L;22-06-25;11:03;Andalucía;87;1;TV Premium;109,71;2;s;4;;81;Ana Ruiz
+10478;35030787D;25/07/2026;19:46;madrid;65;2;Móvil 20GB;186,85;1;;0;;140;Gertrudis Pérez
+10075;74586393T;18/04/2026;15:24;CLM;20;M;TV Premium;82,28;3;s;1;;265;Federico Álvarez
+10054;64588506X;20/12/2025;21:39;VALENCIA;88;H;Móvil 50GB;15725;4;N;0;;810;Ana Ruiz
+10640;44782007E;11/10/2026;14:51;madrid;20;H;FIBRA + MOVIL;;5;SI;2;Portabilidad;144;Ana Ruiz
+10096;80986084H;22/10/2026;14:40;Catalunya;82;m;Fibra600;42.41;6;N;1;AVERIA TECNICA;255;Menchu Rodríguez
+10993;87767923R;04/05/2026;17:39;Castilla La Mancha ;;Mujer;Móvil 50GB;51,71;1;;2;AVERIA TECNICA;158;Luciano Gómez
+10903;77101954J;2025-12-15;19:37;Comunidad de Madrid;51;1;Móvil 20GB;24.31;9;S;2;;790;Manuel Sánchez
+10428;90448706D;13/08/2025;17:13;madrid;47;m;TV Premium;94,71;7;NO;1;AVERIA TECNICA;260;Ana Ruiz
+10265;56763282E;2025-10-04;18:29;Comunidad de Madrid;;h;Móvil 20GB;178.56;;N;0;;185;Menchu Rodriguez
+10714;78767590G;16/01/2025;14:05;Comunidad Valenciana;65;H;tv premium;120.97;4;;;;7;Federico Álvarez
+10163;25608730X;13/10/2025;14:26;ANDALUCIA;43;1;Móvil 20GB;35,79 €;9;Sí;;;183;Ana Ruiz
+10681;24486810Z;03-11-25;16:31;castilla la mancha;25;Hombre;FIBRA + MOVIL;181,64;4;S;1;facturacion;567;Ana Ruiz
+10092;43274685N;01/10/2025;17:35;Castilla La Mancha ;56;h;Móvil 50GB;29.05;8;N;0;;208;Manuel Sánchez
+10975;89063350K;2026-01-22;12:38;C. Madrid;62;m;Móvil 20GB;129,69;2;Sí;1;facturacion;892;Menchu Rodriguez
+10177;42051387Y;25/10/2026;14:40;Comunidad de Madrid;62;m;Móvil 20GB;161.46;8;No;1;Atención al cliente;8400;Luciano Gómez
+10726;54384065X;24-12-26;09:00;Castilla la Mancha;999;2;MOVIL 20GB;109.46;;S;2;Instalación;70;Menchu Rodriguez
+10899;58356549G;04/02/2026;08:38;Comunidad de Madrid;52;Mujer;Fibra 600Mb;57.59;4;n;4;Facturación;443;Federico Álvarez
+10282;93957158N;01/03/2025;17:25;Castilla-La Mancha;199;h;MOVIL 20GB;;6;SI;0;;378;Menchu Rodríguez
+10220;70976327K;12/08/2026;13:48;VALENCIA;75;Hombre;Fibra 600Mb;176,71;1;NO;0;;379;Gertrudis Pérez
+11116;86400921Q;05/05/2026;10:34;castilla la mancha;85;M;Móvil 50GB;29,70;2;n;0;;556;Ana Ruiz
+10547;50988478D;18/05/2026;20:59;Catalunya;55;1;Fibra+Móvil;166,67;3;S;;;330;Ana Ruiz
+10162;33826154S;18/11/2026;12:24;castilla la mancha;60;h;Móvil 50GB;88,52;7;s;1;Instalación;611;Luciano Gómez
+10222;95834377E;02/03/2026;17:16;Madrid;199;m;Fibra600;144.40;;n;4;Facturación;675;Gertrudis Pérez
+10330;39041260B;17/06/2025;16:53;Madrid;33;Hombre;TV Premium;125,71;3;N;1;facturacion;660;Luciano Gómez
+10460;18961090G;2025-09-09;16:14;Cataluña;29;Mujer;Móvil 20GB;54,60;7;NO;0;;631;Ana Ruiz
+10607;22434887J;18-10-26;09:34;Cataluña;45;M;Fibra+Móvil;75.49;10;Sí;0;;52;Federico Álvarez
+10452;63127882A;26/08/2025;15:18;ANDALUCIA;0;Mujer;MOVIL 20GB;116,18;9;Sí;0;;618;Ana Ruiz
+10888;32341650T;13-04-25;21:12;Castilla-La Mancha;32;1;Fibra+Móvil;24,96;2;S;;;485;Ana Ruiz
+10688;34268474X;19-04-25;16:50;Catalunya;20;Mujer;FIBRA + MOVIL;59,67;;;2;Portabilidad;149;Gertrudis Pérez
+10508;41189882J;01/10/2026;14:51;Castilla La Mancha ;29;2;MOVIL 20GB;32,49;10;Sí;1;;11200;Gertrudis Pérez
+10457;64651229E;15-09-26;21:35;andalucía;37;m;TV Premium;89,06 €;;N;0;;254;Menchu Rodríguez
+10917;11516341E;28-11-26;11:19;VALENCIA;61;2;tv premium;85,58 €;10;s;0;;66;Manuel Sánchez
+10812;83268515Q;07-03-26;14:41;C. La Mancha;25;M;Fibra+Móvil;42,42;4;NO;0;;649;Ana Ruiz
+10124;73410552L;2025-12-24;08:02;Castilla La Mancha ;77;1;MOVIL 20GB;54,99 €;1;NO;0;;758;Ana Ruiz
+10013;14617619P;24/08/2025;10:29;C. La Mancha;29;Hombre;Fibra600;121.82;5;NO;2;Avería técnica;130;Federico Álvarez
+10190;91312969J;2025-10-13;08:15;Comunidad Valenciana;-3;1;TV Premium;33,95;3;S;2;Facturación;445;Federico Álvarez
+10734;76471541L;13/02/2026;14:23;Cataluña;66;1;TV Premium;171,03 €;1;SI;4;AVERIA TECNICA;889;Menchu Rodríguez
+10135;54715008V;2025-02-05;20:35;cataluña;-3;Hombre;TV Premium;6406;8;n;2;Facturación;486;Menchu Rodriguez
+10965;65839722W;24-06-25;21:21;CASTILLA LA MANCHA;70;M;Móvil 50GB;34,55;1;SI;0;;288;Manuel Sánchez
+10835;15526969B;03/02/2026;21:10;CLM;0;1;Móvil 50GB;31.30;8;Sí;;;168;Ana Ruiz
+10841;19717686L;21/01/2026;17:01;C. Madrid;75;1;MOVIL 20GB;175.04;9;n;4;Instalación;863;Ana Ruiz
+10641;48707609H;16/01/2026;13:41;Madrid;31;Hombre;FIBRA 600;103,78 €;;SI;;;87;Ana Ruiz
+10636;80748414S;06/04/2026;12:45;Castilla la Mancha;999;m;TV Premium;40,06;2;NO;1;facturacion;561;Menchu Rodríguez
+10086;77658685Q;22/07/2025;14:49;CLM;36;Hombre;Móvil 50GB;50,51;5;s;4;Portabilidad;846;Ana Ruiz
+10032;14312450Q;07-11-26;19:57;Catalunya;39;Mujer;TV Premium;160,88;4;Sí;1;Portabilidad;450;Luciano Gómez
+10290;30422115C;01/04/2025;16:45;C. Madrid;26;h;Fibra 600Mb;77,11;8;;2;AVERIA TECNICA;710;Gertrudis Pérez
+10285;94693255B;06/25/2025;21:24;Castilla La Mancha ;24;H;FIBRA 600;52,11;9;NO;2;Atención al cliente;830;Gertrudis Pérez
+11139;64998444A;2025-04-16;08:53;Catalunya;81;M;Fibra 600Mb;38.30;;No;2;Atención al cliente;673;Ana Ruiz
+11190;15860536B;24/06/2025;12:05;VALENCIA;87;Mujer;MOVIL 20GB;58,44;6;N;1;Facturación;126;Gertrudis Pérez
+10643;12499076A;03/01/2025;15:02;cataluña;30;M;Fibra 600Mb;78,12;3;NO;4;facturacion;474;Manuel Sánchez
+10774;35232506E;11-06-26;18:29;ANDALUCIA;72;h;Fibra 600Mb;84.87;4;Sí;3;Facturación;359;Menchu Rodriguez
+10070;14848758D;12/11/2026;14:27;CASTILLA LA MANCHA;0;M;Fibra600;46,52;2;No;2;facturacion;464;Menchu Rodríguez
+10171;81619886K;2025-09-20;16:41;Cataluña;87;m;Fibra 600Mb;7811;3;n;0;;404;Ana Ruiz
+10660;71643683S;20/01/2026;09:44;Comunidad Valenciana;33;2;Fibra 600Mb;152,78;4;Sí;0;;632;Menchu Rodríguez
+11170;45380171D;15/07/2025;18:02;Castilla la Mancha;75;Hombre;Móvil 20GB;108,48;1;S;1;;725;Gertrudis Pérez
+10156;61698188L;2026-08-26;08:41;madrid;999;1;TV Premium;39.19;;Sí;1;Instalación;180;Luciano Gómez
+10422;50179474Z;24-09-26;10:47;Comunidad de Madrid;63;M;FIBRA + MOVIL;141,12;8;;;;265;Gertrudis Pérez
+11056;25664371P;01/06/2025;10:02;Castilla la Mancha;20;1;TV Premium;98,84;2;Sí;4;facturacion;55;Manuel Sánchez
+90335;10406940P;07/12/2026;20:15;MADRID;83;H;Fibra+Móvil;77.59;;s;2;Portabilidad;165;Luciano Gómez
+10883;34841561A;06/10/2026;13:20;Catalunya;52;M;Fibra600;22.72;2;No;2;Instalación;482;Luciano Gómez
+10780;34350775J;02/06/2025;12:15;Comunidad Valenciana;45;2;Fibra 600Mb;119,72;;No;1;facturacion;747;Menchu Rodríguez
+10555;12370048J;08/18/2026;19:31;valencia;76;m;Móvil 20GB;147.65;;;0;;273;Menchu Rodríguez
+10517;13976010M;08/01/2026;09:31;Comunidad de Madrid;24;h;Fibra+Móvil;57.26;2;No;1;Facturación;11200;Manuel Sánchez
+10766;89423299R;2026-11-19;09:32;VALENCIA;;1;Móvil 20GB;161,14;9;Sí;0;;750;Luciano Gómez
+10847;53304610S;04/20/2026;13:54;Castilla-La Mancha;58;h;tv premium;;2;s;1;;843;Ana Ruiz
+10043;10772426N;09/05/2026;12:43;castilla la mancha;78;1;Fibra+Móvil;159,61;9;Sí;1;facturacion;599;Luciano Gómez
+10264;50406363B;14-12-26;12:55;C. La Mancha;25;M;Fibra600;137,63;;N;3;Portabilidad;491;Federico Álvarez
+10502;88185066Q;08/03/2025;10:47;cataluña;199;1;MOVIL 20GB;112.59;3;N;3;Portabilidad;675;Gertrudis Pérez
+10099;59864084V;28/12/2026;12:12;Castilla la Mancha;33;Hombre;TV Premium;2981;8;;4;Facturación;511;Ana Ruiz
+10620;85227071Q;2026-09-10;12:36;Andalucia;72;m;FIBRA + MOVIL;171,79 €;9;No;2;;312;Menchu Rodriguez
+11032;37406306X;14/02/2025;15:45;CATALUÑA;78;2;FIBRA + MOVIL;147,17;;s;2;;473;Luciano Gómez
+10794;17189676D;25/03/2026;11:59;Comunidad de Madrid;;2;tv premium;37,29 €;2;SI;3;facturacion;8400;Menchu Rodriguez
+11076;98852337Q;2026-11-09;11:44;VALENCIA;23;m;tv premium;138.53;9;N;2;Facturación;576;Manuel Sánchez
+10454;52912321X;24/05/2026;21:53;CATALUÑA;73;1;Fibra600;131.26;3;N;0;;7;Gertrudis Pérez
+10159;98461781B;02/03/2025;20:02;andalucía;199;M;MOVIL 20GB;29,51 €;7;;3;Facturación;826;Menchu Rodríguez
+10033;51110604S;19/03/2025;10:24;Castilla la Mancha;83;M;Fibra 600Mb;187,94;5;No;1;Atención al cliente;717;Manuel Sánchez
+10082;79841207J;01/09/2025;15:40;castilla la mancha;37;Hombre;FIBRA 600;143,94;1;N;0;;502;Ana Ruiz
+11019;85652692Y;17/09/2025;11:12;madrid;51;m;Fibra+Móvil;62,23;4;SI;0;;339;Federico Álvarez
+10025;30286656X;27/05/2026;13:40;Andalucía;999;Mujer;tv premium;45.21;5;N;3;;528;Federico Álvarez
+10133;29458077G;2025-01-24;16:11;Castilla La Mancha ;28;Hombre;TV Premium;53,10;9;N;1;;408;Gertrudis Pérez
+10890;81078138C;2026-08-23;20:33;Comunidad Valenciana;60;h;FIBRA 600;73,59 €;;n;4;Atención al cliente;7;Gertrudis Pérez
+90691;48058440F;13/12/2026;09:38;CASTILLA LA MANCHA;73;2;tv premium;;7;;2;Portabilidad;289;Menchu Rodriguez
+11169;98760029C;12-03-26;08:58;C. Valenciana;199;M;FIBRA + MOVIL;87,26 €;7;n;2;Instalación;831;Menchu Rodríguez
+10118;15670907T;09/01/2026;16:14;Andalucia;73;h;FIBRA + MOVIL;65,91 €;7;N;4;facturacion;236;Menchu Rodríguez
+10609;46279842Y;06/09/2025;09:15;MADRID;77;Mujer;Fibra600;100.11;9;;0;;112;Gertrudis Pérez
+10400;70311118Q;25/05/2026;08:21;Comunidad de Madrid;46;1;FIBRA 600;90.05;8;Sí;0;;246;Manuel Sánchez
+10696;13951009P;20-03-25;10:09;valencia;86;2;FIBRA 600;172,20;6;;4;Facturación;148;Menchu Rodriguez
+10665;27017768H;03/10/2026;12:15;ANDALUCIA;44;M;tv premium;70.95;5;No;3;;623;Manuel Sánchez
+10616;49134109F;20/01/2026;09:08;Castilla-La Mancha;76;H;Fibra600;132,54;4;No;;;836;Ana Ruiz
+11103;19127816A;04/01/2025;09:15;C. Valenciana;51;h;Fibra 600Mb;155,73;2;No;1;;200;Gertrudis Pérez
+10606;54729304S;2025-08-01;12:54;cataluña;77;M;FIBRA + MOVIL;135.54;;n;0;;406;Menchu Rodriguez
+10770;32540013E;2026-07-16;13:24;andalucía;74;1;tv premium;9344;2;s;1;facturacion;763;Ana Ruiz
+11181;66997985J;15/06/2025;12:28;CATALUÑA;69;2;MOVIL 20GB;130,57;4;;0;;265;Ana Ruiz
+10703;76620076A;2025-05-12;18:01;ANDALUCIA;40;1;TV Premium;114,77;9;;1;Facturación;383;Ana Ruiz
+11185;29982600K;13/09/2025;20:42;C. Valenciana;69;m;tv premium;126,32;6;Sí;0;;328;Gertrudis Pérez
+10612;19399929Z;03/01/2025;13:14;C. Valenciana;28;Hombre;Fibra 600Mb;185,63;10;S;0;;792;Gertrudis Pérez
+11129;20307011B;14-05-26;11:28;MADRID;199;m;Fibra600;171,66;;;1;Atención al cliente;534;Ana Ruiz
+10594;74738766Y;26/12/2026;08:12;Catalunya;-3;Hombre;FIBRA 600;137,37;;SI;0;;435;Gertrudis Pérez
+10584;47868216S;2026-08-11;14:22;Andalucia;22;m;tv premium;164,83;5;n;0;;261;Menchu Rodríguez
+10722;11726531P;2026-05-08;15:15;Castilla la Mancha;999;H;Fibra+Móvil;93,62;10;Sí;2;AVERIA TECNICA;11200;Luciano Gómez
+10633;69974324R;27/06/2026;08:01;Castilla La Mancha ;19;M;Móvil 20GB;170,83;9;n;3;Facturación;246;Manuel Sánchez
+10065;99835668E;27/01/2026;14:22;madrid;65;H;TV Premium;151,70 €;10;;1;;653;Manuel Sánchez
+10456;68697666W;2025-07-20;14:09;Madrid;;H;Móvil 20GB;61.20;6;S;2;Atención al cliente;131;Gertrudis Pérez
+10232;87191734V;12/03/2026;20:24;Castilla La Mancha ;46;M;TV Premium;3514;4;No;0;;212;Manuel Sánchez
+10245;42408615V;15-05-26;18:46;Castilla la Mancha;0;Mujer;FIBRA 600;156.93;10;Sí;2;Instalación;287;Manuel Sánchez
+10140;64118787V;2025-12-27;15:58;Catalunya;29;m;Fibra 600Mb;94,81;1;NO;3;;480;Manuel Sánchez
+11012;16775373Y;01/12/2026;10:45;Comunidad de Madrid;;M;Móvil 50GB;125,45 €;1;S;0;;11200;Menchu Rodríguez
+10677;85866966A;24/12/2025;11:54;Catalunya;199;H;FIBRA 600;72,46;9;SI;0;;740;Ana Ruiz
+11081;49599643J;22-12-26;17:39;CLM;36;m;FIBRA + MOVIL;;;n;1;Facturación;779;Gertrudis Pérez
+10481;71589967V;03/04/2026;17:26;Castilla la Mancha;34;M;FIBRA 600;9507;10;Sí;4;Avería técnica;97;Gertrudis Pérez
+10214;83041823P;10/03/2025;20:32;Comunidad de Madrid;199;Hombre;FIBRA 600;128,54 €;;S;2;Instalación;231;Federico Álvarez
+10383;65821502F;03-09-26;16:12;CASTILLA LA MANCHA;199;M;FIBRA 600;167.37;1;n;4;Portabilidad;675;Manuel Sánchez
+10471;77733794D;11/11/2026;18:20;Castilla-La Mancha;70;H;Fibra 600Mb;92,80 €;;S;1;facturacion;393;Menchu Rodriguez
+10915;88328112Y;27/11/2025;15:58;Castilla la Mancha;55;1;TV Premium;131,71;9;Sí;0;;814;Luciano Gómez
+10891;98585968X;14/07/2026;16:39;C. La Mancha;75;m;MOVIL 20GB;182.02;8;SI;1;Atención al cliente;257;Luciano Gómez
+11122;20269789N;19-12-26;13:52;CATALUÑA;46;2;Fibra600;89,86;6;;;;226;Federico Álvarez
+10415;77699225P;26-05-26;12:34;andalucía;79;m;MOVIL 20GB;155.55;10;;;;4;Menchu Rodriguez
+10334;94628538W;15/11/2026;11:16;Catalunya;68;h;FIBRA 600;127,92;2;Sí;2;;119;Manuel Sánchez
+10357;52252350N;2025-05-05;10:52;C. La Mancha;52;H;FIBRA + MOVIL;62,38;7;No;0;;332;Gertrudis Pérez
+10894;58114471Z;03/10/2026;08:48;VALENCIA;49;H;Fibra 600Mb;;5;S;1;Atención al cliente;330;Manuel Sánchez
+10897;51465708E;16-04-25;21:29;VALENCIA;47;h;tv premium;35,53;;s;1;facturacion;461;Gertrudis Pérez
+11099;92257860Y;24/07/2025;21:53;C. Madrid;19;Hombre;Fibra 600Mb;71,86;3;s;0;;169;Manuel Sánchez
+10269;15915921P;27/07/2026;10:12;Comunidad de Madrid;76;m;tv premium;118,11;;;3;AVERIA TECNICA;382;Gertrudis Pérez
+10526;70088296S;06/10/2025;21:09;ANDALUCIA;80;M;Fibra600;14246;6;SI;;;4;Manuel Sánchez
+10444;24976846G;28/08/2025;16:17;Madrid;85;h;FIBRA 600;80,87;8;NO;1;facturacion;682;Menchu Rodríguez
+10941;29406257E;2025-01-14;08:29;Castilla La Mancha ;0;M;Fibra+Móvil;107,16;5;Sí;1;Avería técnica;207;Gertrudis Pérez
+11049;69795021Q;2025-11-28;14:50;CASTILLA LA MANCHA;52;h;FIBRA 600;36.66;2;SI;1;AVERIA TECNICA;610;Menchu Rodriguez
+10679;83632510C;02/06/2026;10:37;Andalucia;35;H;Fibra600;152.65;4;s;2;Atención al cliente;8400;Menchu Rodriguez
+11068;25069803L;25/11/2026;16:07;Comunidad de Madrid;19;m;FIBRA 600;40,61;8;n;0;;709;Menchu Rodríguez
+10175;47003970W;08/02/2026;09:10;madrid;66;1;FIBRA + MOVIL;100.22;4;Sí;1;Facturación;233;Gertrudis Pérez
+10610;44228160V;20/11/2025;11:09;valencia;29;1;Fibra600;164,63;6;No;;;800;Manuel Sánchez
+10910;36861032Q;15/05/2026;15:45;CASTILLA LA MANCHA;79;Hombre;Fibra 600Mb;46,06;4;SI;2;Instalación;654;Menchu Rodriguez
+10155;81295338P;18-12-26;10:49;Comunidad Valenciana;35;H;Móvil 20GB;47,02;;Sí;0;;505;Ana Ruiz
+11070;33367354J;2025-03-09;16:19;Comunidad Valenciana;24;m;Móvil 50GB;74,35;10;n;1;AVERIA TECNICA;642;Menchu Rodríguez
+10292;85484096R;2026-12-27;12:01;C. Madrid;41;Mujer;Móvil 50GB;56.57;4;;1;;883;Federico Álvarez
+10056;15114482N;05/12/2026;14:54;Comunidad de Madrid;58;1;Fibra+Móvil;166,25;4;n;4;facturacion;399;Menchu Rodríguez
+10829;20239569M;2026-01-13;13:51;VALENCIA;54;2;FIBRA 600;60.15;6;SI;2;Atención al cliente;461;Menchu Rodríguez
+10229;18104735R;03/02/2026;15:50;CLM;41;H;Fibra 600Mb;111,66;5;No;2;;4;Ana Ruiz
+10669;77073826G;08/02/2025;09:12;Castilla-La Mancha;20;2;FIBRA 600;30,17;;S;1;Atención al cliente;468;Menchu Rodriguez
+10692;55844751K;05/11/2026;18:56;madrid;69;Hombre;Fibra+Móvil;31,25 €;10;Sí;2;AVERIA TECNICA;801;Federico Álvarez
+10304;85723264V;10-07-25;20:14;Comunidad Valenciana;85;Hombre;FIBRA + MOVIL;107,59;6;No;4;;583;Luciano Gómez
+10791;98000607X;2025-07-05;12:57;C. Valenciana;80;1;MOVIL 20GB;41.03;9;Sí;0;;249;Menchu Rodríguez
+10713;76068162P;2025-08-15;14:19;Catalunya;36;2;Fibra600;110,65;;S;4;;849;Gertrudis Pérez
+10861;25442320C;2025-10-19;12:48;madrid;;Mujer;Fibra 600Mb;121,77 €;9;No;4;Instalación;678;Federico Álvarez
+10893;17369342H;2025-02-13;09:22;Andalucía;18;Hombre;Fibra600;36,95;;S;0;;501;Menchu Rodriguez
+10802;27897890E;14/11/2025;17:34;castilla la mancha;-3;M;FIBRA + MOVIL;160.90;5;n;0;;774;Luciano Gómez
+10902;94144262Z;08/03/2026;10:12;VALENCIA;85;2;MOVIL 20GB;31,89;10;;0;;683;Manuel Sánchez
+10857;76254348C;19/12/2026;16:45;castilla la mancha;39;Hombre;tv premium;51,74 €;1;Sí;1;Avería técnica;8400;Menchu Rodriguez
+10767;29013838X;2025-11-24;15:45;cataluña;58;h;FIBRA + MOVIL;179.53;9;N;0;;531;Federico Álvarez
+10296;47803835Q;15/04/2026;09:25;Cataluña;77;M;Fibra+Móvil;37,31;;No;4;Atención al cliente;155;Luciano Gómez
+10085;94498827G;2026-10-01;13:13;Madrid;32;M;FIBRA 600;;1;SI;1;Atención al cliente;826;Federico Álvarez
+10659;44101688R;22/11/2025;10:29;ANDALUCIA;21;Hombre;FIBRA 600;131.67;7;NO;0;;292;Gertrudis Pérez
+10945;36733271R;2025-11-11;10:33;C. Valenciana;199;Hombre;FIBRA + MOVIL;133,45;2;N;1;Atención al cliente;498;Gertrudis Pérez
+10205;87309824P;01/03/2026;11:53;Comunidad de Madrid;52;M;FIBRA 600;155.84;1;Sí;0;;8400;Manuel Sánchez
+10701;96432945P;12/07/2025;19:58;Andalucía;33;2;FIBRA + MOVIL;149,85;;s;0;;160;Gertrudis Pérez
+10146;65735099H;28/04/2026;13:51;MADRID;-3;Hombre;Móvil 50GB;132,81 €;10;;0;;361;Menchu Rodríguez
+10972;12970984E;26/02/2026;09:02;CLM;70;1;Fibra 600Mb;71.08;7;n;1;Instalación;8400;Gertrudis Pérez
+10557;70943030Q;15/02/2025;13:59;Andalucía;46;Hombre;TV Premium;42,36 €;4;N;0;;401;Gertrudis Pérez
+10279;81789385D;10/04/2025;14:11;madrid;19;1;tv premium;114.73;8;;1;;298;Menchu Rodríguez
+10066;95699265Q;26/03/2025;20:55;C. La Mancha;37;m;Fibra 600Mb;174.25;8;Sí;2;Portabilidad;752;Ana Ruiz
+10487;59880054S;26/10/2026;13:44;CATALUÑA;21;1;Fibra 600Mb;65,64 €;8;s;3;Facturación;754;Luciano Gómez
+10566;31226346V;28-11-26;14:35;Comunidad de Madrid;59;h;FIBRA 600;130.52;2;SI;0;;456;Menchu Rodriguez
+11125;25353939D;21/09/2026;08:32;andalucía;68;1;FIBRA 600;152.00;6;S;4;Facturación;8400;Gertrudis Pérez
+11146;12778762Z;2025-08-20;13:30;VALENCIA;63;m;MOVIL 20GB;64,80;6;NO;4;Portabilidad;336;Menchu Rodriguez
+10680;89238160Q;08/01/2026;09:38;CATALUÑA;51;1;FIBRA 600;113,26;3;;0;;820;Menchu Rodríguez
+10298;90035020T;2026-06-08;18:21;CASTILLA LA MANCHA;999;1;MOVIL 20GB;148.02;9;;2;Avería técnica;192;Luciano Gómez
+11054;84027819R;26-10-25;12:45;Andalucia;50;1;tv premium;27,45;1;SI;1;Avería técnica;772;Manuel Sánchez
+10202;45320230M;12/10/2025;21:04;Comunidad Valenciana;39;Mujer;Fibra+Móvil;115,18 €;4;No;;;668;Gertrudis Pérez
+90108;37594160Q;2025-04-07;10:38;Comunidad de Madrid;29;h;FIBRA 600;166,13;;NO;0;;886;Menchu Rodriguez
+10150;94862555Y;05/07/2025;16:06;C. La Mancha;23;M;FIBRA + MOVIL;69.70;1;;1;AVERIA TECNICA;189;Menchu Rodríguez
+11085;41636296D;24-10-25;21:28;Castilla la Mancha;21;m;Fibra 600Mb;128.69;10;No;4;Atención al cliente;291;Gertrudis Pérez
+10725;99638369G;17/09/2025;14:54;andalucía;58;2;Fibra+Móvil;47,80;6;n;1;facturacion;676;Ana Ruiz
+10139;12134374E;2026-06-03;12:31;Castilla la Mancha;22;h;Fibra+Móvil;;4;No;1;Facturación;122;Menchu Rodriguez
+10564;18969429E;04/11/2025;12:34;CASTILLA LA MANCHA;48;Hombre;Fibra 600Mb;79,32;6;Sí;1;;806;Luciano Gómez
+11163;33169529E;2026-09-24;13:02;Castilla La Mancha ;66;Mujer;Móvil 50GB;42,64;6;s;1;;472;Menchu Rodríguez
+10958;43801062G;11/17/2026;08:11;MADRID;58;Hombre;Móvil 20GB;188,20 €;4;n;1;AVERIA TECNICA;264;Manuel Sánchez
+10464;14361526H;22/08/2025;09:11;madrid;18;Mujer;TV Premium;;6;s;3;Instalación;719;Gertrudis Pérez
+10872;49603092Z;02/26/2026;18:59;VALENCIA;60;H;Fibra 600Mb;138.53;3;NO;0;;80;Manuel Sánchez
+10301;72987931R;2026-03-06;16:52;CASTILLA LA MANCHA;20;M;Fibra+Móvil;85,21 €;;N;1;;872;Menchu Rodríguez
+10943;50687257T;19-04-26;08:20;Andalucía;999;h;MOVIL 20GB;163,68;2;;1;Facturación;369;Gertrudis Pérez
+10417;99557392B;2025-07-12;14:55;CATALUÑA;999;H;MOVIL 20GB;22,98;2;s;1;Avería técnica;650;Federico Álvarez
+10359;16339858M;09/12/2026;15:22;Comunidad de Madrid;-3;m;FIBRA 600;153,40;2;S;2;AVERIA TECNICA;458;Ana Ruiz
+10384;23923532X;26/08/2025;19:50;C. La Mancha;77;Mujer;tv premium;36,01;9;S;2;Portabilidad;617;Manuel Sánchez
+10064;54892100G;06/09/2025;11:39;madrid;31;1;Fibra+Móvil;;3;SI;1;Atención al cliente;334;Menchu Rodriguez
+11133;22784825J;12/12/2026;13:28;Castilla-La Mancha;86;M;Fibra600;150,53;8;No;0;;581;Ana Ruiz
+10528;15860812S;12/09/2025;14:36;andalucía;73;Mujer;Fibra 600Mb;96,00;;N;2;AVERIA TECNICA;614;Manuel Sánchez
+10335;88854515L;05/08/2026;14:05;madrid;18;m;FIBRA 600;111,84 €;;N;1;;404;Luciano Gómez
+10109;26951029W;2025-03-20;09:38;CASTILLA LA MANCHA;;H;Fibra600;58,83;10;Sí;4;AVERIA TECNICA;552;Menchu Rodríguez
+10477;95343620Z;2026-05-21;19:18;C. Madrid;73;1;Móvil 20GB;120,35;6;;3;;802;Manuel Sánchez
+10257;73357311M;2026-03-02;21:28;C. Madrid;46;m;Fibra 600Mb;150.51;6;s;0;;236;Federico Álvarez
+11031;68012945D;2026-05-17;10:40;Catalunya;66;1;Fibra 600Mb;26.24;1;N;0;;55;Federico Álvarez
+10523;59126307V;07/09/2025;11:43;Comunidad Valenciana;33;m;Fibra 600Mb;183,82 €;;NO;4;Portabilidad;77;Manuel Sánchez
+10657;28456935Z;26/06/2026;11:34;C. Madrid;28;2;TV Premium;67,08 €;9;NO;0;;539;Luciano Gómez
+10258;37456236T;23/11/2025;15:48;Catalunya;66;M;MOVIL 20GB;131.14;;S;4;Atención al cliente;228;Menchu Rodriguez
+10215;67799902H;27/03/2026;10:16;Andalucía;34;m;FIBRA 600;;7;Sí;3;Atención al cliente;272;Menchu Rodríguez
+10676;56228338N;24/09/2025;18:35;andalucía;51;Hombre;FIBRA + MOVIL;63,49;9;Sí;0;;343;Menchu Rodriguez
+10964;16408693S;06-08-25;15:31;Andalucía;70;h;FIBRA + MOVIL;175,63;;SI;0;;840;Manuel Sánchez
+10748;64514518C;2026-07-27;15:57;C. Valenciana;66;m;MOVIL 20GB;87.53;;NO;0;;862;Ana Ruiz
+10987;82134609Y;2026-07-26;20:58;Comunidad Valenciana;54;H;Móvil 20GB;;9;No;0;;401;Menchu Rodriguez
+10979;85395320Y;05/02/2026;19:18;valencia;80;Mujer;FIBRA + MOVIL;106,83;4;SI;2;AVERIA TECNICA;459;Menchu Rodríguez
+10309;51413082R;10-10-25;08:06;Andalucia;25;Mujer;FIBRA 600;61,50;6;S;2;;187;Luciano Gómez
+10201;94608099M;12/04/2026;14:40;Castilla la Mancha;-3;m;Fibra 600Mb;104,93;6;S;3;;720;Ana Ruiz
+10077;33092631B;12/11/2026;17:46;Madrid;49;Hombre;Fibra 600Mb;78,76 €;1;S;4;;107;Federico Álvarez
+10843;18080309C;16/03/2026;16:07;Andalucía;199;M;Fibra600;185,15;;;0;;4;Federico Álvarez
+10678;19586815L;2025-10-25;13:53;madrid;;2;FIBRA + MOVIL;176,08;7;s;1;Avería técnica;605;Ana Ruiz
+10765;21905025M;18/10/2025;16:35;valencia;0;2;Móvil 50GB;154,40;10;S;0;;8400;Federico Álvarez
+10443;12126647Z;06/05/2025;13:19;Comunidad Valenciana;26;Mujer;FIBRA + MOVIL;130,07;6;SI;0;;588;Gertrudis Pérez
+10303;99323725A;02-04-25;11:23;Madrid;48;h;Fibra+Móvil;30.08;6;n;2;;855;Menchu Rodriguez
+10024;73598580Q;27/06/2025;12:24;MADRID;65;M;Móvil 20GB;49,53;;SI;;;556;Ana Ruiz
+10074;72065423D;07/03/2025;16:24;Castilla-La Mancha;;Hombre;Móvil 20GB;114,81 €;2;SI;0;;416;Gertrudis Pérez
+11062;34303099Q;15-01-26;17:46;Catalunya;87;H;FIBRA 600;188,19;9;n;2;Avería técnica;633;Gertrudis Pérez
+10674;83076525V;10/08/2026;13:32;valencia;82;h;Fibra 600Mb;36.99;5;s;1;AVERIA TECNICA;351;Federico Álvarez
+10792;79285046Y;01/03/2025;19:33;Castilla La Mancha ;58;m;Móvil 20GB;;;NO;;;7;Manuel Sánchez
+10956;98933502W;08/11/2025;17:42;Cataluña;999;Mujer;Fibra+Móvil;88.72;6;s;0;;265;Menchu Rodríguez
+10919;44931289J;2025-12-13;09:48;Comunidad Valenciana;45;Hombre;Fibra600;;3;S;1;Facturación;627;Luciano Gómez
+10288;43901261B;26/09/2025;09:44;C. Valenciana;27;2;tv premium;164.55;10;n;1;Atención al cliente;401;Manuel Sánchez
+10654;70028546C;2026-07-06;16:59;Andalucia;-3;M;FIBRA + MOVIL;3196;;S;2;Atención al cliente;8400;Manuel Sánchez
+10254;66815796G;27/06/2025;20:08;Comunidad de Madrid;51;H;tv premium;183,37;1;;2;Avería técnica;751;Manuel Sánchez
+10485;11674776A;18/10/2026;20:18;CLM;44;M;Móvil 20GB;;;n;4;Avería técnica;118;Menchu Rodríguez
+11051;57459348Y;25-05-26;16:51;Castilla-La Mancha;86;2;tv premium;;3;Sí;0;;694;Menchu Rodriguez
+10344;39261280M;2025-01-22;11:05;MADRID;78;M;Fibra 600Mb;20,12;5;N;;;11200;Menchu Rodríguez
+10809;53946303E;12/09/2026;18:05;Cataluña;30;Hombre;tv premium;62,55;4;n;1;;7;Gertrudis Pérez
+10922;54124570C;2026-11-01;18:23;andalucía;999;Mujer;Móvil 20GB;13068;8;No;2;Portabilidad;201;Menchu Rodriguez
+10704;14724715Y;21-05-26;18:19;ANDALUCIA;199;1;Fibra600;152.62;6;S;0;;427;Menchu Rodriguez
+10781;41555571D;21/05/2026;15:36;andalucía;82;h;Móvil 20GB;99,52;10;Sí;1;Instalación;685;Menchu Rodríguez
+10856;66458109G;01/01/2025;09:52;CLM;57;H;tv premium;22,46;7;N;0;;885;Federico Álvarez
+10403;95147048M;01/05/2025;08:40;Castilla La Mancha ;67;m;MOVIL 20GB;68.35;6;Sí;0;;261;Federico Álvarez
+10529;60255989L;2025-07-14;09:01;andalucía;73;h;Fibra+Móvil;67.16;5;S;2;AVERIA TECNICA;777;Gertrudis Pérez
+10938;70612016J;14/11/2026;14:12;Catalunya;46;1;FIBRA 600;26.66;9;S;1;;246;Luciano Gómez
+11083;19517027S;2026-05-08;10:46;C. Valenciana;0;Mujer;Fibra+Móvil;114,20;6;n;2;facturacion;8400;Federico Álvarez
+10667;18222871B;2026-03-06;17:48;Andalucía;61;m;TV Premium;145.92;1;s;;;8400;Menchu Rodriguez
+10632;38314099L;11/06/2026;09:49;CATALUÑA;199;m;Fibra 600Mb;25,05;6;s;1;Portabilidad;878;Manuel Sánchez
+10913;82926146P;2026-07-25;18:39;VALENCIA;59;M;TV Premium;162,74;6;s;3;Atención al cliente;568;Gertrudis Pérez
+11077;91467263W;08/05/2025;16:33;C. Valenciana;43;2;Fibra 600Mb;12262;;S;4;Atención al cliente;314;Federico Álvarez
+10926;36920508S;03/02/2025;20:38;MADRID;62;2;MOVIL 20GB;146,89;2;NO;;;155;Federico Álvarez
+10058;14029937E;12/06/2026;19:31;ANDALUCIA;;2;tv premium;62,77;;No;1;Instalación;449;Luciano Gómez
+10992;21071829B;22/10/2026;11:46;MADRID;199;1;Fibra600;26,22;4;n;;;53;Menchu Rodríguez
+10635;27168448W;25/02/2026;09:04;Comunidad de Madrid;46;M;Fibra+Móvil;58,94;10;;4;Atención al cliente;339;Ana Ruiz
+10325;17347611A;05/12/2026;18:30;Andalucia;67;H;TV Premium;;6;s;2;Atención al cliente;444;Ana Ruiz
+10974;11514823P;16/09/2025;17:58;C. La Mancha;;Hombre;FIBRA 600;83,52;;s;1;Avería técnica;551;Gertrudis Pérez
+10563;35197612A;13/08/2025;16:29;C. Valenciana;81;m;Fibra+Móvil;183,14 €;5;n;1;Atención al cliente;358;Ana Ruiz
+11001;50257546E;2026-02-10;18:16;andalucía;52;M;Móvil 20GB;118,83;;Sí;;;403;Federico Álvarez
+10411;35882003L;01/11/2025;18:46;Catalunya;42;2;FIBRA 600;186,80;1;Sí;0;;674;Ana Ruiz
+10962;12838631Y;2026-06-17;13:48;Andalucia;70;Hombre;Fibra600;126,03;5;No;0;;513;Ana Ruiz
+11199;46962645P;08/02/2026;18:56;Madrid;65;Mujer;FIBRA + MOVIL;35.49;;S;2;;378;Luciano Gómez
+10465;92884193P;07/10/2025;16:25;castilla la mancha;61;Hombre;Móvil 20GB;56.83;9;s;2;Avería técnica;191;Gertrudis Pérez
+10686;10439443G;25/02/2025;12:41;VALENCIA;44;2;FIBRA 600;34,32;5;N;2;Avería técnica;121;Menchu Rodríguez
+10274;21538838P;2025-04-25;14:58;Comunidad de Madrid;21;1;MOVIL 20GB;113,74 €;5;NO;0;;384;Ana Ruiz
+11137;60016415A;12/08/2026;19:43;Castilla La Mancha ;83;1;Fibra 600Mb;26,54;2;S;0;;578;Luciano Gómez
+11107;19553113Z;18/03/2025;11:22;Catalunya;22;h;Móvil 20GB;168,93;9;s;4;;727;Menchu Rodriguez
+10369;51117359S;2025-02-26;14:12;Cataluña;43;Hombre;Fibra+Móvil;;5;NO;0;;542;Ana Ruiz
+10051;26215636A;2025-04-27;12:43;MADRID;27;Hombre;Móvil 20GB;167,62;5;S;1;Portabilidad;100;Manuel Sánchez
+10999;52975261Z;06-12-25;13:19;C. La Mancha;85;m;Móvil 50GB;166,79;;SI;1;;106;Luciano Gómez
+10123;11495090G;01/07/2025;08:39;Catalunya;57;H;tv premium;93.08;;n;0;;527;Gertrudis Pérez
+10689;92910109V;2025-09-26;18:27;C. Valenciana;48;2;MOVIL 20GB;169.73;6;s;0;;434;Menchu Rodríguez
+11090;47989407R;13/01/2025;20:04;C. Valenciana;41;H;FIBRA + MOVIL;181,65;10;n;4;Instalación;503;Luciano Gómez
+10568;43825835L;2026-03-12;11:17;Cataluña;83;M;Móvil 20GB;113.13;8;SI;0;;582;Ana Ruiz
+10067;37340864V;23/05/2026;17:37;Cataluña;0;1;Móvil 50GB;68,83;6;No;0;;487;Federico Álvarez
+10166;94411073H;19/03/2025;09:30;Andalucia;80;H;Fibra+Móvil;155,51;8;s;3;facturacion;373;Ana Ruiz
+10930;54981487C;2026-01-19;08:00;CATALUÑA;999;Hombre;tv premium;54,46;8;No;2;;515;Luciano Gómez
+10012;58593065X;27/11/2025;13:02;Castilla la Mancha;-3;2;Móvil 20GB;114,04;10;;3;Portabilidad;391;Federico Álvarez
+11059;44221010Z;02/12/2026;21:20;Castilla la Mancha;36;2;TV Premium;59,82;3;n;3;Portabilidad;764;Gertrudis Pérez
+11048;14216419G;2025-07-25;20:07;castilla la mancha;52;H;FIBRA + MOVIL;56.42;7;Sí;0;;608;Menchu Rodríguez
+10671;84073059T;21/06/2025;11:48;Andalucía;87;M;Fibra 600Mb;154.39;3;SI;2;Portabilidad;61;Menchu Rodríguez
+10683;39587202N;11/13/2026;12:00;Castilla la Mancha;28;2;Fibra 600Mb;23,75 €;4;NO;0;;316;Gertrudis Pérez
+10959;61335418W;28/03/2025;16:26;Cataluña;25;Hombre;Móvil 50GB;;9;;2;Instalación;570;Manuel Sánchez
+11043;76840400H;16-03-25;18:52;MADRID;999;1;FIBRA + MOVIL;109.88;5;Sí;2;AVERIA TECNICA;679;Luciano Gómez
+10830;59345834V;2025-06-01;14:42;Comunidad Valenciana;62;h;FIBRA 600;129,18;5;NO;2;AVERIA TECNICA;485;Ana Ruiz
+11039;30449304V;23/12/2026;12:21;Catalunya;49;h;Fibra 600Mb;127,69;8;N;2;AVERIA TECNICA;430;Menchu Rodriguez
+11096;87741599Q;2026-01-24;13:15;ANDALUCIA;74;1;Móvil 20GB;161,30 €;7;Sí;1;Portabilidad;101;Menchu Rodriguez
+11115;28575625F;07/03/2025;10:45;Comunidad de Madrid;76;1;TV Premium;122.72;8;Sí;3;Atención al cliente;554;Manuel Sánchez
+90773;39041260B;17/06/2025;16:53;Madrid;33;Hombre;TV Premium;125,71;3;N;1;facturacion;660;Luciano Gómez
+10622;96956085R;08/25/2025;17:30;Castilla la Mancha;66;Hombre;Móvil 20GB;;1;s;4;Instalación;374;Federico Álvarez
+10470;41466769P;2026-06-12;11:47;Comunidad Valenciana;70;M;FIBRA + MOVIL;179,58;;;1;Avería técnica;192;Menchu Rodriguez
+10407;92621296L;07/06/2025;20:22;CATALUÑA;;m;TV Premium;145,86;8;SI;0;;11200;Menchu Rodriguez
+11082;21622967D;11-12-26;21:33;madrid;48;H;Fibra 600Mb;130,75 €;6;S;1;Facturación;74;Ana Ruiz
+10489;38745710R;25/06/2025;20:59;Castilla-La Mancha;37;m;Fibra600;;2;SI;2;Avería técnica;898;Gertrudis Pérez
+10668;23358150J;2026-11-16;20:26;VALENCIA;39;Mujer;FIBRA + MOVIL;41,69;10;No;1;AVERIA TECNICA;518;Manuel Sánchez
+10581;10094731D;2026-10-01;19:48;MADRID;54;M;Fibra+Móvil;100,49;2;Sí;3;Portabilidad;185;Ana Ruiz
+10310;92309857G;2025-11-12;18:43;CLM;24;Mujer;Fibra 600Mb;;1;n;2;;389;Menchu Rodríguez
+10380;88957743A;2025-02-19;08:24;Madrid;37;Mujer;tv premium;181,48;1;n;0;;727;Ana Ruiz
+10988;19155094Y;2025-03-01;16:26;Catalunya;60;H;TV Premium;59,64;6;S;0;;677;Gertrudis Pérez
+11167;27348355W;26-04-25;14:28;ANDALUCIA;84;Hombre;tv premium;105,25;;NO;1;Facturación;625;Menchu Rodriguez
+10442;49160186Q;2025-07-28;10:52;Catalunya;34;1;FIBRA + MOVIL;166.93;;N;0;;315;Gertrudis Pérez
+10880;55012604C;26/02/2026;14:55;Andalucía;27;2;Móvil 20GB;67,17;2;Sí;2;Portabilidad;284;Luciano Gómez
+10728;26983504Q;27/02/2026;11:05;ANDALUCIA;20;m;TV Premium;121,81;4;SI;0;;459;Federico Álvarez
+10091;55950912J;18/04/2026;09:41;VALENCIA;58;2;MOVIL 20GB;99,07 €;7;s;0;;213;Menchu Rodriguez
+10805;50976744L;10/05/2025;09:03;C. Madrid;18;Hombre;FIBRA 600;;9;Sí;0;;523;Menchu Rodriguez
+10427;93670813T;2026-11-12;19:53;Madrid;-3;Hombre;Fibra+Móvil;182,98;3;s;0;;596;Ana Ruiz
+10707;10428670W;02/02/2025;19:50;castilla la mancha;86;m;Fibra+Móvil;67.40;2;n;0;;502;Gertrudis Pérez
+10002;50995639V;18/10/2026;17:16;C. La Mancha;18;1;Fibra+Móvil;166,59;4;NO;1;Facturación;567;Manuel Sánchez
+10042;13287875M;07/12/2026;08:53;Catalunya;57;m;Fibra 600Mb;148.46;3;SI;2;facturacion;685;Luciano Gómez
+11149;67059929Z;08/16/2025;19:58;Catalunya;43;Hombre;FIBRA + MOVIL;105,24;10;Sí;4;;7;Federico Álvarez
+10544;83003105G;16/06/2025;18:54;cataluña;77;m;Móvil 50GB;178,61;10;No;1;Portabilidad;166;Manuel Sánchez
+10837;47412372G;11/01/2025;12:26;Castilla-La Mancha;999;2;TV Premium;170,98;10;s;0;;585;Manuel Sánchez
+11006;94774701G;17/11/2026;19:48;VALENCIA;47;2;Móvil 20GB;29,77;7;n;0;;11200;Menchu Rodríguez
+10576;66611055V;24-06-25;19:43;ANDALUCIA;23;H;Fibra 600Mb;169,58;3;n;1;Portabilidad;216;Gertrudis Pérez
+10553;37077784D;22/01/2025;20:58;MADRID;999;1;Móvil 50GB;118,71;9;N;0;;166;Gertrudis Pérez
+10928;59525615T;24/01/2025;20:53;CATALUÑA;-3;Hombre;tv premium;116,54;3;N;0;;203;Menchu Rodriguez
+10445;70132762L;15/03/2026;11:52;MADRID;76;H;FIBRA 600;25,63;3;SI;2;;109;Ana Ruiz
+10731;56653756T;04/12/2025;08:07;Castilla La Mancha ;78;Hombre;tv premium;187,58;;n;4;Instalación;335;Gertrudis Pérez
+10492;12291447V;2025-12-08;18:25;MADRID;0;2;FIBRA + MOVIL;73,97 €;;;0;;386;Luciano Gómez
+10208;39691662E;28/05/2026;08:28;MADRID;76;1;tv premium;64,30;6;N;;;788;Luciano Gómez
+11064;49213092K;2025-06-22;08:22;Catalunya;72;1;FIBRA + MOVIL;30.06;10;;1;Portabilidad;711;Menchu Rodriguez
+10009;18402002A;01/11/2025;21:47;cataluña;;2;TV Premium;92,91;4;No;1;;312;Menchu Rodriguez
+11087;24636812R;2025-03-19;10:03;Comunidad Valenciana;38;H;TV Premium;154,33;2;N;3;Avería técnica;8400;Manuel Sánchez
+10967;87468479V;12/06/2026;08:01;MADRID;36;2;tv premium;95.40;4;s;0;;846;Menchu Rodríguez
+10565;79148522C;2025-09-11;19:21;castilla la mancha;68;Hombre;Móvil 20GB;99.48;9;Sí;1;Facturación;762;Gertrudis Pérez
+11021;83389359Z;26/09/2025;20:38;C. Madrid;76;M;Móvil 50GB;167.32;2;n;;;832;Ana Ruiz
+10591;13762112S;08-08-26;12:11;Madrid;29;2;FIBRA + MOVIL;176,08;1;n;1;Facturación;784;Manuel Sánchez
+10604;48230648H;12/10/2026;11:19;CLM;0;Mujer;MOVIL 20GB;88.62;6;;1;Atención al cliente;134;Menchu Rodriguez
+10238;18294410C;2026-08-11;11:15;CLM;;Mujer;Fibra+Móvil;24,35;5;NO;2;Atención al cliente;348;Gertrudis Pérez
+10793;67800297M;22/02/2026;19:51;ANDALUCIA;21;2;Fibra600;82,76;7;N;;;355;Menchu Rodríguez
+10262;97535246G;21-05-26;18:23;C. Madrid;69;m;FIBRA 600;120.45;4;s;0;;208;Ana Ruiz
+10682;38789602K;01/11/2025;15:48;ANDALUCIA;62;m;TV Premium;167.78;;NO;1;Portabilidad;313;Federico Álvarez
+10158;32527529Z;01/12/2025;14:43;MADRID;43;Hombre;Fibra 600Mb;83,50;5;S;0;;239;Luciano Gómez
+10008;87061968E;2026-03-09;13:42;Catalunya;45;h;MOVIL 20GB;145.71;1;Sí;1;;840;Federico Álvarez
+10223;45709711L;21/04/2025;17:26;Castilla la Mancha;36;h;Fibra600;171.83;;s;2;Facturación;86;Ana Ruiz
+10834;61905438G;14/04/2026;10:45;ANDALUCIA;24;Hombre;MOVIL 20GB;57,90;1;;1;AVERIA TECNICA;329;Manuel Sánchez
+10757;91764594R;13/07/2026;09:59;andalucía;0;2;TV Premium;30.21;8;s;0;;240;Ana Ruiz
+10986;72483323G;22-12-26;12:28;Cataluña;42;h;FIBRA + MOVIL;31,31;;Sí;2;Avería técnica;398;Menchu Rodríguez
+10026;96649068W;07-02-25;21:10;valencia;-3;Hombre;MOVIL 20GB;91,28;6;;1;;4;Menchu Rodriguez
+10838;50063404B;12-06-26;13:22;Cataluña;61;Hombre;MOVIL 20GB;105,60;5;N;1;Atención al cliente;463;Menchu Rodríguez
+11093;29919380M;28/04/2025;14:40;Catalunya;51;Hombre;Móvil 20GB;70.17;5;NO;2;;827;Manuel Sánchez
+10441;91094434V;07-06-26;15:06;Madrid;75;1;Fibra 600Mb;3527;7;NO;0;;702;Manuel Sánchez
+10546;52332469W;18/06/2025;20:59;MADRID;50;H;FIBRA + MOVIL;75,49;7;n;1;Facturación;55;Gertrudis Pérez
+10045;20933392Q;28/10/2026;17:30;C. Valenciana;84;2;Móvil 50GB;;5;Sí;0;;4;Menchu Rodríguez
+10398;26081879C;2025-05-08;13:37;Madrid;52;m;FIBRA 600;42,87;10;;1;facturacion;714;Manuel Sánchez
+90687;47812980A;03-08-26;18:23;Castilla-La Mancha;23;Hombre;MOVIL 20GB;137,91 €;6;No;0;;206;Gertrudis Pérez
+10759;18355546E;26-12-26;16:48;CATALUÑA;65;Mujer;FIBRA + MOVIL;69,20;2;N;4;Portabilidad;190;Manuel Sánchez
+10499;51038148B;19/09/2025;11:45;Castilla-La Mancha;88;Hombre;Fibra 600Mb;129.54;2;S;2;Portabilidad;4;Manuel Sánchez
+10234;98765699E;2026-10-18;12:43;C. La Mancha;61;Mujer;Fibra 600Mb;83.82;1;NO;0;;402;Menchu Rodriguez
+10176;47203299K;01/04/2026;08:47;MADRID;-3;m;MOVIL 20GB;62,10;1;s;0;;202;Menchu Rodríguez
+10768;47059329Z;22/09/2026;15:10;CASTILLA LA MANCHA;199;1;TV Premium;53.03;3;No;1;;367;Federico Álvarez
+10878;63258089H;2026-12-17;10:02;Castilla-La Mancha;56;h;FIBRA 600;59,11;3;No;1;;403;Menchu Rodriguez
+10437;84460318R;2025-12-15;09:12;castilla la mancha;0;m;FIBRA 600;163,56;7;No;;;365;Menchu Rodriguez
+90305;18950030D;06/09/2025;14:38;CASTILLA LA MANCHA;33;Mujer;FIBRA 600;70,97;9;;;;143;Menchu Rodriguez
+10513;51645144F;2026-07-14;14:57;ANDALUCIA;53;m;MOVIL 20GB;54.03;7;NO;3;Facturación;783;Manuel Sánchez
+10527;82314232G;05/09/2026;13:41;castilla la mancha;23;2;MOVIL 20GB;8097;6;s;3;AVERIA TECNICA;274;Gertrudis Pérez
+10394;99578710V;09/05/2026;13:05;castilla la mancha;44;1;Fibra 600Mb;66,65 €;7;s;2;Facturación;234;Manuel Sánchez
+10795;79136598P;15/02/2025;12:06;CASTILLA LA MANCHA;88;1;tv premium;;10;No;1;Instalación;149;Menchu Rodríguez
+10327;99341496B;06-03-25;11:26;Comunidad Valenciana;19;M;FIBRA + MOVIL;79,19 €;4;N;2;AVERIA TECNICA;825;Luciano Gómez
+10184;89307992M;03/14/2026;20:24;castilla la mancha;64;Mujer;FIBRA 600;58.75;10;No;3;;781;Federico Álvarez
+10203;43972842J;13/09/2025;16:24;madrid;22;h;Móvil 50GB;52,83;;N;;;412;Menchu Rodriguez
+10739;52611740C;19/11/2025;20:26;Andalucia;65;Hombre;FIBRA 600;140.66;9;No;1;Facturación;285;Federico Álvarez
+11035;14334567A;2025-11-21;19:58;C. Valenciana;81;Mujer;Fibra 600Mb;42,50 €;4;n;0;;717;Luciano Gómez
+11164;56419187P;08-07-26;19:14;VALENCIA;73;h;Fibra+Móvil;101,80 €;8;No;1;Facturación;309;Luciano Gómez
+11020;12982458A;04/08/2026;08:53;CASTILLA LA MANCHA;199;M;FIBRA + MOVIL;131,87 €;;n;2;AVERIA TECNICA;235;Manuel Sánchez
+11197;43220784E;2026-12-01;16:26;Castilla la Mancha;76;Hombre;FIBRA + MOVIL;20,87;4;NO;1;AVERIA TECNICA;479;Gertrudis Pérez
+11191;84236843N;18-01-25;18:22;Andalucía;74;2;Fibra600;180,79;3;S;;;743;Menchu Rodriguez
+11131;97650539M;28/06/2026;12:02;Castilla la Mancha;76;1;FIBRA + MOVIL;18060;6;NO;3;AVERIA TECNICA;207;Federico Álvarez
+10248;85724736X;11/04/2026;17:09;ANDALUCIA;87;2;Fibra 600Mb;97,27;;;4;Atención al cliente;11200;Menchu Rodriguez
+10050;46527423Q;07/12/2026;10:16;Catalunya;88;H;FIBRA 600;147,55 €;4;SI;2;AVERIA TECNICA;396;Ana Ruiz
+10375;18800144X;06/06/2025;14:09;Madrid;56;M;FIBRA + MOVIL;36,85 €;4;S;0;;608;Gertrudis Pérez
+10752;55537189S;2026-03-22;15:26;Madrid;;Hombre;MOVIL 20GB;152,76 €;;N;2;Facturación;333;Menchu Rodríguez
+10022;35352266M;27/07/2026;14:35;Castilla La Mancha ;81;M;tv premium;18652;2;s;4;Avería técnica;852;Luciano Gómez
+10347;70581442V;20-08-25;13:56;CATALUÑA;199;Hombre;Fibra+Móvil;;1;SI;4;Instalación;11200;Gertrudis Pérez
+10035;13190020Y;12/11/2025;15:41;Comunidad Valenciana;0;2;FIBRA 600;;4;n;0;;7;Menchu Rodriguez
+10028;55521011N;10/06/2026;16:42;C. Madrid;23;2;TV Premium;122,96;7;S;3;Portabilidad;375;Federico Álvarez
+10360;65194603Q;09/26/2025;09:45;MADRID;-3;m;Fibra 600Mb;68.64;2;SI;1;Portabilidad;824;Luciano Gómez
+10966;86993806Z;19/01/2025;08:40;Castilla-La Mancha;81;Hombre;tv premium;114,17;6;NO;1;facturacion;57;Federico Álvarez
+10224;28860142H;27/12/2025;11:15;Cataluña;84;h;MOVIL 20GB;47.81;6;SI;0;;545;Ana Ruiz
+10311;99778352W;2026-08-26;09:47;Comunidad Valenciana;87;Mujer;FIBRA 600;163,62;;Sí;3;;567;Menchu Rodríguez
+10047;68255012L;23/01/2026;13:07;C. La Mancha;65;1;MOVIL 20GB;101,76;9;NO;1;Facturación;7;Gertrudis Pérez
+10727;37456445K;04/08/2025;12:22;Castilla La Mancha ;-3;h;Fibra+Móvil;24,11;;SI;0;;4;Menchu Rodriguez
+10937;38239735E;2026-02-09;11:53;Andalucía;999;H;Fibra 600Mb;162,73;6;n;0;;4;Menchu Rodríguez
+11014;43455409T;12/10/2025;20:18;Castilla La Mancha ;77;M;Fibra 600Mb;187.86;5;s;2;facturacion;631;Manuel Sánchez
+10813;63987379S;2025-06-03;12:00;Cataluña;47;1;tv premium;86.15;10;NO;0;;564;Federico Álvarez
+10901;93840235R;06/12/2025;11:05;Andalucía;;Mujer;MOVIL 20GB;50,55 €;2;SI;2;Avería técnica;254;Manuel Sánchez
+11088;67225299J;08/10/2026;13:58;Comunidad de Madrid;999;M;Fibra+Móvil;14917;2;NO;3;Portabilidad;609;Luciano Gómez
+10381;30296450G;27-02-26;18:22;Cataluña;-3;H;Móvil 20GB;83,77;8;NO;1;;666;Gertrudis Pérez
+11171;42272464V;14/02/2026;13:54;Cataluña;78;m;tv premium;116,47;9;S;3;;593;Gertrudis Pérez
+10466;53160290Z;08/07/2025;09:40;Castilla La Mancha ;23;M;TV Premium;136.23;6;SI;;;210;Manuel Sánchez
+10097;62103313X;10/06/2025;09:37;C. Madrid;999;H;Fibra+Móvil;163.97;2;n;0;;545;Menchu Rodriguez
+10267;23106472Y;2025-05-16;17:31;VALENCIA;83;h;TV Premium;;1;N;1;Facturación;7;Menchu Rodríguez
+10259;88198661W;15-12-26;13:04;C. Madrid;73;Hombre;Fibra+Móvil;168.38;10;s;2;Instalación;832;Menchu Rodríguez
+10567;91632508D;20/06/2025;17:02;Madrid;31;Hombre;TV Premium;75,48;3;;3;AVERIA TECNICA;560;Luciano Gómez
+10016;31331553J;2026-08-13;13:39;CATALUÑA;50;H;tv premium;39,91;;;1;Atención al cliente;8400;Federico Álvarez
+10095;33364130D;2026-04-25;12:04;VALENCIA;71;Mujer;Fibra 600Mb;103,24;2;N;2;Facturación;56;Federico Álvarez
+10115;11272957H;16/03/2025;15:43;Cataluña;52;m;Fibra+Móvil;163,30;7;NO;0;;120;Ana Ruiz
+10644;19890628X;04-05-26;12:36;CASTILLA LA MANCHA;84;H;Fibra+Móvil;82,73;8;N;;;299;Luciano Gómez
+90100;50406363B;14-12-26;12:55;C. La Mancha;25;M;Fibra600;137,63;;N;3;Portabilidad;491;Federico Álvarez
+10060;92964776C;11/07/2025;18:39;Andalucía;20;M;tv premium;102,08 €;6;s;;;387;Ana Ruiz
+10498;31149706T;2026-01-06;13:30;Cataluña;55;H;Móvil 20GB;59,20;5;s;4;Facturación;102;Federico Álvarez
+10178;71231547R;2026-06-12;12:06;cataluña;63;m;tv premium;92,15;10;No;0;;404;Menchu Rodriguez
+11066;93522145V;06/05/2025;16:37;Castilla La Mancha ;21;M;Fibra600;;;No;1;AVERIA TECNICA;298;Menchu Rodriguez
+10602;75728440L;22/08/2026;13:11;C. La Mancha;66;m;MOVIL 20GB;119.07;7;Sí;1;Atención al cliente;7;Luciano Gómez
+10353;44966077Z;15-12-25;18:50;CASTILLA LA MANCHA;49;Mujer;Fibra 600Mb;128.01;2;s;0;;710;Manuel Sánchez
+10873;34937316P;09/12/2026;09:23;Castilla la Mancha;44;m;Fibra600;188,93;3;S;1;Facturación;117;Menchu Rodríguez
+11098;50485443Z;2025-06-15;09:11;Comunidad de Madrid;86;2;FIBRA 600;32,18;10;N;3;;250;Ana Ruiz
+10505;46477596D;26/02/2026;19:57;C. La Mancha;69;m;TV Premium;66.00;;;0;;603;Ana Ruiz
+10561;92535113F;08/09/2026;20:56;C. Valenciana;35;Hombre;TV Premium;140.80;;n;0;;445;Menchu Rodriguez
+10148;70150850M;03/12/2025;15:19;CASTILLA LA MANCHA;23;h;Fibra 600Mb;71,53;5;SI;1;Portabilidad;109;Manuel Sánchez
+10191;86804554F;03-07-26;11:21;CATALUÑA;62;1;Móvil 50GB;75,64;5;S;3;Atención al cliente;714;Federico Álvarez
+10695;57405010H;16/05/2025;19:07;MADRID;50;1;FIBRA 600;168,49;;SI;;;286;Luciano Gómez
+10724;55819600G;2025-02-17;15:09;madrid;45;m;FIBRA 600;98.05;5;Sí;1;AVERIA TECNICA;151;Gertrudis Pérez
+11080;13257441E;14/12/2025;11:00;Cataluña;34;H;tv premium;107.52;2;s;1;Avería técnica;264;Menchu Rodríguez
+10147;62657294V;14/04/2026;16:58;MADRID;44;h;Móvil 50GB;85,23 €;2;;2;Instalación;852;Gertrudis Pérez
+10541;53021756M;2026-05-13;14:35;Comunidad Valenciana;53;1;MOVIL 20GB;147,24;7;Sí;0;;126;Menchu Rodriguez
+10698;42312910H;11/12/2025;10:08;Comunidad de Madrid;60;2;MOVIL 20GB;15114;;N;1;AVERIA TECNICA;885;Luciano Gómez
+11033;88887802Q;11/02/2026;18:59;Cataluña;81;h;tv premium;;5;Sí;1;Portabilidad;854;Menchu Rodriguez
+11126;17657291E;2025-09-16;13:49;CLM;28;Mujer;Fibra 600Mb;112.20;3;;0;;11200;Luciano Gómez
+10153;17957944H;02-10-26;13:19;C. Valenciana;75;Hombre;tv premium;13948;8;;4;AVERIA TECNICA;7;Ana Ruiz
+10401;49463217D;2025-06-16;12:45;Castilla La Mancha ;87;Mujer;tv premium;74,89;6;No;4;Atención al cliente;572;Manuel Sánchez
+90757;89074732F;2026-01-28;16:52;CLM;24;Mujer;Móvil 20GB;3730;2;n;0;;267;Luciano Gómez
+10341;73216345K;2025-01-21;16:47;Castilla-La Mancha;;M;tv premium;145,44;7;n;;;101;Ana Ruiz
+10412;76448795R;12/01/2025;17:12;andalucía;30;m;FIBRA + MOVIL;76,10;4;s;0;;134;Menchu Rodríguez
+10363;99161678A;25/11/2026;19:22;ANDALUCIA;48;Mujer;MOVIL 20GB;171,32;2;s;0;;892;Federico Álvarez
+10476;64083331J;2025-03-04;12:26;C. Valenciana;75;Hombre;FIBRA + MOVIL;165,38;4;N;0;;475;Federico Álvarez
+10817;54022423Y;2025-02-20;09:11;Madrid;;1;FIBRA + MOVIL;;3;Sí;2;Portabilidad;250;Federico Álvarez
+11128;94503095G;10-06-25;16:29;CLM;18;m;TV Premium;59,62;6;No;2;Portabilidad;385;Federico Álvarez
+10367;38160563A;09-06-25;09:48;Madrid;28;h;Móvil 20GB;116,62;3;S;1;;4;Ana Ruiz
+10239;48452177Z;01/04/2025;14:50;CASTILLA LA MANCHA;42;H;TV Premium;;9;S;0;;826;Manuel Sánchez
+10378;78089555W;23/04/2025;14:30;ANDALUCIA;87;H;Móvil 20GB;171.89;1;SI;4;Portabilidad;648;Menchu Rodríguez
+10127;48338690M;11/02/2025;09:02;Catalunya;88;H;FIBRA 600;;;n;0;;668;Menchu Rodríguez
+10281;30994210A;20-04-26;14:13;Comunidad de Madrid;88;m;Fibra+Móvil;52,01;4;NO;;;171;Ana Ruiz
+10273;91501148F;01-08-25;21:14;ANDALUCIA;58;M;FIBRA + MOVIL;158,11;7;S;0;;730;Manuel Sánchez
+11063;89048129Z;25/12/2026;10:07;Castilla La Mancha ;199;H;Fibra 600Mb;145,24;9;n;2;AVERIA TECNICA;581;Federico Álvarez
+10343;95139525E;22/07/2026;20:09;Comunidad de Madrid;86;Hombre;Fibra600;161,97;9;Sí;2;Instalación;480;Manuel Sánchez
+10306;49061244R;19/02/2026;14:04;andalucía;71;Mujer;Móvil 20GB;156,64;2;;1;Portabilidad;773;Menchu Rodriguez
+10061;64520124R;05/11/2026;13:14;andalucía;77;Mujer;Fibra 600Mb;;7;Sí;3;Atención al cliente;100;Gertrudis Pérez
+10136;28057322L;2025-12-10;09:45;Andalucía;58;m;FIBRA + MOVIL;168,26 €;;No;1;;323;Menchu Rodríguez
+10458;18325392B;25/07/2026;16:16;castilla la mancha;81;H;Fibra 600Mb;107.41;3;Sí;3;AVERIA TECNICA;806;Luciano Gómez
+10094;41298022W;08/11/2026;08:40;VALENCIA;74;Mujer;FIBRA 600;84,71;7;s;0;;269;Federico Álvarez
+10165;24451504M;24/08/2025;10:01;Castilla la Mancha;86;m;Fibra 600Mb;49,72;5;s;1;Avería técnica;151;Federico Álvarez
+10472;51382703L;2026-05-06;12:50;CASTILLA LA MANCHA;56;h;Móvil 50GB;26,65;3;n;1;Atención al cliente;185;Federico Álvarez
+11151;77761503V;19/11/2026;15:28;MADRID;64;1;Móvil 20GB;92.45;5;s;2;Atención al cliente;4;Gertrudis Pérez
+10923;97915306K;23/06/2025;17:10;Castilla La Mancha ;18;Mujer;Móvil 50GB;51.82;10;S;2;;895;Ana Ruiz
+10798;20907492F;01/11/2025;21:45;MADRID;30;M;Fibra+Móvil;61,79;9;n;;;406;Luciano Gómez
+11166;70444520D;14-09-25;16:28;cataluña;46;Mujer;Móvil 50GB;99.59;;;0;;701;Menchu Rodriguez
+11018;96263131N;03/04/2025;16:34;andalucía;60;M;TV Premium;28,93 €;3;NO;0;;53;Ana Ruiz
+11003;71717839T;05/08/2025;11:59;Andalucia;199;H;TV Premium;153,64 €;3;s;0;;612;Federico Álvarez
+10414;74730008K;09/07/2025;15:12;valencia;74;Hombre;tv premium;108,76 €;6;s;0;;697;Federico Álvarez
+10631;14350588E;06/19/2026;12:24;CATALUÑA;23;Hombre;tv premium;149,22 €;5;No;3;Avería técnica;616;Manuel Sánchez
+10494;29460218G;04-04-26;17:56;Catalunya;0;H;Fibra600;181,30;10;s;1;facturacion;83;Menchu Rodríguez
+10365;25150408P;2026-04-05;20:29;castilla la mancha;999;m;MOVIL 20GB;63.65;6;N;0;;130;Federico Álvarez
+10955;71645340V;2026-12-22;09:08;C. Madrid;61;m;Fibra 600Mb;119,82;3;S;0;;11200;Federico Álvarez
+11134;16508690X;17/08/2026;17:17;Catalunya;45;H;MOVIL 20GB;81,59;;SI;0;;586;Luciano Gómez
+10746;12186813G;22/05/2025;16:00;CATALUÑA;0;m;Fibra 600Mb;178.99;10;;1;AVERIA TECNICA;664;Federico Álvarez
+10120;45590319K;2025-06-15;13:56;Castilla La Mancha ;;M;Fibra+Móvil;84.87;1;No;;;639;Manuel Sánchez
+10392;68770569A;27/09/2026;10:52;andalucía;49;M;TV Premium;26,71 €;3;n;1;Facturación;151;Luciano Gómez
+10807;33136628D;2026-11-06;08:57;Castilla la Mancha;66;h;FIBRA 600;187,80 €;1;s;4;;629;Gertrudis Pérez
+10971;77682365P;26-05-26;16:26;MADRID;64;h;Fibra 600Mb;9363;10;n;1;Avería técnica;406;Ana Ruiz
+10102;64222791F;2026-04-01;19:37;C. Valenciana;62;M;tv premium;176,14 €;;s;2;Instalación;7;Federico Álvarez
+10874;88554487V;20/11/2026;08:41;Comunidad Valenciana;999;M;FIBRA 600;47.95;;s;2;Atención al cliente;584;Federico Álvarez
+10297;43601363S;09/06/2025;17:56;valencia;50;m;Fibra600;79,40;5;s;2;Atención al cliente;449;Ana Ruiz
+11046;47262066W;03/11/2026;17:42;C. Valenciana;45;1;Fibra 600Mb;;9;N;1;;166;Menchu Rodríguez
+10315;37594160Q;2025-04-07;10:38;Comunidad de Madrid;29;h;FIBRA 600;166,13;;NO;0;;886;Menchu Rodriguez
+11023;63651141X;11/04/2026;13:30;Castilla la Mancha;71;m;FIBRA 600;39,46;6;No;0;;128;Ana Ruiz
+10613;99680542R;01-10-25;20:03;madrid;199;2;Móvil 20GB;137,81;;SI;0;;313;Gertrudis Pérez
+11161;17327790X;07/08/2026;09:26;ANDALUCIA;20;2;FIBRA 600;188,64;4;No;1;Facturación;7;Gertrudis Pérez
+10819;59407382E;03/03/2026;15:07;C. La Mancha;64;M;Fibra+Móvil;23,92 €;8;NO;0;;206;Manuel Sánchez
+10969;81678827P;2026-05-21;21:23;Catalunya;19;Hombre;Móvil 20GB;60,46;10;;3;Instalación;78;Menchu Rodriguez
+10302;45077732P;01/12/2026;12:44;Comunidad Valenciana;58;2;tv premium;50,07;9;s;0;;95;Menchu Rodríguez
+10194;87688641G;15/04/2026;08:57;VALENCIA;27;Hombre;FIBRA 600;165,24 €;7;S;2;Atención al cliente;587;Federico Álvarez
+10661;71732751V;14/12/2026;12:06;C. La Mancha;38;H;Móvil 20GB;;;SI;;;111;Menchu Rodriguez
+10625;31028938R;2026-11-25;14:32;CATALUÑA;77;Hombre;Fibra+Móvil;133,90;9;NO;1;Portabilidad;585;Gertrudis Pérez
+10666;33386543Q;2025-06-22;14:59;CLM;42;Mujer;Móvil 50GB;170,62;8;SI;2;Instalación;794;Menchu Rodríguez
+10463;36174459G;20-05-25;13:22;CATALUÑA;32;H;Fibra 600Mb;88,60;;NO;1;Portabilidad;500;Menchu Rodríguez
+11136;11700270Z;08/09/2025;11:55;Cataluña;62;Mujer;FIBRA + MOVIL;4004;6;Sí;2;Facturación;209;Manuel Sánchez
+10519;28196987L;2025-06-23;15:17;Castilla-La Mancha;60;1;Fibra 600Mb;127,81;10;n;2;facturacion;775;Federico Álvarez
+11053;47882061F;19/12/2026;08:30;Andalucía;20;1;TV Premium;159,53;10;No;;;812;Gertrudis Pérez
+10126;35945849D;27/06/2025;11:29;C. Valenciana;41;1;Fibra 600Mb;75.54;9;n;3;;208;Gertrudis Pérez
+10968;77731712G;26/04/2025;21:35;C. Valenciana;22;2;tv premium;11545;1;n;0;;684;Menchu Rodriguez
+11073;55157934Y;07/10/2025;20:14;CATALUÑA;82;H;Móvil 50GB;187,41 €;4;SI;0;;274;Luciano Gómez
+10842;51976249Y;21/05/2025;10:59;madrid;39;m;Fibra 600Mb;107,20;;Sí;2;Portabilidad;11200;Ana Ruiz
+10105;98757339F;11/02/2026;10:44;Comunidad Valenciana;87;M;Fibra600;;7;;0;;190;Federico Álvarez
+10049;66637424F;2025-09-17;08:25;Madrid;39;Hombre;Móvil 20GB;;4;N;4;Instalación;477;Menchu Rodríguez
+10275;11646784T;16-11-25;14:30;Castilla-La Mancha;44;Mujer;Móvil 50GB;16768;3;;2;Avería técnica;11200;Gertrudis Pérez
+11109;57441306Z;08/07/2025;17:06;Comunidad de Madrid;54;Hombre;TV Premium;155,00;;No;1;Atención al cliente;592;Menchu Rodriguez
+10386;86214585V;14-12-25;21:16;CATALUÑA;76;M;TV Premium;85,41;6;s;2;;161;Menchu Rodríguez
+10219;92510793V;2026-10-27;16:50;Andalucía;66;Mujer;Fibra600;55.40;4;s;0;;266;Manuel Sánchez
+10053;58598500T;07/09/2026;15:15;Comunidad Valenciana;46;Hombre;Móvil 50GB;117,90;6;SI;1;AVERIA TECNICA;237;Manuel Sánchez
+10580;37758194C;28/07/2026;10:57;C. Valenciana;77;1;Fibra+Móvil;10937;5;No;1;Instalación;82;Manuel Sánchez
+10985;82549680H;2026-08-14;20:07;Castilla La Mancha ;199;Hombre;Fibra 600Mb;101,94;;;4;AVERIA TECNICA;76;Menchu Rodriguez
+10397;42930680F;04-10-25;09:38;CASTILLA LA MANCHA;53;M;Móvil 20GB;125,20;;S;0;;840;Manuel Sánchez
+10884;81011335H;28/05/2026;14:41;Madrid;42;Hombre;TV Premium;160.60;9;SI;0;;327;Menchu Rodríguez
+10860;54211519M;18/04/2026;18:00;ANDALUCIA;43;2;MOVIL 20GB;136,29;4;s;4;;7;Menchu Rodriguez
+10228;97908968A;2026-05-14;12:10;Comunidad Valenciana;82;m;MOVIL 20GB;161,51;8;S;1;Instalación;11200;Manuel Sánchez
+10255;50312642C;09/11/2025;21:28;castilla la mancha;87;Hombre;Móvil 50GB;158,97;3;s;3;Portabilidad;374;Federico Álvarez
+90030;68854810L;2026-05-01;21:10;Catalunya;83;m;MOVIL 20GB;84,73;3;s;0;;7;Ana Ruiz
+10388;14585449D;2026-07-21;19:20;Comunidad de Madrid;53;Mujer;MOVIL 20GB;58,25;10;N;2;Facturación;862;Menchu Rodriguez
+11194;29731843S;2025-12-24;21:33;andalucía;21;h;Móvil 20GB;131.14;6;N;0;;4;Menchu Rodríguez
+10350;50138799D;25/06/2026;20:08;Castilla-La Mancha;199;H;FIBRA + MOVIL;;;;1;Instalación;689;Menchu Rodríguez
+10637;27986981J;25-08-25;09:20;CLM;;H;Fibra 600Mb;;2;s;2;AVERIA TECNICA;103;Federico Álvarez
+10423;26377569Z;2026-01-14;19:09;valencia;;H;Fibra 600Mb;93,81 €;10;n;3;Portabilidad;875;Menchu Rodríguez
+10648;64567118Y;2026-05-13;16:48;Castilla la Mancha;47;m;FIBRA + MOVIL;53.82;10;NO;0;;58;Ana Ruiz
+11055;51098868G;05-07-25;15:44;Castilla La Mancha ;82;1;TV Premium;20,78;10;SI;0;;325;Federico Álvarez
+10865;32074746W;04/08/2026;17:08;cataluña;999;h;Móvil 50GB;37,30 €;7;No;;;7;Federico Álvarez
+10237;66448765C;01/02/2026;09:03;Castilla La Mancha ;73;m;Móvil 20GB;119,44;2;Sí;0;;265;Federico Álvarez
+10663;18337806R;2026-08-19;11:49;VALENCIA;65;m;Fibra+Móvil;85,13 €;2;SI;1;Portabilidad;734;Federico Álvarez
+10256;99629810A;14/11/2026;18:37;Comunidad Valenciana;64;h;FIBRA + MOVIL;72,40;9;S;1;;543;Ana Ruiz
+11183;72831199A;05/06/2026;17:03;C. La Mancha;199;Mujer;TV Premium;96.62;4;No;1;;163;Luciano Gómez
+11182;39674599R;17/06/2025;15:01;Cataluña;23;2;FIBRA 600;118,70;;Sí;2;facturacion;604;Menchu Rodríguez
+10836;72223918A;20/12/2026;16:20;Catalunya;86;h;Móvil 20GB;;1;No;0;;559;Federico Álvarez
+11000;27379123L;18/05/2026;10:10;Castilla La Mancha ;18;Hombre;Fibra+Móvil;143,09;1;N;4;facturacion;401;Federico Álvarez
+10125;30794330T;26/08/2026;09:58;Castilla-La Mancha;40;H;Fibra600;28,20;5;No;;;77;Manuel Sánchez
+10927;90346064T;12/07/2026;15:58;Andalucía;43;H;Móvil 20GB;35.67;;No;;;646;Gertrudis Pérez
+10737;85544819Y;23/10/2026;09:22;MADRID;69;M;tv premium;42,56 €;9;s;4;Instalación;141;Manuel Sánchez
+10831;19073478B;03-02-25;09:04;C. La Mancha;999;1;Fibra600;33,48;7;s;4;Portabilidad;105;Ana Ruiz
+11094;95975660F;23/12/2026;17:20;Andalucía;67;Hombre;FIBRA + MOVIL;32,05 €;1;SI;0;;405;Luciano Gómez
+10957;92528250R;08/08/2026;13:46;CLM;199;1;FIBRA + MOVIL;132,41;;NO;0;;793;Manuel Sánchez
+10453;27220917S;2025-08-04;18:40;valencia;87;1;FIBRA 600;;8;n;1;Avería técnica;709;Ana Ruiz
+10020;21932449Y;24/07/2025;21:41;Catalunya;32;1;Móvil 50GB;;5;NO;2;Atención al cliente;346;Ana Ruiz
+10434;99540141K;20/09/2026;16:09;VALENCIA;36;2;FIBRA + MOVIL;96,13 €;3;;0;;486;Menchu Rodriguez
+11162;76105020Z;03/08/2026;13:09;cataluña;55;M;Fibra600;27.26;5;;2;Instalación;620;Manuel Sánchez
+10716;95582799N;28/04/2026;11:16;Catalunya;71;H;Fibra 600Mb;165,56;5;NO;4;Instalación;146;Gertrudis Pérez
+10598;34707191L;23/06/2025;17:04;madrid;53;m;TV Premium;152,22;10;N;2;Instalación;483;Menchu Rodriguez
+11188;88823572G;19/09/2026;20:03;CASTILLA LA MANCHA;-3;1;Fibra600;63,67;2;NO;1;;554;Federico Álvarez
+10869;25483377F;2025-09-20;12:34;C. Valenciana;199;m;Fibra600;188,11 €;;No;0;;743;Gertrudis Pérez
+10209;46140798W;26-07-26;14:02;valencia;0;H;Móvil 50GB;;8;NO;;;387;Gertrudis Pérez
+10940;33169369J;10/08/2026;08:09;ANDALUCIA;41;1;Fibra 600Mb;167,07;3;NO;2;facturacion;462;Luciano Gómez
+10578;21357988E;09-02-25;17:36;cataluña;80;Mujer;Móvil 20GB;26,60;10;;2;;8400;Ana Ruiz
+10399;61366199N;2026-03-05;12:14;Andalucia;51;M;Fibra+Móvil;137,81;5;S;;;389;Gertrudis Pérez
+10295;39471591R;24/11/2025;10:49;VALENCIA;49;Hombre;Fibra600;51,07 €;8;Sí;2;;615;Federico Álvarez
+10044;30485872R;09/09/2026;09:40;Castilla la Mancha;56;Hombre;TV Premium;54,13;4;s;3;Facturación;744;Menchu Rodríguez
+10431;17412639P;01/04/2026;12:04;C. Madrid;21;m;Móvil 50GB;93,61;1;No;2;facturacion;415;Gertrudis Pérez
+10615;18169592N;28/12/2025;17:46;Comunidad Valenciana;85;Mujer;MOVIL 20GB;92,97;4;N;1;AVERIA TECNICA;8400;Federico Álvarez
+10550;78687632C;06-06-26;16:01;Andalucía;199;H;tv premium;92,01;;n;0;;347;Menchu Rodriguez
+10021;54004703R;05/06/2026;17:16;ANDALUCIA;80;H;Fibra600;30,39;3;n;4;Portabilidad;131;Gertrudis Pérez
+10069;96294765V;19-08-25;12:54;valencia;74;H;FIBRA + MOVIL;;5;N;2;Atención al cliente;7;Luciano Gómez
+10652;92919857H;2025-06-14;09:56;Comunidad Valenciana;32;Hombre;Móvil 50GB;89.48;;Sí;0;;481;Manuel Sánchez
+10784;11933198C;01/12/2025;18:50;VALENCIA;47;H;MOVIL 20GB;146,04 €;6;N;2;Atención al cliente;561;Manuel Sánchez
+10524;75380788N;19/09/2026;13:20;Castilla la Mancha;;h;Fibra 600Mb;61,93 €;8;No;4;Portabilidad;771;Federico Álvarez
+10758;47353347T;07/04/2025;18:11;CLM;53;1;Móvil 20GB;30.57;10;;0;;7;Menchu Rodríguez
+10867;85054832P;2026-02-06;17:02;CLM;44;2;FIBRA + MOVIL;187,79 €;5;N;1;Avería técnica;8400;Ana Ruiz
+10690;51357036R;03/07/2026;20:16;Cataluña;51;M;tv premium;29.30;;;3;Portabilidad;801;Manuel Sánchez
+11153;35569433V;21/08/2026;11:30;Madrid;45;M;FIBRA + MOVIL;140,12;;SI;2;Portabilidad;325;Gertrudis Pérez
+10942;87011146G;11-06-25;17:36;CASTILLA LA MANCHA;66;H;MOVIL 20GB;118,21;1;No;2;AVERIA TECNICA;297;Menchu Rodriguez
+10299;98526585J;2026-12-09;17:42;Catalunya;199;M;Fibra+Móvil;127,31 €;4;N;1;Portabilidad;136;Manuel Sánchez
+10797;77112208A;2025-07-16;21:18;Castilla-La Mancha;65;Hombre;tv premium;91,36;;s;;;763;Menchu Rodríguez
+10914;32703262N;17/10/2026;17:33;Comunidad de Madrid;79;m;Móvil 20GB;126.83;1;Sí;2;Portabilidad;677;Menchu Rodríguez
+10542;60814108A;2026-12-16;16:03;CASTILLA LA MANCHA;49;m;Fibra+Móvil;118,64;3;S;1;Instalación;488;Menchu Rodriguez
+10996;22979877K;19-09-25;13:20;Castilla La Mancha ;999;h;Fibra600;32.76;;S;1;facturacion;131;Manuel Sánchez
+10113;52510777P;04/12/2025;13:43;andalucía;65;Mujer;Fibra+Móvil;160.99;7;NO;1;Portabilidad;704;Ana Ruiz
+10694;10406940P;07/12/2026;20:15;MADRID;83;H;Fibra+Móvil;77.59;;s;2;Portabilidad;165;Luciano Gómez
+10240;61144695Y;04/07/2026;15:39;Madrid;79;h;tv premium;137,61;1;n;;;419;Menchu Rodríguez
+10879;58044472T;23/06/2025;14:34;VALENCIA;59;M;TV Premium;124,63;1;n;1;Atención al cliente;798;Ana Ruiz
+10763;57303782X;21-07-25;11:21;castilla la mancha;79;Hombre;Móvil 20GB;;1;Sí;0;;616;Menchu Rodriguez
+10845;23793167P;06/12/2026;09:01;cataluña;49;Hombre;FIBRA + MOVIL;50,62;;NO;1;Instalación;869;Ana Ruiz
+10574;78154241X;2026-10-05;10:22;Catalunya;46;2;TV Premium;152.83;10;N;3;AVERIA TECNICA;747;Gertrudis Pérez
+10552;58298959V;2026-04-08;11:29;Castilla La Mancha ;20;Mujer;FIBRA 600;125,35;;n;1;Facturación;4;Gertrudis Pérez
+10284;32957128G;23/01/2025;20:40;CATALUÑA;36;1;FIBRA + MOVIL;57,63 €;6;Sí;1;AVERIA TECNICA;151;Ana Ruiz
+90772;67799902H;27/03/2026;10:16;Andalucía;34;m;FIBRA 600;;7;Sí;3;Atención al cliente;272;Menchu Rodríguez
+10772;85628708J;12/09/2026;13:14;Cataluña;64;1;tv premium;93,17;3;N;2;AVERIA TECNICA;180;Gertrudis Pérez
+10402;86500984T;2026-06-22;10:57;Castilla La Mancha ;62;H;FIBRA + MOVIL;50.51;;NO;1;Facturación;630;Gertrudis Pérez
+10293;98626073N;16/07/2026;11:30;ANDALUCIA;52;h;Móvil 50GB;;8;n;3;Avería técnica;4;Federico Álvarez
+10266;29105497C;05-05-26;19:42;MADRID;48;1;MOVIL 20GB;100.71;;n;0;;597;Luciano Gómez
+10773;78261552D;15-11-26;08:21;C. Madrid;38;M;Fibra+Móvil;50,87 €;1;No;;;843;Menchu Rodríguez
+10079;67190382V;23/09/2025;08:17;valencia;;2;tv premium;175,93;4;;;;166;Luciano Gómez
+10788;69345996R;25-06-25;11:55;Andalucia;32;h;Móvil 20GB;161,97;7;S;4;;754;Manuel Sánchez
+11152;31913715C;23/09/2026;09:19;valencia;86;2;Móvil 50GB;112.53;4;N;1;AVERIA TECNICA;372;Ana Ruiz
+10157;26967521R;2026-08-03;14:03;Catalunya;24;h;Móvil 20GB;61,57;;;0;;397;Menchu Rodriguez
+10352;26299427K;19-03-26;09:17;valencia;67;m;FIBRA 600;23.98;6;N;0;;489;Luciano Gómez
+10706;36913274T;06-09-26;16:40;Castilla la Mancha;-3;Mujer;Fibra 600Mb;45,98;9;;0;;233;Menchu Rodríguez
+11154;16767247K;17/06/2026;09:42;andalucía;72;Hombre;Móvil 20GB;170,70;1;S;1;;76;Federico Álvarez
+10261;40830985J;08/21/2025;10:02;Castilla-La Mancha;76;Mujer;FIBRA + MOVIL;25.35;;NO;1;;376;Menchu Rodriguez
+10653;75201495B;2025-06-24;13:23;Andalucia;27;1;Fibra 600Mb;53,16;5;Sí;3;Portabilidad;252;Menchu Rodriguez
+10995;32258622T;2026-12-24;10:24;MADRID;23;Mujer;Móvil 20GB;118,72 €;10;NO;4;Instalación;898;Menchu Rodríguez
+10750;26418311F;24/09/2025;18:43;Comunidad de Madrid;21;2;Fibra 600Mb;107,84;2;S;2;Instalación;218;Manuel Sánchez

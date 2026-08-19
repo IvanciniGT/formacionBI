@@ -22,3 +22,7 @@ generador/
 
 # Tests con las respuestas marcadas: no se publican
 notas/tests/
+
+# Soluciones de las prácticas: no se publican
+practicas/**/SOLUCION-*
+practicas/**/generar_datos.py
