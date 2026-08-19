@@ -1,6 +1,6 @@
 # Práctica · Preparación de los datos de un call-center
 
-**Sesión 3 · segundo bloque · 1 h 45 min**
+**Sesión 3 · segundo bloque · trabajo individual**
 
 ---
 
@@ -13,12 +13,23 @@ anotadas a mano por los operadores del call-center a lo largo de dos años.
 Dirección quiere un cuadro de mando con la satisfacción de los clientes, para
 decidir dónde invertir en atención al cliente el año que viene.
 
-Vuestro trabajo **no es** hacer el cuadro de mando. Es lo de antes, que es lo que
-de verdad cuesta: **dejar los datos en condiciones**.
+Tu trabajo **no es** hacer el cuadro de mando. Es lo de antes, que es lo que de
+verdad cuesta: decidir cómo hay que dejar estos datos.
 
-> Estos mismos datos son los que modelaréis mañana y los que alimentarán el cuadro
-> de mando de la semana que viene. Lo que hagáis hoy lo vais a arrastrar hasta el
+> Estos mismos datos son los que modelaremos mañana y los que alimentarán el cuadro
+> de mando de la semana que viene. Lo que decidas hoy lo vas a arrastrar hasta el
 > final del curso.
+
+---
+
+## LA REGLA
+
+**Hoy no se toca ni una sola celda del fichero.**
+
+Hoy se diagnostica, no se opera. Puedes filtrar, ordenar, hacer tablas dinámicas y
+contar todo lo que quieras. Lo que no puedes es corregir un dato.
+
+El entregable es un **documento de decisiones**, no un fichero limpio.
 
 ---
 
@@ -46,65 +57,110 @@ operador                    Operador que hizo la llamada
 
 ---
 
+## En qué orden trabajar
+
+Hazlas en **este** orden, no en el del fichero. Las cinco primeras son las que
+enseñan; el resto es refuerzo.
+
+```
+ 1  satisfaccion_1_10
+ 2  num_incidencias_previas   ┐ van juntas
+ 3  tipo_primera_incidencia   ┘
+ 4  comunidad
+ 5  importe_ultima_factura
+ 6  edad
+ 7  dni
+ 8  fecha_llamada
+ 9  sexo
+10  recomendaria
+11  producto_contratado
+12  operador
+13  duracion_llamada_seg
+14  hora_llamada
+15  id_encuesta
+```
+
+Si no llegas a las quince, no pasa nada. Si no llegas a las cinco primeras, sí.
+
+---
+
+## Cómo perfilar cada columna
+
+Una **tabla dinámica** con la columna en filas y en valores te da, en menos de un
+minuto, todos los valores distintos con su recuento. Es la herramienta correcta y la
+vas a usar el resto de tu vida profesional. Lo veremos en pantalla con `comunidad`
+antes de empezar.
+
+Para lo demás: `CONTAR.BLANCO` para los huecos, `CONTAR.SI` o un filtro para los
+valores fuera de rango, y **Formato condicional › Duplicados** para los repetidos.
+
+⚠️ **Dos excepciones.** En `fecha_llamada` y en `importe_ultima_factura` no
+intentes contar con fórmulas: recorre la columna de arriba abajo con la vista y
+anota lo que veas raro. Ahí lo que importa no es cuántos hay, es **haberlos visto**.
+
+---
+
 ## Lo que hay que entregar
 
 ### 1 · La ficha de preparación
 
-Una fila por columna del fichero, con estas seis decisiones:
+Una fila por columna, con estas cinco decisiones:
 
-| Columna | Tipo estadístico | Tipo informático y bytes | Problemas detectados | Transformación propuesta | ¿Se recodifica? |
-|---|---|---|---|---|---|
-| | Nominal / Ordinal / Cuantitativo | Entero corto, texto, fecha… | | | Sí / No |
+| Columna | Tipo estadístico | Tipo informático y bytes | Problemas detectados | Transformación propuesta |
+|---|---|---|---|---|
+| | Nominal / Ordinal / Cuantitativo | El más pequeño que sirva | Con cuántas filas afecta | Y si se recodifica o no |
 
-Para el **tipo estadístico**, acordaos de la pregunta que decide: ¿tiene unidad de
-medida? Y cuidado, que hay al menos una columna que parece cuantitativa y no lo es.
+Para el **tipo estadístico**, la pregunta que decide es siempre la misma: ¿tiene
+unidad de medida? Cuidado, que hay al menos una columna que parece cuantitativa y
+no lo es.
 
-Para el **tipo informático**, elegid el tipo más pequeño que sirva. Justificad el
-tamaño: cuántos valores distintos necesitáis representar.
+Para el **tipo informático**, elige el tipo más pequeño que sirva, y justifica el
+tamaño: cuántos valores distintos necesitas poder representar.
 
-### 2 · El inventario de problemas de calidad
+### 2 · Los valores perdidos
 
-Para cada problema que encontréis, anotad: **qué columna afecta, cuántas filas,
-y qué proponéis hacer**. No vale «limpiar»: hay que decir cómo.
-
-### 3 · El tratamiento de los valores perdidos
-
-Hay huecos en el fichero. **No todos significan lo mismo.** Separadlos en:
+Hay huecos en el fichero. **No todos significan lo mismo.** Sepáralos en:
 
 - **No aplica** — la pregunta no tenía sentido para ese cliente. No genera incertidumbre.
 - **No informado** — el dato existe pero no lo tenemos. Sí genera incertidumbre.
 
-Y después responded a estas tres preguntas **con un intervalo**, no con un número:
+Y con eso, responde a esta pregunta **con un intervalo**, no con un número:
 
 ```
 ¿Qué porcentaje de clientes había tenido alguna incidencia previa?
-¿Qué porcentaje de clientes recomendaría la compañía?
-¿Cuál es la satisfacción media de los clientes que han tenido incidencias?
 ```
 
-### 4 · El cálculo del ahorro
+### 3 · El cálculo del ahorro
 
-Estimad cuánto ocupa una fila **tal y como viene el fichero**, y cuánto ocuparía
-**después de vuestras transformaciones**. Expresad el ahorro en porcentaje.
+Estima cuánto ocupa una fila **tal y como viene el fichero**, y cuánto ocuparía
+**después de tus transformaciones**. Expresa el ahorro en porcentaje.
 
-Después multiplicadlo por los 2.000.000 de encuestas reales que tiene la empresa, y
-traducidlo a euros con la cuenta del coste de almacenamiento empresarial que vimos:
-**30.000 € por cada 2 TB**.
+| Tipo | Tamaño |
+|---|---|
+| Booleano | 1 byte |
+| Entero corto (hasta 255) | 1 byte |
+| Entero mediano (hasta 65.535) | 2 bytes |
+| Entero largo | 4 bytes |
+| Decimal corto | 4 bytes |
+| Fecha | 4 bytes |
+| Fecha y hora | 8 bytes |
+| Texto | 1 byte por carácter simple, 2 si lleva tilde o ñ |
 
 ---
 
-## Cómo trabajamos
+## Si acabas antes
 
-```
-15'   Presentación del caso y primer vistazo al fichero
-45'   Trabajo en grupos: fichas 1, 2 y 3
-30'   Puesta en común, grupo por grupo
-15'   El cálculo del ahorro y cierre
-```
+Con tu ficha delante, contesta a esto:
+
+> Si tuvieras que llevar esta tabla a un almacén de datos para analizar la
+> satisfacción, ¿qué columnas serían **dimensiones** y cuáles **hechos**?
+> ¿Y qué harías con `satisfaccion_1_10`?
+
+Es literalmente por donde empezamos mañana.
 
 ---
 
-## Las preguntas que os tenéis que hacer
+## Las preguntas que te tienes que hacer
 
 1. ¿Qué mide realmente esta columna?
 2. ¿Tiene unidad de medida?
