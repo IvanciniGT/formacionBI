@@ -125,6 +125,31 @@ Estima cuánto ocupa una fila **tal y como viene el fichero**, y cuánto ocupar�
 | Fecha y hora | 8 bytes |
 | Texto | 1 byte por carácter; 2 si lleva tilde o ñ |
 
+### 4 · El cuadro de mando
+
+Esto se hace **al final**, con la ficha ya rellena. Ahora que sabes lo que hay
+dentro del fichero, y no antes:
+
+**a) Escribe cinco preguntas** que dirección debería poder responder con el cuadro
+de mando. Del estilo de *«¿la satisfacción es distinta según…?»* o *«¿ha mejorado…
+a lo largo del tiempo?»*.
+
+**b) Señala las columnas que no sirven para ninguna de tus cinco preguntas.**
+Prepararlas costaría lo mismo que las demás. ¿Merece la pena cargarlas?
+
+**c) ¿Qué columnas nuevas habría que calcular?** No están en el fichero, pero salen
+de lo que ya hay. Piensa en qué necesitarías para poder responder a tus preguntas.
+
+**d) ¿Y qué te falta que no está y no se puede calcular?** Aquí la respuesta
+incómoda es válida: puede que alguna de tus cinco preguntas **no se pueda contestar
+con estos datos**, y eso también es un resultado del análisis.
+
+**e)** Por último, mirando tu ficha: ¿qué columnas serían **dimensiones** —las que
+describen y sirven para filtrar y agrupar— y cuáles **hechos** —las que se miden—?
+¿Y qué harías con `satisfaccion_1_10`?
+
+> El apartado (e) es por donde empezamos la próxima sesión.
+
 ---
 
 ## En qué orden trabajar
@@ -196,14 +221,3 @@ Ante cada columna, siempre las mismas siete:
 6. ¿Puedo deducir esta columna a partir de otra?
 7. ¿Qué decisión de negocio se va a tomar con este dato?
 
----
-
-## Si acabas antes
-
-Con tu ficha delante, contesta a esto:
-
-> Si tuvieras que llevar esta tabla a un almacén de datos para analizar la
-> satisfacción, ¿qué columnas serían **dimensiones** y cuáles **hechos**?
-> ¿Y qué harías con `satisfaccion_1_10`?
-
-Es por donde empezamos la próxima sesión.
