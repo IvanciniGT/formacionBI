@@ -26,3 +26,6 @@ notas/tests/
 # Soluciones de las prácticas: no se publican
 practicas/**/SOLUCION*
 practicas/**/generar_datos.py
+
+# Exámenes con respuestas: no se publican
+examenes/
