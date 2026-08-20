@@ -264,22 +264,84 @@ TABLAS DE DIMENSION
     Son las tablas PEQUEÑAS y ANCHAS: pocas filas, muchas columnas.
     Dentro llevan: ATRIBUTOS, que casi siempre son textos.
 
-Y AHORA VIENE LO BUENO. Cómo sé yo qué es cada cosa?
+Y AHORA VIENE LO BUENO. Cómo decido yo qué va dónde?
 
-    PUES YA LO SABEIS DESDE EL PRIMER DIA:
+CUIDADO CON UN ATAJO QUE SE OYE MUCHO y que está mal dicho:
+"las cualitativas son dimensiones y las cuantitativas son hechos".
+Suena bien pero es falso por los dos lados. Vamos despacio.
 
-    DIMENSIONES  =  variables NOMINALES y ORDINALES
-    HECHOS       =  variables CUANTITATIVAS
+## Primero: DONDE ESTA EL DATO y DONDE ESTA SU CATALOGO
 
-Se acordáis de la pregunta que lo decidía todo? TIENE UNIDAD DE MEDIDA?
+Cuando ayer recodificasteis tipo_primera_incidencia, lo que pasa es esto:
 
-    Código postal   -> no tiene unidad -> NOMINAL   -> DIMENSION
-    Importe         -> euros           -> CUANTIT.  -> HECHO
-    Nivel estudios  -> no tiene unidad -> ORDINAL   -> DIMENSION
-    Nº de hijos     -> hijos           -> CUANTIT.  -> HECHO
+    EN CADA FILA DEL HECHO va el CODIGO:        ... | 2 | ...
+    EN LA DIMENSION va el CATALOGO:             2 = "Avería técnica"
 
-El que tiene claro el tipo estadístico de cada columna TIENE MEDIO MODELO HECHO.
-Por eso empezamos el curso por ahí y no por aquí.
+    O sea: EL VALOR SIGUE ESTANDO EN EL HECHO. Lo que se va a la dimensión
+    es la TRADUCCION. El diccionario que permite leer ese 2.
+
+No es que las cualitativas "se vayan" de la tabla de hechos. Es que su
+DESCRIPCION se guarda una sola vez en otro sitio, en vez de repetirla
+un millón de veces.
+
+## Segundo: hay 2 casos distintos, y no se comportan igual
+
+VALOR CATEGORICO
+    Un código y su etiqueta. Y se acabó. No tiene nada más detrás.
+        tipo de incidencia, forma de pago, canal, recomendaría sí/no
+    -> El código va en el hecho. La dimensión tiene 2 columnas y 8 filas.
+
+ENTIDAD
+    Algo que tiene MUCHOS atributos propios.
+        cliente, producto, tienda, empleado
+    -> En el hecho va SOLO LA CLAVE (id_cliente).
+       El nombre, el DNI, el sexo, la comunidad... viven en DIM_CLIENTE.
+       El nombre del cliente NO aparece en la tabla de hechos.
+
+    Por eso DIM_INCIDENCIA tiene 2 columnas y DIM_CLIENTE tiene 8.
+
+## Tercero: CUANTITATIVA NO ES LO MISMO QUE METRICA
+
+Y aquí es donde el atajo falla del todo. Mirad:
+
+    Edad del cliente          cuantitativa, en años   -> NO es una métrica
+    Metros cuadrados tienda   cuantitativa, en m²     -> NO es una métrica
+    Año de fabricación        cuantitativa            -> NO es una métrica
+
+Las tres tienen unidad de medida. Las tres son cuantitativas de libro.
+Y ninguna es un hecho. Por qué? Porque NO DESCRIBEN EL EVENTO: describen a
+alguien que participa en el evento.
+
+    LA PREGUNTA QUE LO DECIDE DE VERDAD:
+
+        Esto, ¿SE MIDE EN EL MOMENTO EN QUE PASA EL EVENTO?
+        Y si lo SUMO a lo largo de muchas filas, ¿el resultado significa algo?
+
+        SI a las dos  -> METRICA. Se queda en el hecho.
+        NO            -> ATRIBUTO. Vive en su dimensión.
+
+    Columna                    ¿Se mide en el evento?   Dónde vive
+    -------------------------------------------------------------------
+    Importe de la venta        SI, en esa venta         MÉTRICA
+    Unidades vendidas          SI                       MÉTRICA
+    Duración de la llamada     SI, en esa llamada       MÉTRICA
+    Edad del cliente           NO, es del cliente       Atributo DIM_CLIENTE
+    m² de la tienda            NO, es de la tienda      Atributo DIM_TIENDA
+
+    LA PRUEBA RAPIDA:
+        Sumo la columna en 1.000 filas. El resultado significa algo?
+        Sumar importes      -> da la facturación.     SI significa algo.
+        Sumar edades        -> no da NADA.            No es métrica.
+
+## Entonces, para qué sirve el tipo estadístico?
+
+Sirve, y mucho. Pero como PRIMER FILTRO, no como respuesta final:
+
+    NOMINAL u ORDINAL  ->  SEGURO que es contexto. Va a tener su catálogo.
+    CUANTITATIVA       ->  DEPENDE. Hay que preguntarse lo de arriba.
+
+El que tiene claro el tipo estadístico de cada columna lleva medio camino.
+Pero le queda la otra mitad.
 
 ## El modelo del call-center
 
@@ -357,9 +419,45 @@ Opciones que teníamos:
     ... las encuestas de un día
     ... las encuestas de un mes                        <- MINIMO DETALLE
 
-Y LA REGLA ES SIEMPRE LA MISMA:
+Ahora bien, CUIDADO: no penséis que un almacén tiene UN grano y ya está.
+Eso es otro atajo que se cuenta mucho y que es falso. Un almacén de verdad
+tiene VARIAS tablas de hechos y VARIOS granos. Por dos motivos distintos:
 
-    SE ELIGE EL GRANO MAS FINO QUE SEA VIABLE.
+## 1. Cada proceso de negocio tiene SU grano
+
+Y esto no es una excepción rara. Es lo normal:
+
+    HECHO_VENTAS        línea de ticket             el máximo detalle
+    HECHO_OBJETIVOS     tienda y mes                nadie pone objetivos por línea
+    HECHO_STOCK         producto, almacén y día     es una foto diaria
+
+Los tres conviven en el mismo modelo, y comparten dimensiones (la de fecha,
+la de tienda, la de producto). Cada uno con el grano que le corresponde.
+
+## 2. Y ENCIMA, agregados precalculados
+
+Si resulta que el 90% de las consultas de dirección van siempre por tienda y
+por mes... POR QUE VOY A RECORRER 40 MILLONES DE LINEAS DE TICKET CADA VEZ?
+
+    HECHO_VENTAS         línea de ticket             la tabla base
+    HECHO_VENTAS_DIA     tienda, producto y día      agregado precalculado
+    HECHO_VENTAS_MES     tienda, familia y mes       agregado precalculado
+
+Esto NO ES HACER TRAMPA. Es exactamente lo mismo que os conté con el día de la
+semana: precalcular lo que se va a consultar mucho. Solo que ahí precalculaba
+una COLUMNA y aquí precalculo FILAS ENTERAS.
+
+    Y TIENE SU COSTE, que hay que decirlo:
+    Cada agregado es UNA TABLA MAS que mantener, UN PROCESO DE CARGA MAS,
+    y UN SITIO MAS donde las cifras se pueden desviar. Si mañana alguien
+    cambia una regla de negocio y se olvida de actualizar un agregado,
+    tienes dos números distintos para la misma pregunta.
+
+## Y entonces qué regla queda?
+
+Solo una, y es sobre LA TABLA BASE:
+
+    LA TABLA BASE DE CADA PROCESO, AL DETALLE QUE PUEDAS PERMITIRTE.
 
 Por qué? Pues por lo mismo que os dije el primer día con las escalas de medida:
 
@@ -370,6 +468,9 @@ Por qué? Pues por lo mismo que os dije el primer día con las escalas de medida
     Al revés                                NUNCA
 
 Es exactamente el mismo principio.
+
+Los agregados los puedo reconstruir cuando quiera a partir del detalle.
+El detalle no lo reconstruyo a partir de nada.
 
     OJO CON ESTO, que es de las cosas que MAS DUELE en un proyecto:
 
@@ -433,6 +534,46 @@ Y CUAL USO?
     El copo de nieve compensa cuando la dimensión es ENORME (millones de filas)
     o cuando un nivel lo comparten varios hechos distintos.
     En vuestro fichero, con 5 comunidades y 5 productos? NI DE BROMA.
+
+## Y hoy se aplana todavía más
+
+Y aquí hay algo importante, que además enlaza con lo que os conté el otro día
+sobre el almacenamiento ORIENTADO A COLUMNAS.
+
+Los libros de modelo dimensional se escribieron en los noventa. Y entonces
+el almacenamiento era POR FILAS y el espacio en disco era carísimo. Repetir
+"Menchu Rodríguez" un millón de veces era impensable.
+
+HOY LA CUENTA ES OTRA. Y mucha gente, en lugar de sacar los datos a una
+dimensión, los DEJA APLANADOS en la propia tabla de hechos. Nombre incluido.
+
+    Por qué? PARA NO TENER QUE HACER EL JOIN.
+    Cada cruce entre tablas cuesta. Si me lo puedo ahorrar, me lo ahorro.
+
+Y no sale caro en espacio, y ahora viene lo bonito:
+
+    LOS MOTORES COLUMNARES HACEN LA NORMALIZACION ELLOS SOLOS, POR DENTRO.
+
+    Se llama DICTIONARY ENCODING. El motor ve que esa columna tiene 28.000
+    valores distintos repartidos en 40 millones de filas, y automáticamente
+    se monta su propio diccionario y guarda códigos.
+
+    O sea: por dentro acaba guardando EXACTAMENTE la estructura de código +
+    catálogo que hemos estado dibujando... pero SIN QUE TU TENGAS QUE HACER
+    EL JOIN al consultar.
+
+    Te sale gratis por los dos lados.
+
+Por eso en el mundo del data lake, con ficheros PARQUET, se aplana muchísimo
+más de lo que dicen los libros clásicos.
+
+    RESUMEN DE ESTO:
+    - El modelo en estrella es un modelo LOGICO. Dice qué describe y qué se mide.
+    - Que físicamente lo guardes en tablas separadas o aplastado en una sola
+      tabla ancha es UNA DECISION DE MOTOR, no de modelo.
+    - Y la distinción entre lo que describe y lo que se mide SOBREVIVE IGUAL
+      en la tabla aplastada. Lo que cambia es dónde está guardado, no qué es.
+      La edad del cliente sigue sin poderse sumar, esté donde esté.
 
 ## Jerarquías
 
