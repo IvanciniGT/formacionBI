@@ -8,6 +8,7 @@
 - GESTION DE PROYECTOS de BI: Metodologías, fases, roles y responsabilidades
 - Data mining / Machine Learning: Conceptos, tipos de algoritmos, aplicaciones
 - Piramide de la organización y de la información: Operacional, Táctica, Estratégica
+
 ---
 
 Planteamos un fichero EXCEL para encuestas de satisfacción. 11-12 variables.

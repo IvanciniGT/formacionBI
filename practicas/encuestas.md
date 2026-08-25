@@ -661,7 +661,7 @@ Lo que pasa es que hay mucho trabajo previo.
 La mayor parte del tiempo es análisis previo y preparación de los datos.
 
 HAY MAS VARIABLES EN ESTE CONJUNTO DE DATOS. LAS MIRAIS VOSOTROS!
-
+MAÑANA... Nos plantearemos COMO VAMOS A GUARDAR LOS DATOS y QUE ETLs NECESITAMOS CREAR PARA QUE LOS DATOS ESTEN DISPONIBLES PARA SU ANÁLISIS y poder montar los cuadros de mando.
 ---
 
 Nivel de satisfacción
